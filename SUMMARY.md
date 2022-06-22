@@ -12,3 +12,7 @@
 * [Metodología](group-1/metodologia.md)
 * [Evaluación](group-1/evaluacion.md)
 * [Medidas específicas](group-1/medidas-especificas.md)
+* [Fomento de la lectura](group-1/fomento-de-la-lectura.md)
+* [Utilización de las TIC](group-1/utilizacion-de-las-tic.md)
+* [Recursos](group-1/recursos.md)
+* [Actividades complementarias](group-1/actividades-complementarias.md)
