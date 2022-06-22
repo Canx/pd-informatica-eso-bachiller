@@ -2,17 +2,17 @@
 
 * [Actividades](README.md)
 
-## Group 1
+## PD: Programación, AI y robótica
 
-* [Introducción](group-1/introduccion.md)
-* [Objetivos](group-1/objetivos.md)
-* [Competencias básicas](group-1/competencias-basicas.md)
-* [Contenidos](group-1/contenidos.md)
-* [Unidades didácticas](group-1/unidades-didacticas.md)
-* [Metodología](group-1/metodologia.md)
-* [Evaluación](group-1/evaluacion.md)
-* [Medidas específicas](group-1/medidas-especificas.md)
-* [Fomento de la lectura](group-1/fomento-de-la-lectura.md)
-* [Utilización de las TIC](group-1/utilizacion-de-las-tic.md)
-* [Recursos](group-1/recursos.md)
-* [Actividades complementarias](group-1/actividades-complementarias.md)
+* [Introducción](pd-programacion-ai-y-robotica/introduccion.md)
+* [Objetivos](pd-programacion-ai-y-robotica/objetivos.md)
+* [Competencias básicas](pd-programacion-ai-y-robotica/competencias-basicas.md)
+* [Contenidos](pd-programacion-ai-y-robotica/contenidos.md)
+* [Unidades didácticas](pd-programacion-ai-y-robotica/unidades-didacticas.md)
+* [Metodología](pd-programacion-ai-y-robotica/metodologia.md)
+* [Evaluación](pd-programacion-ai-y-robotica/evaluacion.md)
+* [Medidas específicas](pd-programacion-ai-y-robotica/medidas-especificas.md)
+* [Fomento de la lectura](pd-programacion-ai-y-robotica/fomento-de-la-lectura.md)
+* [Utilización de las TIC](pd-programacion-ai-y-robotica/utilizacion-de-las-tic.md)
+* [Recursos](pd-programacion-ai-y-robotica/recursos.md)
+* [Actividades complementarias](pd-programacion-ai-y-robotica/actividades-complementarias.md)
