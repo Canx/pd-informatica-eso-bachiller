@@ -8,4 +8,4 @@
 
 ## UD 4: Robótica
 
-## UD 5: Proyectos de IA + robótica
+## UD 5: Proyectos de IA y robótica
