@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Actividades](README.md)
+* [Programciones didácticas](README.md)
 
 ## PD: Programación, AI y robótica
 
