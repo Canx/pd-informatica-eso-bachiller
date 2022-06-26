@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Programaciones didácticas](README.md)
-
 ## PD: Programación, AI y robótica
 
-* [Introducción](pd-programacion-ai-y-robotica/introduccion.md)
+* [Introducción](README.md)
 * [Objetivos](pd-programacion-ai-y-robotica/objetivos.md)
 * [Competencias básicas](pd-programacion-ai-y-robotica/competencias-basicas.md)
 * [Contenidos](pd-programacion-ai-y-robotica/contenidos.md)
