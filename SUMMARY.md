@@ -2,7 +2,8 @@
 
 ## PD: Programación, AI y robótica
 
-* [Introducción](README.md)
+* [Portada](README.md)
+* [Introducción](pd-programacion-ai-y-robotica/introduccion.md)
 * [Objetivos](pd-programacion-ai-y-robotica/objetivos.md)
 * [Competencias básicas](pd-programacion-ai-y-robotica/competencias-basicas.md)
 * [Contenidos](pd-programacion-ai-y-robotica/contenidos.md)
