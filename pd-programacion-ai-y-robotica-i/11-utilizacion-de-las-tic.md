@@ -1,2 +1,0 @@
-# Utilización de las TIC
-

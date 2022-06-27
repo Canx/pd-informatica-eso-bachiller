@@ -1,6 +1,0 @@
----
-description: Orientaciones didácticas
----
-
-# Metodología
-
