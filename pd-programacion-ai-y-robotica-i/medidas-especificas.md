@@ -1,0 +1,2 @@
+# Medidas específicas
+
