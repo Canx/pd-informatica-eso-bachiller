@@ -1,2 +1,0 @@
-# Competencias básicas
-
