@@ -5,7 +5,7 @@
 * [Portada](README.md)
 * [Introducción](pd-programacion-ai-y-robotica-i/introduccion.md)
 * [Objetivos](pd-programacion-ai-y-robotica-i/objetivos.md)
-* [Competencias básicas](pd-programacion-ai-y-robotica-i/competencias-basicas.md)
+* [Competencias](pd-programacion-ai-y-robotica-i/competencias.md)
 * [Contenidos](pd-programacion-ai-y-robotica-i/contenidos.md)
 * [Unidades didácticas](pd-programacion-ai-y-robotica-i/unidades-didacticas.md)
 * [Metodología](pd-programacion-ai-y-robotica-i/metodologia.md)
