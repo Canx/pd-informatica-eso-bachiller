@@ -52,4 +52,8 @@
 
 ## UD 3: Inteligencia artificial
 
+### Actividades
+
+* Clasificación de residuos con Teacheable Machine
+
 ## UD 4: Robótica y inteligencia artificial
