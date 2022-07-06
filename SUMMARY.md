@@ -4,9 +4,8 @@
 
 * [Portada](README.md)
 * [Introducción](pd-programacion-ai-y-robotica-i/introduccion.md)
-* [Objetivos](pd-programacion-ai-y-robotica-i/objetivos.md)
 * [Competencias](pd-programacion-ai-y-robotica-i/competencias-basicas.md)
-* [Contenidos](pd-programacion-ai-y-robotica-i/contenidos.md)
+* [Saberes básicos](pd-programacion-ai-y-robotica-i/contenidos.md)
 * [Unidades didácticas](pd-programacion-ai-y-robotica-i/unidades-didacticas.md)
 * [Metodología](pd-programacion-ai-y-robotica-i/metodologia.md)
 * [Evaluación](pd-programacion-ai-y-robotica-i/evaluacion.md)
@@ -15,3 +14,7 @@
 * [Utilización de las TIC](pd-programacion-ai-y-robotica-i/utilizacion-de-las-tic.md)
 * [Recursos](pd-programacion-ai-y-robotica-i/recursos.md)
 * [Actividades complementarias](pd-programacion-ai-y-robotica-i/actividades-complementarias.md)
+
+## Programación, redes y sistemas informáticos I
+
+* [Page 1](programacion-redes-y-sistemas-informaticos-i/page-1.md)
