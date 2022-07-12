@@ -28,9 +28,9 @@
 
 ### Criterios de evaluación
 
-CE1.1: Investigar y identificar situaciones donde se apliquen técnicas básicas de IA.
-CE1.2: Comprender los fundamentos y el funcionamiento de las técnicas básicas de IA.
-CE1.3: Comprender las implicaciones éticas y sociales de las técnicas básicas de IA.
+* CE1.1: Investigar y identificar situaciones donde se apliquen técnicas básicas de IA.
+* CE1.2: Comprender los fundamentos y el funcionamiento de las técnicas básicas de IA.
+* CE1.3: Comprender las implicaciones éticas y sociales de las técnicas básicas de IA.
 
 ## UD 2: Introducción a la programación
 
@@ -38,7 +38,7 @@ CE1.3: Comprender las implicaciones éticas y sociales de las técnicas básicas
 
 ### Competencias
 
-CE2: Aplicar el pensamiento computacional en el análisis y resolución de problemas básicos mediante el desarrollo de software.
+* CE2: Aplicar el pensamiento computacional en el análisis y resolución de problemas básicos mediante el desarrollo de software.
 
 ### Saberes básicos
 
@@ -49,9 +49,9 @@ CE2: Aplicar el pensamiento computacional en el análisis y resolución de probl
 
 ### Criterios de evaluación
 
-* Comprender y aplicar el pensamiento computacional como herramienta para resolver problemas básicos.
-* Analizar problemas elementales mediante la abstracción y modelización de la realidad.
-* Conocer los derechos de autoría y las licencias de derechos y explotación.
+* CE2.1: Comprender y aplicar el pensamiento computacional como herramienta para resolver problemas básicos.
+* CE2.2: Analizar problemas elementales mediante la abstracción y modelización de la realidad.
+* CE2.5: Conocer los derechos de autoría y las licencias de derechos y explotación.
 
 ## UD 2: Programación y Robótica
 
