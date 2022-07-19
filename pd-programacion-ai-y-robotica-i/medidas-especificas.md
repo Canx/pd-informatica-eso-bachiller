@@ -1,6 +1,6 @@
 # Medidas específicas
 
-## Inclusión
+## Inclusión y metodología DUA
 - Reducir la carga cognitiva y apoyarla mediante la introducción de vocabulario con soporte en imagen.
 - Enseñar competencias de forma rutinaria para que se conviertan en hábitos. Ejemplos: hacer login, guardar los trabajos en las carpetas correctas.
 - Introducir contenido en bloques más pequeños y practicar antes de avanzar contenido.
