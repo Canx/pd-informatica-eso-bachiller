@@ -1,4 +1,4 @@
-# Contenidos
+# Saberes básicos
 
 ## Bloque 1: Inteligencia artificial
 
