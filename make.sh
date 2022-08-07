@@ -19,7 +19,6 @@ for d in */ ; do
       done
     fi
   done
-  echo $ficheros
   cat $ficheros | md-to-pdf > ${PWD##*/}.pdf
   cd ..
 done
