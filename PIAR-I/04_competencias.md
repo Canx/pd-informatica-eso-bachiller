@@ -1,10 +1,10 @@
 # Competencias
 
-### Competencias básicas
+## Competencias básicas
 
 
 
-### Competencias específicas
+## Competencias específicas
 
 * CE1: Investigar, utilizar y desarrollar técnicas de inteligencia artificial y virtualización de la realidad en problemas básicos de la sociedad y seguir principio éticos y inclusivos.
 * CE2: Aplicar el pensamiento computacional en el análisis y la resolución de problemas básicos mediante el desarrollo de programas.
