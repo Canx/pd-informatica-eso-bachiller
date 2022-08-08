@@ -6,13 +6,12 @@ Theme Name: Linux Academy Study Guide Template 11-15-2019
 @font-face {font-family: PlexMono;src: url(../fonts/IBMPlexMono-Regular.ttf);}
 @font-face {font-family: PlexSansLight;  src: url(../fonts/IBMPlexSans-ExtraLight.ttf);}
 
-
 @page :first {
   size: portrait;
   padding:0cm;
   border-left-style: none;
   background:none;
-  background: url("imagenes/portada.png") no-repeat left;
+  background: url("images/portada.png") no-repeat left;
   background-size: 10cm;
   background-position: top 1cm left;
   margin-top:1cm;
@@ -249,7 +248,10 @@ ul li ul li ul {list-style-type: none;}
 .bn ul li ul li ul {list-style-type: none;}
 
 
-h1 {string-set:title content();}
+h1 {
+ string-set:title content();
+ page-break-before: always;
+}
 
 h2 {
  max-width:80%;
@@ -259,7 +261,6 @@ h2 {
  border-left: 1px solid #eee;
  border-right: 1px solid #aaa;
  border-bottom: 1px solid #aaa;
- page-break-before: always;
  font-size:1.5em;
  }
 

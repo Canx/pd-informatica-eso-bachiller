@@ -1,4 +1,4 @@
-# Competencias específicas y criterios de evaluación
+# Competencias
 
 ## Competencias específicas
 * CE1. Analizar problemas de diferentes contextos y tipos y afrontar su resolución mediante el desarrollo de software, aplicando el pensamiento computacional.
@@ -12,5 +12,14 @@
 * CE 5. Ejercer una ciudadanía digital crítica, responsable y solidaria frente a los principales retos de una sociedad digitalizada.
 
 ## Criterios de evaluación
+
+* CE1. Analizar problemas de diferentes contextos y tipos y afrontar su resolución mediante el desarrollo de software, aplicando el pensamiento computacional.
+  * 1.1. Analizar problemas de distintos contextos y tipos mediante la abstracción y modelización de la realidad.
+  * 1.2. Resolver problemas de complejidad media, aplicando el pensamiento computacional de forma guiada.
+  * 1.3. Programar de forma guiada aplicaciones de complejidad media y validarlas.
+  * 1.4. Aplicar y respetar los derechos de autoría, licencias de derechos y explotación durante la creación de software.
+
+* 2.1. Utilizar con precisión las unidades de medida y sistemas de representación de la información.
+
 
 
