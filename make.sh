@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # TODO: Si le pasamos el directorio solo hace ese directorio, en caso contrario procesa todos los directorios
-ignoredirs="fonts/ images/"
+ignoredirs="fonts/ images/ comun/"
 
 for d in */ ; do
   if [[ " $ignoredirs " =~ .*\ $d\ .* ]]; then
