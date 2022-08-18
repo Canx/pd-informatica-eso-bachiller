@@ -162,12 +162,13 @@ Theme Name: Linux Academy Study Guide Template 11-15-2019
   @bottom-right img {width:10%;padding-right:.2cm;padding-top:.1cm;z-index: -1;}
   }
 
-body { font-family: PlexSans;color: #000; line-height:1.25em;padding:.25cm;}
+body { font-family: PlexSans;color: #000; line-height:1.25em;padding:.25cm; text-align:justify}
 
 header{margin-left:1cm; margin-top:15cm;border-left: 1px solid #aaa;min-height:6.5cm;}
 #header_bottom_text{/*position:absolute;bottom:6.2cm;*/}
 
-h1.title {font-family:PlexSans;font-weight:100;font-size:2.5em;line-height:1em; padding-left:1cm;color:#87898C;}
+h1.title {font-family:PlexSans;font-weight:100;font-size:2.5em;line-height:1em; padding-left:1cm;color:#87898C;text-align:left;}
+
 p.subtitle{margin-left:1cm;margin-bottom:1.5cm;font-weight:bold;}
 p.author{margin-left:1cm;margin-top:0; margin-bottom:0;font-weight:bold;}
 p.email{margin-left:1cm;margin-top:0; margin-bottom:0;font-weight:bold;}
@@ -175,7 +176,7 @@ p.email a {color:#000;}
 p.date{margin-left:1cm;margin-top:0; margin-bottom:0;font-weight:bold;}
 
 #contentsbox { height:1.5cm; width:4cm; border-bottom:1px solid #aaa;margin-top:1.5cm;margin-bottom:1.5cm;}
-#contentsbox p {font-family:PlexSans;font-weight:100;font-size:2.5em;}
+#contentsbox p {font-family:PlexSans;font-weight:100;font-size:2.5em;text-align: justify}
 
 
 figure {
