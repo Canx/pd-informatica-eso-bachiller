@@ -1,0 +1,2 @@
+- [ ] Separar criterios de evaluación de las competencias específicas
+- [ ] Añadir descripciones de las competencias específicas

@@ -1,5 +1,3 @@
-# Competencias
-
 ## Competencias específicas y criterios de evaluación
 
 * CE1. Analizar problemas de diferentes contextos y tipos y afrontar su resolución mediante el desarrollo de software, aplicando el pensamiento computacional.
@@ -19,7 +17,7 @@
   * 3.2. Analizar el diseño de la arquitectura de una red informática para pequeños grupos de trabajo.
   * 3.3. Configurar y conectar de forma segura los eleentos de una red informática para pequeños grupos de trabajo.
 
-* CE4. Aprovechar y utilizar de manera eficiente sistemas de información conectaos en red para pequeños grupos de trabajo.
+* CE4. Aprovechar y utilizar de manera eficiente sistemas de información conectados en red para pequeños grupos de trabajo.
   * 4.1. Utilizar servicios compartidos de almacenamiento en red entre diferentes sistemas operativos en pequeños grupos de trabajo.
   * 4.2. Utilizar un servidor web local de manera segura, responsable y crítica.
   * 4.3. Valorar la importancia de las gestiones administrativas en red y el uso del certificado y firma digital.

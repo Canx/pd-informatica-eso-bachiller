@@ -27,7 +27,7 @@ for d in */ ; do
   done
   #cat $ficheros | md-to-pdf > ${PWD##*/}.pdf
   # Creamos la portada
-  pandoc --template="../template.html" -f markdown-smart --toc -c "./style.css" $ficheros -o ${PWD##*/}.html
+  pandoc --template="../template.html" -f markdown-smart --toc --toc-depth=2 -c "./style.css" $ficheros -o ${PWD##*/}.html
   python3 -m weasyprint "${PWD##*/}.html" "${PWD##*/}.pdf"
   rm style.css
   cd ..
