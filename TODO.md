@@ -1,2 +1,3 @@
-- [ ] Separar criterios de evaluación de las competencias específicas
+- [ ] Separar criterios de evaluación de las competencias específicas y añadir en apartado de Evaluación.
 - [ ] Añadir descripciones de las competencias específicas
+- [ ] Redactar los descriptores del perfil de salida de la ESO
