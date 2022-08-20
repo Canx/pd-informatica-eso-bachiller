@@ -4,10 +4,31 @@
 
 | Evaluación | Unidad didáctica                                        | Nº de sesiones |
 | ---------- | ------------------------------------------------------- | -------------- |
-| PRIMERA    | UD1: Introducción a la Programación, IA y Robótica      | ?              |
-| PRIMERA    | UD2: Programación                                       | ?              |
-| SEGUNDA    | UD3: Proyectos de robótica                              | ?              |
-| TERCERA    | UD4: Proyectos de robótica y Inteligencia Artificial    | ?              |
+| 1          | UD1: Introducción a la Programación, IA y Robótica      | ?              |
+| 1          | UD2: Programación                                       | ?              |
+| 2          | UD3: Proyectos de robótica                              | ?              |
+| 3          | UD4: Proyectos de robótica y Inteligencia Artificial    | ?              |
+
+## UD 1: Pensamiento computacional
+
+### Introducción
+
+### Competencias y criterios de evaluación
+
+### Saberes básicos
+
+### Sesiones
+
+#### Sesión 1: XXXXXXX
+
+* Tipo: Adquisición + Discusión + Investigación + Producción 
+* Evaluación: formativa
+* Descripción:
+
+##### Recursos
+
+
+
 
 ## UD 1: Introducción a la IA
 
