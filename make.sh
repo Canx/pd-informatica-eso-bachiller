@@ -4,11 +4,8 @@
 ignoredirs="fonts/ images/ comun/"
 
 # Preprocesamos los archivos de tablas de ODS > CSV > MD
-libreoffice_cmd="/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=libreoffice --file-forwarding org.libreoffice.LibreOffice --convert-to csv --infilter=CSV:44,34,76,1 --outdir . "
+libreoffice_cmd="libreoffice7.4 --convert-to csv --infilter=CSV:44,34,76,1 --outdir . "
 for d in */ ; do
-  if [[ " $ignoredirs " =~ .*\ $d\ .* ]]; then
-    continue;
-  fi
   cd $d
 
   for file in $(ls); do

@@ -8,3 +8,16 @@
 
 ## 1º BACHILLER
 * [Programación redes y sistemas informáticos I](./PRESI-I)
+
+# Generación de PDFs
+
+'''
+./make.sh
+'''
+
+## Prerequisitos
+
+* Libreoffice 7.4
+* Pandoc
+* csv2md
+* weasyprint
