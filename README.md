@@ -11,13 +11,15 @@
 
 # Generación de PDFs
 
-'''
-./make.sh
-'''
-
 ## Prerequisitos
 
 * Libreoffice 7.4
 * Pandoc
 * csv2md
 * weasyprint
+
+```
+./make.sh
+```
+
+
