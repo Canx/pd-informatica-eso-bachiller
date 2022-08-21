@@ -1,8 +1,6 @@
-# Unidades didácticas
+# Temporalización
 
-## Temporalización
-
-### Trimestral 
+## Trimestral 
 
 | Evaluación | Unidad didáctica |
 |------------|------------------|
@@ -13,4 +11,4 @@
 | 3          | UD5              |
 | 3          | UD6              |
 
-### Semanal
+## Semanal

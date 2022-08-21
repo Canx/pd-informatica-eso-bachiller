@@ -1,6 +1,6 @@
 # Metodología
 
-## Metodología DUA
+## Diseño Universal del Aprendizaje (DUA)
 
 La metodología DUA (Diseño Universal del Aprendizaje) fomenta la inclusividad de forma eficiente. Se estructura en 3 principios que intentan activar diferentes tipos de redes neuronales que se relacionan simultaneamente durante el aprendizaje. A continuación se enumeran y se dan algunos ejemplos de acción: 
 
