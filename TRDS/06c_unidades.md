@@ -1,16 +1,3 @@
-# Unidades didácticas
-
-## Temporalización
-
-| Evaluación | Unidad didáctica |
-|------------|------------------|
-| 1          | UD1              |
-| 1          | UD2              |
-| 2          | UD3              |
-| 2          | UD4              |
-| 3          | UD5              |
-| 3          | UD6              |
-
 ## UD1: Dispositivos digitales
 
 * Ordenador personal, dispositivos móviles y otros dispositivos de uso doméstico y educativo. (B1)

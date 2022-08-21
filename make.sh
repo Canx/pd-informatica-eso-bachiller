@@ -3,6 +3,25 @@
 # TODO: Si le pasamos el directorio solo hace ese directorio, en caso contrario procesa todos los directorios
 ignoredirs="fonts/ images/ comun/"
 
+# Preprocesamos los archivos de tablas de ODS > CSV > MD
+libreoffice_cmd="/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=libreoffice --file-forwarding org.libreoffice.LibreOffice --convert-to csv --infilter=CSV:44,34,76,1 --outdir . "
+for d in */ ; do
+  if [[ " $ignoredirs " =~ .*\ $d\ .* ]]; then
+    continue;
+  fi
+  cd $d
+
+  for file in $(ls); do
+    if [[ $file == *.ods ]]; then
+      echo "Convirtiendo tabla de $file..."
+      $libreoffice_cmd $file &>/dev/null
+      csv2md ${file%.*}.csv > ${file%.*}.md
+    fi
+  done
+  cd ..
+done
+
+# Generamos las programaciones
 for d in */ ; do
   if [[ " $ignoredirs " =~ .*\ $d\ .* ]]; then
     continue;
