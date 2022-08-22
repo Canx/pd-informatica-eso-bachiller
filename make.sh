@@ -23,9 +23,12 @@ current_dir=$(pwd)
 for file in $(find . -name '*.ods'); do
   echo "Convirtiendo tabla de $file..."
   file_dir=$(dirname "${file}")
-  libreoffice_cmd="libreoffice7.4 --convert-to csv --infilter=CSV:44,34,76,1 --outdir $file_dir "
+  libreoffice_cmd="libreoffice7.4 --convert-to csv --infilter=CSV:44,34,76,1,,,,,,,,-1 --outdir $file_dir "
   $libreoffice_cmd $file &>/dev/null
-  csv2md ${file%.*}.csv > ${file%.*}.md
+
+  for csv_file in ${file%.*}*.csv; do
+    csv2md $csv_file > ${csv_file%.*}.md
+  done
 done
 cd $current_dir
 

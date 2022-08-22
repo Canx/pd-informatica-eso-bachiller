@@ -2,4 +2,4 @@
 
 ## Semanal
 
-!include includes/temporalizacion_semanal.md
+!include includes/temporalizacion-semana.md
