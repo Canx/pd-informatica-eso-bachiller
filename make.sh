@@ -19,18 +19,15 @@ done
 ignoredirs="fonts/ images/ comun/ plantillas/"
 
 # Preprocesamos los archivos de tablas de ODS > CSV > MD
-libreoffice_cmd="libreoffice7.4 --convert-to csv --infilter=CSV:44,34,76,1 --outdir . "
-for d in $directorio ; do
-  cd $d
-  for file in $(ls); do
-    if [[ $file == *.ods ]]; then
-      echo "Convirtiendo tabla de $file..."
-      $libreoffice_cmd $file &>/dev/null
-      csv2md ${file%.*}.csv > ${file%.*}.md
-    fi
-  done
-  cd ..
+current_dir=$(pwd)
+for file in $(find . -name '*.ods'); do
+  echo "Convirtiendo tabla de $file..."
+  file_dir=$(dirname "${file}")
+  libreoffice_cmd="libreoffice7.4 --convert-to csv --infilter=CSV:44,34,76,1 --outdir $file_dir "
+  $libreoffice_cmd $file &>/dev/null
+  csv2md ${file%.*}.csv > ${file%.*}.md
 done
+cd $current_dir
 
 # Generamos las programaciones
 for d in $directorio ; do
@@ -43,10 +40,11 @@ for d in $directorio ; do
   cp ../style.css .
   # Iteramos dentro del directorio
   ficheros=""
-  for file in ./*.md
+  for file in *.md
   do 
     ficheros="$ficheros $file"
-    # Si existe un directoio con el nombre del fichero lo iteramos
+
+    # Si existe un directorio con el nombre del fichero lo iteramos
     directorio=`basename -s .md $file`
     if [ -d "./$directorio" ]; then
       for subfile in ./$directorio/*.md
@@ -58,11 +56,11 @@ for d in $directorio ; do
 
   case "${salida}" in
         pdf)  
-          pandoc --template="../template.html" -f markdown-smart --toc --toc-depth=2 -c "./style.css" $ficheros -o ${PWD##*/}.html
+          pandoc --template="../template.html" -f markdown-smart --toc --toc-depth=2 -c "./style.css" --filter pandoc-include $ficheros -o ${PWD##*/}.html
           python3 -m weasyprint "${PWD##*/}.html" "${PWD##*/}.pdf"
 	;;
         epub) 
-          pandoc --template="../template.html" -f markdown-smart --toc --toc-depth=2 -c "./style.css" $ficheros -o ${PWD##*/}.epub
+          pandoc --template="../template.html" -f markdown-smart --toc --toc-depth=2 -c "./style.css" --filter pandoc-include $ficheros -o ${PWD##*/}.epub
 	;;
     esac
 

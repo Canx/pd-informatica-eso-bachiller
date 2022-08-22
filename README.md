@@ -18,7 +18,8 @@
 ## Prerequisitos
 
 * Libreoffice 7.4
-* Pandoc
+* Pandoc 2.19 o superior
+* pandoc-include
 * csv2md
 * weasyprint
 
