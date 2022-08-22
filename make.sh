@@ -1,13 +1,27 @@
 #!/bin/bash
 
-# TODO: Si le pasamos el directorio solo hace ese directorio, en caso contrario procesa todos los directorios
-ignoredirs="fonts/ images/ comun/"
+# Opciones
+# -d <DIRECTORIO>: Solo procesa el directorio indicado
+# -o <FORMATO>: Solo genera el formato indicado (epub o pdf)
+
+# Por defecto generamos todas las programaciones en pdf
+directorio="*/"
+salida="pdf"
+
+while getopts d:o: flag
+do
+    case "${flag}" in
+        d) directorio=${OPTARG};;
+        o) salida=${OPTARG};;
+    esac
+done
+
+ignoredirs="fonts/ images/ comun/ plantillas/"
 
 # Preprocesamos los archivos de tablas de ODS > CSV > MD
 libreoffice_cmd="libreoffice7.4 --convert-to csv --infilter=CSV:44,34,76,1 --outdir . "
-for d in */ ; do
+for d in $directorio ; do
   cd $d
-
   for file in $(ls); do
     if [[ $file == *.ods ]]; then
       echo "Convirtiendo tabla de $file..."
@@ -19,7 +33,7 @@ for d in */ ; do
 done
 
 # Generamos las programaciones
-for d in */ ; do
+for d in $directorio ; do
   if [[ " $ignoredirs " =~ .*\ $d\ .* ]]; then
     continue;
   fi
@@ -41,10 +55,17 @@ for d in */ ; do
       done
     fi
   done
-  #cat $ficheros | md-to-pdf > ${PWD##*/}.pdf
-  # Creamos la portada
-  pandoc --template="../template.html" -f markdown-smart --toc --toc-depth=2 -c "./style.css" $ficheros -o ${PWD##*/}.html
-  python3 -m weasyprint "${PWD##*/}.html" "${PWD##*/}.pdf"
+
+  case "${salida}" in
+        pdf)  
+          pandoc --template="../template.html" -f markdown-smart --toc --toc-depth=2 -c "./style.css" $ficheros -o ${PWD##*/}.html
+          python3 -m weasyprint "${PWD##*/}.html" "${PWD##*/}.pdf"
+	;;
+        epub) 
+          pandoc --template="../template.html" -f markdown-smart --toc --toc-depth=2 -c "./style.css" $ficheros -o ${PWD##*/}.epub
+	;;
+    esac
+
   rm style.css
   cd ..
 done
