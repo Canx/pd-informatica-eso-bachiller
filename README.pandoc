@@ -1,0 +1,54 @@
+# Programaciones
+
+## 1ESO
+* [Taller de relaciones digitales saludables](./TRDS)
+
+## 3ESO
+* [Programación, Inteligencia artificial y robótica I](./PIAR-I)
+
+## 1º BACHILLER
+* [Programación redes y sistemas informáticos I](./PRESI-I)
+
+# Generación de PDFs
+
+```
+./make.sh
+```
+
+## Prerequisitos
+
+* Libreoffice 7.4
+* Pandoc 2.19 o superior
+* pandoc-include
+* csv2md
+* weasyprint
+
+# Tareas pendientes 
+
+- [ ] Separar criterios de evaluación de las competencias específicas y añadir en apartado de Evaluación.
+- [ ] Añadir descripciones de las competencias específicas
+- [ ] Redactar los descriptores del perfil de salida de la ESO
+- [ ] Las tablas deben generarse con los formatos de números correctos
+
+## TRDS
+
+- [ ] Mejorar estructura de unidades didácticas según plantilla.
+- [ ] Completar temporalización semanal
+- [ ] Completar Evaluación
+
+!include TRDS/includes/temporalizacion-resumen.md
+
+## PIAR-I
+
+- [ ] Añadir sección de temporalización.
+- [ ] Añadir sección fomento de la lectura.
+- [ ] Añadir sección Actividades complementarias.
+
+!include PIAR-I/includes/temporalizacion-resumen.md
+
+## PRESI
+
+- [ ] Completar UD2 (ONG's)
+- [ ] Añadir unidades de otros bloques
+
+!include PRESI-I/includes/temporalizacion-resumen.md

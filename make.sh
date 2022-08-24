@@ -32,6 +32,7 @@ for file in $(find . -name '*.ods'); do
 done
 cd $current_dir
 
+
 # Generamos las programaciones
 for d in $directorio ; do
   if [[ " $ignoredirs " =~ .*\ $d\ .* ]]; then
@@ -70,3 +71,6 @@ for d in $directorio ; do
   rm style.css
   cd ..
 done
+
+# Generamos README.md
+pandoc -f markdown-smart --filter pandoc-include README.pandoc -o README.md

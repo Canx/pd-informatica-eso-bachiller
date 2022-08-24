@@ -1,14 +1,5 @@
 # Unidades didácticas
 
-## Temporalización
-
-| Evaluación | Unidad didáctica                                        | Nº de sesiones |
-| ---------- | ------------------------------------------------------- | -------------- |
-| 1          | UD1: Introducción a la Programación, IA y Robótica      | ?              |
-| 1          | UD2: Programación                                       | ?              |
-| 2          | UD3: Proyectos de robótica                              | ?              |
-| 3          | UD4: Proyectos de robótica y Inteligencia Artificial    | ?              |
-
 ## UD 1: Pensamiento computacional
 
 ### Introducción
@@ -27,10 +18,7 @@
 
 ##### Recursos
 
-
-
-
-## UD 1: Introducción a la IA
+## UD X: Introducción a la IA
 
 ### Objetivos
 
@@ -53,7 +41,7 @@
 * CE1.2: Comprender los fundamentos y el funcionamiento de las técnicas básicas de IA.
 * CE1.3: Comprender las implicaciones éticas y sociales de las técnicas básicas de IA.
 
-## UD 2: Introducción a la programación
+## UD X: Introducción a la programación
 
 ### Objetivos
 
@@ -74,12 +62,12 @@
 * CE2.2: Analizar problemas elementales mediante la abstracción y modelización de la realidad.
 * CE2.5: Conocer los derechos de autoría y las licencias de derechos y explotación.
 
-## UD 2: Programación y Robótica
+## UD X: Programación y Robótica
 
-## UD 3: Programación con Inteligencia Artificial
+## UD X: Programación con Inteligencia Artificial
 
 ### Actividades
 
 * Clasificación de residuos con Teacheable Machine
 
-## UD 4: Programación con Robótica y Inteligencia Artificial
+## UD X: Programación con Robótica y Inteligencia Artificial
