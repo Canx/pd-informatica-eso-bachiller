@@ -73,4 +73,4 @@ for d in $directorio ; do
 done
 
 # Generamos README.md
-pandoc -f markdown-smart --filter pandoc-include README.pandoc -o README.md
+pandoc -f markdown-smart -t gfm --filter pandoc-include README.pandoc -o README.md
