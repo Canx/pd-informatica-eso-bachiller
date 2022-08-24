@@ -72,5 +72,7 @@ for d in $directorio ; do
   cd ..
 done
 
-# Generamos README.md
-pandoc -f markdown-smart -t gfm --filter pandoc-include README.pandoc -o README.md
+# Generamos README.md a partir de README.pandoc (para ver en Github)
+for file in $(find . -name 'README.pandoc'); do
+  pandoc -f markdown-smart -t gfm --filter pandoc-include $file -o ${file%.*}.md
+done

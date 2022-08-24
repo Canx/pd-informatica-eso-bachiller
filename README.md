@@ -40,21 +40,9 @@
 
 | Evaluación | Sesiones totales | Sesiones programadas | % Programado |
 |------------|------------------|----------------------|--------------|
-| 1          | 0                | 0                    | 0%           |
-| 2          | 0                | 0                    | 0%           |
-| 3          | 0                | 0                    | 0%           |
-
-## PIAR-I
-
-- [ ] Añadir sección de temporalización.
-- [ ] Añadir sección fomento de la lectura.
-- [ ] Añadir sección Actividades complementarias.
-
-| Evaluación | Sesiones | Programadas | % Programado |
-|------------|----------|-------------|--------------|
-| 1          | 36       | 0           | 0%           |
-| 2          | 30       | 0           | 0%           |
-| 3          | 40       | 0           | 0%           |
+| 1          | 26               | 4                    | 15%          |
+| 2          | 20               | 0                    | 0%           |
+| 3          | 32               | 0                    | 0%           |
 
 ## PRESI
 
