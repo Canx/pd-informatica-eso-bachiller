@@ -4,7 +4,7 @@
 
 - [ ] Crear unidades didácticas
 - [ ] Rellenar temporalización semanal
-- [ ] Completar Evaluación
+- [x] Completar Evaluación
 
 ## Resumen
 
