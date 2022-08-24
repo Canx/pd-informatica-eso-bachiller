@@ -1,6 +1,6 @@
 # Unidades didácticas
 
-## UD 1: Pensamiento computacional
+## Pensamiento computacional
 
 ### Introducción
 
@@ -18,7 +18,29 @@
 
 ##### Recursos
 
-## UD X: Introducción a la IA
+## Introducción a la programación
+
+### Objetivos
+
+### Competencias
+
+* CE2: Aplicar el pensamiento computacional en el análisis y resolución de problemas básicos mediante el desarrollo de software.
+
+### Saberes básicos
+
+* Programación
+  * Habilidades del pensamiento computacional.
+  * Interpretación de la realidad mediante modelado de problemas.
+  * Licencias de software. El software libre y el software propietario.
+
+### Criterios de evaluación
+
+* CE2.1: Comprender y aplicar el pensamiento computacional como herramienta para resolver problemas básicos.
+* CE2.2: Analizar problemas elementales mediante la abstracción y modelización de la realidad.
+* CE2.5: Conocer los derechos de autoría y las licencias de derechos y explotación.
+
+
+## Introducción a la IA
 
 ### Objetivos
 
@@ -41,30 +63,9 @@
 * CE1.2: Comprender los fundamentos y el funcionamiento de las técnicas básicas de IA.
 * CE1.3: Comprender las implicaciones éticas y sociales de las técnicas básicas de IA.
 
-## UD X: Introducción a la programación
+## Programación y Robótica
 
-### Objetivos
-
-### Competencias
-
-* CE2: Aplicar el pensamiento computacional en el análisis y resolución de problemas básicos mediante el desarrollo de software.
-
-### Saberes básicos
-
-* Programación
-  * Habilidades del pensamiento computacional.
-  * Interpretación de la realidad mediante modelado de problemas.
-  * Licencias de software. El software libre y el software propietario.
-
-### Criterios de evaluación
-
-* CE2.1: Comprender y aplicar el pensamiento computacional como herramienta para resolver problemas básicos.
-* CE2.2: Analizar problemas elementales mediante la abstracción y modelización de la realidad.
-* CE2.5: Conocer los derechos de autoría y las licencias de derechos y explotación.
-
-## UD X: Programación y Robótica
-
-## UD X: Programación con Inteligencia Artificial
+## Programación con Inteligencia Artificial
 
 ### Actividades
 

@@ -34,3 +34,5 @@
   * 4.4 Identificar y saber reaccionar de manera básica frente a situaciones que representen comportamientos abusivos o amenazas a través de dispositivos digitales y valorar el bienestar personal y colectivo.
   * 4.5 Tomar medidas básicas de prevención respecto al uso continuado de dispositivos digitales.
   * 4.6 Mostrar empatía de cada a los miembros del grupo, reconocer sus aportaciones y establecer un diálogo igualitario y inclusivo para resolver conflictos y discrepancias.
+
+!include ../comun/evaluacion.md

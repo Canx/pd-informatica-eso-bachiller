@@ -1,5 +1,3 @@
-## Perfil de salida
-
 El Perfil de salida del alumnado al término de la enseñanza básica es la herramienta en la que se concretan los principios y los fines del sistema educativo español referidos a dicho periodo. El Perfil identifica y define, en conexión con los retos del siglo XXI, las competencias clave que se espera que los alumnos y alumnas hayan desarrollado al completar esta fase de su itinerario formativo.
 
 La vinculación entre competencias clave y retos del siglo XXI es la que dará sentido a los aprendizajes, al acercar la escuela a situaciones, cuestiones y problemas reales de la vida cotidiana, lo que, a su vez, proporcionará el necesario punto de apoyo para favorecer situaciones de aprendizaje significativas y relevantes, tanto para el alumnado como para el personal docente. Se quiere garantizar que todo alumno o alumna que supere con éxito la enseñanza básica y, por tanto, alcance el Perfil de salida, sepa activar los aprendizajes adquiridos para responder a los principales desafíos a los que deberá hacer frente a lo largo de su vida:

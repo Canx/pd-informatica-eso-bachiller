@@ -19,3 +19,4 @@
   - Montar robots sencillos y seguir p
 - CE4: Afrontar retos tecnológicos sencillos y proponer soluciones mediante la programación, la inteligencia artificial y la robótica, analizar las posibilidades y valorar críticamente las implicaciones éticas y ecosociales.
 
+!include ../comun/evaluacion.md

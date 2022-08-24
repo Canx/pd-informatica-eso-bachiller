@@ -46,6 +46,10 @@ for d in $directorio ; do
   ficheros=""
   for file in *.md
   do 
+    # Ignoramos los archivos README.md
+    if [ "$file" = "README.md" ]; then
+      continue;
+    fi
     ficheros="$ficheros $file"
 
     # Si existe un directorio con el nombre del fichero lo iteramos

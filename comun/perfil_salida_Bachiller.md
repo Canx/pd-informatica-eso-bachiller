@@ -1,5 +1,3 @@
-## Perfil de salida
-
 A continuación se describe el perfil de salida de Bachillerato, es decir el conjunto de descriptores para cada competencia clave que el alumno debe de alcanzar al finalizar la etapa.
 
 * Competencia en comunicación lingüística (CCL). 
