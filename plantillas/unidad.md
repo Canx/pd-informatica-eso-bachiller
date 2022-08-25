@@ -10,6 +10,10 @@
   
 #### Sesión 1: TÍTULO DE LA SITUACIÓN DE APRENDIZAJE
 
+#### Objetivo
+
+##### Descripción
+
 ##### Características
   
 * Tipo: adquisición + colaboración + discusión + investigación + práctica + producción 
@@ -17,8 +21,6 @@
 * Actividad: profesor | alumnos | todos
 * Rol del profesor: dirijida por el profesor | asistida por el profesor | aprendizaje independiente
 * Evaluación: diagnóstica | formativa | sumativa
-
-##### Descripción
 
 ##### Recursos
 

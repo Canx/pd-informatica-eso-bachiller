@@ -17,6 +17,10 @@ En grupos los alumnos formarán una ONG, que tenga como misión ayudar en alguno
 
 ### Sesión 1: Definición de una ONG
 
+#### Objetivo
+
+* Investigar las tareas de las ONG en relación a los objetivos de desarrollo sostenible.
+
 #### Descripción
 
 * Empezaremos viendo los objetivos de desarrollo sostenible, que es una ONG, que tipos hay y ejemplos de ONG. 
@@ -37,6 +41,10 @@ En grupos los alumnos formarán una ONG, que tenga como misión ayudar en alguno
 
 ### Sesión 2: Definición de una ONG (II)
 
+#### Objetivo
+
+* Motivar al alumno respecto a los Objetivos de Desarrollo Sostenible mediante la definición de una ONG.
+
 #### Descripción
 
 Agruparemos los alumnos en equipos afines y comenzarán a definir los objetivos de la ONG que les gustaría crear, así como su ámbito de actuación.
@@ -56,11 +64,14 @@ Cada grupo definirá un ideario de la ONG que contendrá:
 
 ### Sesión 3: Instalación de Wordpress
 
+#### Objetivos
+
+* Instalar un servidor de Wordpress para alojar la web de la ONG.
+
 #### Descripción
 
 Instalaremos mediante Docker una imagen de Wordpress y realizaremos la configuración básica.
 Añadiremos los usuarios necesarios y comprobaremos el acceso mediante IP al servidor.
-Verificaremos que podemos hacer copias de seguridad de los contenedores y los podemos restaurar en otro ordenador.
 
 #### Características
 
@@ -72,17 +83,28 @@ Verificaremos que podemos hacer copias de seguridad de los contenedores y los po
 
 ### Sesión 4: Definición de plantilla y secciones
 
+#### Objetivo
+
+* Configurar la plantilla de Wordpress para alojar la web de la ONG.
+
 #### Descripción
 
 Veremos las opciones de personalización de una plantilla de Wordpress: sus secciones, la barra de menús, las posibles barras laterales, etc...
 Nos centraremos en definir el menú de nuestra página web, en base a la definición de nuestra ONG.
 
-
 ### Sesión 5: Definición de contenidos
+
+#### Objetivo
+
+* Crear contenidos de Wordpress para definir la web de la ONG.
 
 #### Descripción
 
 Escribiremos una página estática titulada “Quienes Somos”.
 Definiremos una sección en nuestro menú para el blog de la ONG.
 
+### Sesión X: Copias de seguridad
 
+#### Descripción
+
+Verificaremos que podemos hacer copias de seguridad de Wordpress y que podemos restaurar en otro ordenador.

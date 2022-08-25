@@ -17,11 +17,16 @@ Tutorial de Wordpress basado en Docker, para preparar la siguiente UD.
 
 ### Sesión 1: ¿Que es un CMS?
 
-#### Objetivos
+#### Objetivo
 
-* Explicar que es un CMS. Ver ejemplos de CMS y explorar las características de los más importantes hoy en día.
-* Individualmente definir CMS, Clasificar CMS en tipos y funcionalidad, detectar que CMS están utilizando páginas web. 
-* Grupalmente comparar con respuestas de compañeros en el foro.
+* Conocer que es un CMS, sus características, y ejemplos de uso en el mundo real.
+
+#### Descripción
+
+* Explicar que es un CMS, ver ejemplos de CMS y explorar las características de los más importantes hoy en día. Especialmente veremos la diferencia entre CMS de código abierto y cerrado.
+* Definir CMS, clasificar CMS en tipos y funcionalidad, detectar que CMS están utilizando páginas web.
+* Grupalmente comparamos con respuestas de compañeros en el foro.
+* Nos registraremos en Wordpress.com y probamos la plataforma.
 
 #### Características
 
@@ -34,9 +39,27 @@ Tutorial de Wordpress basado en Docker, para preparar la siguiente UD.
 * [CMS en la Wikipedia](https://es.wikipedia.org/wiki/Sistema_de_gesti%C3%B3n_de_contenidos) 
 * [Herramienta para detectar qué CMS está usando una página web](https://whatcms.org/) 
 
-### Sesión 2: Instalando Wordpress
+### Sesión 2: Hosting Wordpress
+
+#### Objetivo
+
+* Entender que es un hosting y sus características principales
+
+#### Descripción
+
+* Se explicará que es un hosting y sus características principales.
+* Veremos los requisitos de Wordpress para ser instalado en un servidor.
+* Compararemos Wordpress.com frente a un servicio de hosting, tanto de mantenimiento como de precio (libertades, coste, etc.). 
+* Cada alumno buscará un hosting de Wordpress alternativo donde pueda instalar Wordpress y comparará las características del hosting y su precio en relación a Wordpress.com.
+* Los alumnos valorarán justificando la respuesta que opción de hosting es la más adecuada de las propuestas por todos alumnos, y se comparará con la valoración del profesor.
+
+### Sesión 3: Instalando Wordpress
 
 #### Objetivos
+
+* Instalar Wordpress en nuestro propio ordenador
+
+#### Descripción
 
 * Explicamos que es docker, descargamos el archivo docker-compose.yml de Wordpress, MariaDB y phpmyadmin y analizamos su estructura. Levantamos los servicios (docker compose up –d ) y hacemos la configuración básica (http://localhost:8080), que consiste en crear el usuario principal y el nombre de la página web.
 * Vemos como ver la página y la URL para entrar en el panel de control.
@@ -56,9 +79,13 @@ Tutorial de Wordpress basado en Docker, para preparar la siguiente UD.
 * [Taller de docker basado en Wordpress](https://aulasoftwarelibre.github.io/taller-de-docker/wordpress/)
 * [Como instalar Wordpress](https://wordpress.org/support/article/how-to-install-wordpress/) 
 
-### Sesión 3: Primeros pasos con Wordpress
+### Sesión 4: Primeros pasos con Wordpress
 
-#### Objetivos
+#### Objetivo
+
+* Practicar las tareas básicas de configuración de Wordpress
+
+#### Descripción
 
 * Recordamos como levantar y guardar el contenedor, y como acceder a la página web y el panel de control.
 * Documentamos los siguientes pasos en un documento con capturas: 
@@ -76,9 +103,13 @@ Tutorial de Wordpress basado en Docker, para preparar la siguiente UD.
 #### Recursos 
 * [Primeros pasos con Wordpress (inglés)](https://wordpress.org/support/article/first-steps-with-wordpress/) 
 
-### Sesión 4: Creación y gestión de artículos
+### Sesión 5: Creación y gestión de artículos
 
-#### Objetivos
+#### Objetivo
+
+* Practicar las tareas básicas de configuración de Wordpress
+
+#### Descripción
 
 * Continuamos realizando la documentación de determinados pasos añadiendo capturas del proceso: 
   * Como crear un nuevo artículo (post) 
