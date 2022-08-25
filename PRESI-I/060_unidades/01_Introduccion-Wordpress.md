@@ -25,10 +25,13 @@ Tutorial de Wordpress basado en Docker, para preparar la siguiente UD.
 
 #### Descripción
 
-* Explicar que es un CMS, ver ejemplos de CMS y explorar las características de los más importantes hoy en día. Especialmente veremos la diferencia entre CMS de código abierto y cerrado.
-* Definir CMS, clasificar CMS en tipos y funcionalidad, detectar que CMS están utilizando páginas web.
-* Grupalmente comparamos con respuestas de compañeros en el foro.
-* Nos registraremos en Wordpress.com y probamos la plataforma.
+* Explicar que es un CMS y sus funciones en la creación y gestión de páginas web.
+* Tipos de CMS: creadores de sitios web, blogs, tiendas online,...
+* Ejemplos de CMS y características de CMS: abierto/cerrado, lenguaje, 
+* Diferencia entre CMS de código abierto y cerrado (Webflow, Blogger, Wix, Webnode, Jimdo,...). Libertades y costes asociados.
+* Actividad: Detectar que CMS están utilizando páginas web. Explorar al menos 3 páginas web.
+* Actividad: Realizamos cuestionario donde indicamos de que tipo es cada CMS indicado.
+* Actividad: Individualmente explorar características de 2 CMS. Grupalmente comparamos con respuestas de compañeros en el foro.
 
 #### Características
 
@@ -40,6 +43,7 @@ Tutorial de Wordpress basado en Docker, para preparar la siguiente UD.
 #### Recursos 
 * [CMS en la Wikipedia](https://es.wikipedia.org/wiki/Sistema_de_gesti%C3%B3n_de_contenidos) 
 * [Herramienta para detectar qué CMS está usando una página web](https://whatcms.org/) 
+* [Categorias de CMS en alternativeto.net](https://alternativeto.net/category/business-and-commerce/cms/)
 
 ### Sesión 2: Hosting Wordpress
 
