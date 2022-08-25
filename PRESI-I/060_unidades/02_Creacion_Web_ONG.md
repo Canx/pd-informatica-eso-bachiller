@@ -1,5 +1,7 @@
 ## UD 2: Creación de una página web para una ONG
 
+> Autor: Rubén Cancho
+
 ### Introducción
 
 En grupos los alumnos formarán una ONG, que tenga como misión ayudar en algunos de los objetivos de desarrollo sostenible. 

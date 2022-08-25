@@ -1,5 +1,7 @@
 ## UD 1: Introducción a Wordpress
 
+> Autor: Rubén Cancho
+
 ### Introducción
 
 Tutorial de Wordpress basado en Docker, para preparar la siguiente UD. 
@@ -103,22 +105,29 @@ Tutorial de Wordpress basado en Docker, para preparar la siguiente UD.
 #### Recursos 
 * [Primeros pasos con Wordpress (inglés)](https://wordpress.org/support/article/first-steps-with-wordpress/) 
 
-### Sesión 5: Creación y gestión de artículos
+### Sesión 5: Creación y organización de artículos
 
 #### Objetivo
 
-* Practicar las tareas básicas de configuración de Wordpress
+* Practicar la creación y organización de artículos
 
 #### Descripción
 
-* Continuamos realizando la documentación de determinados pasos añadiendo capturas del proceso: 
-  * Como crear un nuevo artículo (post) 
-  * Como gestionar los comentarios realizados en los artículos 
-  * Como crear categorías de artículos y clasificar los que ya tengamos. Crear una pequeña estructura de categorías de ejemplo. 
-  * Como ver los artículos por categorías 
+  * Parte 1: Creación de artículos
+    * Como visualizar el blog en la plantilla de Wordpress.
+    * Crearemos un artículo sobre un ODS a libre elección, añadiendo imágenes, enlaces y estilos.
+  * Parte 2: Organización de artículos
+    * Explicamos la diferencia entre categorías vs etiquetas, y vemos como crearlas.
+    * Clasificamos el artículo creado en categoría y etiquetas.
+    * Creamos un bloque de exploración por etiquetas y categorías.
 
 #### Características
 
 * Tipo:  Práctica + Producción 
 * Evaluación: formativa + sumativa 
 
+#### Recursos
+
+* [El editor de bloques de Wordpress (inglés)](https://wordpress.org/support/article/wordpress-editor/)
+* [Entradas](https://wordpress.com/es/support/entradas/)
+* [Diferencias entre categorías y etiquetas](https://wordpress.com/es/support/entradas/diferencias-entre-categorias-y-etiquetas/)
