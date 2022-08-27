@@ -13,13 +13,13 @@
 | 1     | 21/11 | 4    | 7         |                                         |
 | 1     | 28/11 | 4    | 3         |                                         |
 | 1     | 05/12 | 3    | 0         |                                         |
-| 2     | 12/12 | 2    | 35        | Introducción a Wordpress                |
-| 2     | 19/12 | 3    | 32        | Introducción a Wordpress                |
+| 2     | 12/12 | 2    | 35        | Creación de una página web para una ONG |
+| 2     | 19/12 | 3    | 32        | Creación de una página web para una ONG |
 | 2     | 26/12 | 0    | 32        |                                         |
 | 2     | 02/01 | 0    | 32        |                                         |
 | 2     | 09/01 | 4    | 28        | Creación de una página web para una ONG |
 | 2     | 16/01 | 4    | 24        | Creación de una página web para una ONG |
-| 2     | 23/01 | 4    | 20        | Creación de una página web para una ONG |
+| 2     | 23/01 | 4    | 20        |                                         |
 | 2     | 30/01 | 4    | 16        |                                         |
 | 2     | 06/02 | 4    | 12        |                                         |
 | 2     | 13/02 | 4    | 8         |                                         |
