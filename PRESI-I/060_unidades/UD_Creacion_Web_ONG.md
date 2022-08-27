@@ -1,7 +1,6 @@
 ## UD: Creación de una página web para una ONG
 
-> Autor: Rubén Cancho
-> [Fuente original](https://github.com/Canx/pd-informatica-eso-bachiller/blob/main/PRESI-I/060_unidades/UD_Creacion_Web_ONG.md)
+> Autor: Rubén Cancho [(última versión)](https://github.com/Canx/pd-informatica-eso-bachiller/blob/main/PRESI-I/060_unidades/UD_Creacion_Web_ONG.md)
 
 ### Objetivos
 
@@ -17,6 +16,20 @@ Aprender a instalar y configurar un CMS, y a crear una página web para una ONG.
 
 * 4.4. Instalación y configuración básica de un gestor de contenidos.
 * 4.5. Servidores web y sistemas gestores de contenidos como herramientas de publicación y colaboración online respetuosas.
+
+### Temporalización
+
+* Sesión 1: ¿Que es un CMS?
+* Sesión 2: Hosting Wordpress
+* Sesión 3: Instalando Wordpress
+* Sesión 4: Primeros pasos con Wordpress
+* Sesión 5: Creación y organización de artículos
+* Sesión 6: Definición de una ONG
+* Sesión 7: Definición de una ONG (II)
+* Sesión 8: Definición de plantilla y secciones
+* Sesión 9: Definición de contenidos
+* Sesión 10: Definición de contenidos (II)
+* Sesión 11: Evaluación grupal
 
 ### Sesión 1: ¿Que es un CMS?
 
@@ -137,7 +150,7 @@ Aprender a instalar y configurar un CMS, y a crear una página web para una ONG.
 * [Entradas](https://wordpress.com/es/support/entradas/)
 * [Diferencias entre categorías y etiquetas](https://wordpress.com/es/support/entradas/diferencias-entre-categorias-y-etiquetas/)
 
-### Sesión 5: Definición de una ONG
+### Sesión 6: Definición de una ONG
 
 #### Objetivo
 
@@ -160,20 +173,16 @@ Aprender a instalar y configurar un CMS, y a crear una página web para una ONG.
 #### Recursos
 <POR HACER>
 
-### Sesión 6: Definición de una ONG (II)
+### Sesión 7: Definición de una ONG (II)
 
 #### Objetivo
 
-* Motivar al alumno respecto a los Objetivos de Desarrollo Sostenible mediante la definición de una ONG.
+* Creación de la identidad, los objetivos y tareas de la ONG.
 
 #### Descripción
 
-Agruparemos los alumnos en equipos afines y comenzarán a definir los objetivos de la ONG que les gustaría crear, así como su ámbito de actuación.
-Cada grupo definirá un ideario de la ONG que contendrá: 
+En grupos definiremos las páginas "Quienes somos" y "Que hacemos" en Wordpress.
 
-• nombre de la ONG.
-• motivo y fin de la ONG
-• Tareas que realizará la ONG y como las llevarán a cabo
 
 #### Características
 
@@ -183,26 +192,7 @@ Cada grupo definirá un ideario de la ONG que contendrá:
 * Rol del profesor: asistida por el profesor 
 * Evaluación: formativa
 
-### Sesión 7: Instalación de Wordpress
-
-#### Objetivos
-
-* Instalar un servidor de Wordpress para alojar la web de la ONG.
-
-#### Descripción
-
-Instalaremos mediante Docker una imagen de Wordpress y realizaremos la configuración básica.
-Añadiremos los usuarios necesarios y comprobaremos el acceso mediante IP al servidor.
-
-#### Características
-
-* Tipo: práctica
-* Agrupación: individual + grupos
-* Actividad: alumnos
-* Rol del profesor: asistida por el profesor
-* Evaluación: formativa
-
-### Sesión 8: Definición de plantilla y secciones
+### Sesión 8: Definición de plantilla y secciones <TODO>
 
 #### Objetivo
 
@@ -213,7 +203,7 @@ Añadiremos los usuarios necesarios y comprobaremos el acceso mediante IP al ser
 Veremos las opciones de personalización de una plantilla de Wordpress: sus secciones, la barra de menús, las posibles barras laterales, etc...
 Nos centraremos en definir el menú de nuestra página web, en base a la definición de nuestra ONG.
 
-### Sesión 9: Definición de contenidos
+### Sesión 9: Definición de contenidos <TODO>
 
 #### Objetivo
 
@@ -221,11 +211,18 @@ Nos centraremos en definir el menú de nuestra página web, en base a la definic
 
 #### Descripción
 
-Escribiremos una página estática titulada “Quienes Somos”.
 Definiremos una sección en nuestro menú para el blog de la ONG.
 
-### Sesión X: Copias de seguridad
+### Sesión 10: Definición de contenidos (II) <TODO>
+
+#### Objetivo
+
+* Crear contenidos de Wordpress para definir la web de la ONG.
 
 #### Descripción
 
-Verificaremos que podemos hacer copias de seguridad de Wordpress y que podemos restaurar en otro ordenador.
+### Sesión 11: Evaluación grupal <TODO>
+
+#### Objetivo
+
+* Evaluar grupalmente las páginas web realizadas.
