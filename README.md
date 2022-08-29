@@ -27,7 +27,7 @@
 # Tareas pendientes
 
 - [ ] Añadir descripciones de las competencias específicas
-- [ ] Redactar los descriptores del perfil de salida de la ESO
+- [x] Redactar los descriptores del perfil de salida de la ESO
 - [x] Las tablas deben generarse con los formatos de números correctos
 - [x] Separar criterios de evaluación de las competencias específicas y
   añadir en apartado de Evaluación.
