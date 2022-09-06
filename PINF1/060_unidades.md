@@ -1,10 +1,35 @@
 # Unidades didácticas
 
-## UD1: Mecanografía 
+## UD1: Moodle y Aules
 
-## UD2: Internet y correo electrónico
+### Objetivo
 
-## UD3: Moodle y Aules
+### Situaciones de aprendizaje
+
+* Entrar con el usuario del aula en el ordenador.
+* Saber que es un navegador y ver las diferentes opciones disponibles.
+* Entender que es una URL y como acceder a diferentes páginas web.
+* Saber entrar en aules a través de la URL.
+* Acceder a aules mediante su usuario y contraseña.
+* Editar el perfil y cambiar el Avatar de un usuario.
+* Saber interactuar en foros para hacer o responder consultas.
+* Consultar calificaciones de Aules.
+* Descargar y subir archivos en Aules.
+* Entender las fechas límite de entrega.
+* Entregar correctamente trabajos básicos en Aules.
+
+## UD2: Mecanografía 
+
+### Recursos
+
+* TypingClub
+
+
+## UD3: Internet y correo electrónico
+
+### Objetivos
+
+* 
 
 ## UD4: Gestión del sistema operativo
 
