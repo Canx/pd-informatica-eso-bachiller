@@ -11,7 +11,8 @@
 * Entender que es una URL y como acceder a diferentes páginas web.
 * Saber entrar en aules a través de la URL.
 * Acceder a aules mediante su usuario y contraseña.
-* Editar el perfil y cambiar el Avatar de un usuario.
+* Acceder al correo corporativo de Microsoft.
+* Editar el perfil y cambiar el correo y el Avatar de un usuario.
 * Saber interactuar en foros para hacer o responder consultas.
 * Consultar calificaciones de Aules.
 * Descargar y subir archivos en Aules.
