@@ -1,6 +1,9 @@
 # Metodología
 
-## Diseño Universal del Aprendizaje (DUA)
+
+## Metodología general y específica del área o materia
+
+### Diseño Universal del Aprendizaje (DUA)
 
 La metodología DUA (Diseño Universal del Aprendizaje) fomenta la inclusividad de forma eficiente. Se estructura en 3 principios que intentan activar diferentes tipos de redes neuronales que se relacionan simultaneamente durante el aprendizaje. A continuación se enumeran y se dan algunos ejemplos de acción: 
 
@@ -34,3 +37,9 @@ La metodología DUA (Diseño Universal del Aprendizaje) fomenta la inclusividad 
   * Opciones para la expresión y la comunicación
     * Proveer listas de comprobación para comunicación y frases para colaborar, dar feedback y explicar el trabajo.
     * Incluir código inicial
+
+## Tratamiento de la no presencialidad y semipresencialidad
+
+En caso de no presencialidad de todo el grupo se realizará al menos una videoconferencia semanal para resolver dudas, y se utilizará la plataforma Aules para la impartición asíncrona de al asignatura. Se promoverá el uso de herramientas de comunicación asíncrona como el correo, Teams o foros de Aules. Además, se publicarán vídeos en Aules con el objetivo de suplir parcialmente las clases magistrales.
+
+En caso de semipresencialidad con grupos alternos no se avanzará material para aquellos grupos que no asistan a la sesión, pero se promoverá la realización de tareas opcionales y la finalización de las tareas pendientes. A excepción de la videoconferencia semanal se aplicarán las mismas medidas que ene l caso de no presencialidad.
