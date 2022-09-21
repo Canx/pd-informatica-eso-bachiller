@@ -80,3 +80,11 @@ done
 for file in $(find . -name 'README.pandoc'); do
   pandoc -f markdown-smart -t gfm --filter pandoc-include $file -o ${file%.*}.md
 done
+
+# Subimos los pdfs a la carpeta remota
+for d in $directorio ; do
+  if [[ " $ignoredirs " =~ .*\ $d\ .* ]]; then
+    continue;
+  fi
+  rclone copyto "./$d/$d.pdf" iesbenetusser:"/$d.pdf"
+done
