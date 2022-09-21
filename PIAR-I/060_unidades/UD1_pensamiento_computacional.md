@@ -13,6 +13,10 @@
 * 2.1. Habilidades del pensamiento computacional.
 * 2.2. Interpretación de la realidad mediante el modelado de programas.
 
+### Temporalización
+
+* Sesión 1: ¿Qué es el pensamiento computacional?
+
 ### Sesión 1: ¿Que es el pensamiento computacional?
 
 #### Objetivo

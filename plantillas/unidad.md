@@ -7,6 +7,10 @@
 ### Saberes básicos
 
 ### Temporalización
+
+* Sesión 1: TITULO
+* Sesión 2: TITULO
+* ...
   
 #### Sesión 1: TÍTULO DE LA SITUACIÓN DE APRENDIZAJE
 

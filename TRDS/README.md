@@ -10,17 +10,17 @@
 
 | Evaluación | Sesiones totales | Sesiones programadas | % Programado |
 |------------|------------------|----------------------|--------------|
-| 1          | 26               | 4                    | 15%          |
+| 1          | 26               | 6                    | 23%          |
 | 2          | 20               | 0                    | 0%           |
 | 3          | 32               | 0                    | 0%           |
 
 ## Temporalización
 
-| Eval. | Sem.       | Ses. | Restantes | UD y situaciones de aprendizaje                                                                                                                                                                                              |
+| Eval. | Sem.       | Ses. | Restantes | Planificación                                                                                                                                                                                                                |
 |-------|------------|------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1     | 12/09/2022 | 2    |           | UD1. Visualizar los vídeos de la lista de reproducción de code.org: How Computers Work: Hardware and Software.<br>Kahoot sobre hardware, software y diferentes tipos de dispositivos.<br>Kahoot para clasificar periféricos. |
-| 1     | 19/09/2022 | 2    |           | UD1. Tipos de dispositivos digitales                                                                                                                                                                                         |
-| 1     | 26/09/2022 | 2    |           |                                                                                                                                                                                                                              |
+| 1     | 12/09/2022 | 2    |           | Sesión 1: Presentación de la asignatura y cuestionario de evaluación inicial                                                                                                                                                 |
+| 1     | 19/09/2022 | 2    |           | UD1. Visualizar los vídeos de la lista de reproducción de code.org: How Computers Work: Hardware and Software.<br>Kahoot sobre hardware, software y diferentes tipos de dispositivos.<br>Kahoot para clasificar periféricos. |
+| 1     | 26/09/2022 | 2    |           | UD1. Tipos de dispositivos digitales                                                                                                                                                                                         |
 | 1     | 03/10/2022 | 2    |           |                                                                                                                                                                                                                              |
 | 1     | 10/10/2022 | 2    |           |                                                                                                                                                                                                                              |
 | 1     | 17/10/2022 | 2    |           |                                                                                                                                                                                                                              |

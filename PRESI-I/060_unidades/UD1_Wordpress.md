@@ -1,4 +1,4 @@
-## UD: Creación de una página web para una ONG
+## UD1: Wordpress
 
 > Autor: Rubén Cancho [(última versión)](https://github.com/Canx/pd-informatica-eso-bachiller/blob/main/PRESI-I/060_unidades/UD_Creacion_Web_ONG.md)
 

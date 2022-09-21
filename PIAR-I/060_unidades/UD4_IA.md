@@ -1,4 +1,4 @@
-## UDX: Introducción a la IA
+## UD4: Introducción a la IA
 
 ### Objetivos
 

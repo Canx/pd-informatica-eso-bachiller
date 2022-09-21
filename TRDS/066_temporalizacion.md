@@ -2,14 +2,14 @@
 
 ## Trimestral 
 
-| Evaluación | Unidad didáctica |
-|------------|------------------|
-| 1          | UD1              |
-| 1          | UD2              |
-| 2          | UD3              |
-| 2          | UD4              |
-| 3          | UD5              |
-| 3          | UD6              |
+| Evaluación | Unidad didáctica                    |
+|------------|-------------------------------------|
+| 1          | Riesgos en la red                   |
+| 1          | Dispositivos digitales              |
+| 1          | Organización de la información      |
+| 2          | Búsqueda de la información          |
+| 2          | Perfil digital                      |
+| 3          | Entornos virtuales                  |
 
 ## Semanal
 
