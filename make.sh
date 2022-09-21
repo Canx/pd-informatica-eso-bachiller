@@ -64,11 +64,11 @@ for d in $directorio ; do
 
   case "${salida}" in
         pdf)  
-          pandoc --template="../template.html" -f markdown-smart --toc --toc-depth=2 -c "./style.css" --filter pandoc-include $ficheros -o ${PWD##*/}.html
+          pandoc --template="../template.html" -V current_date="$(date +%Y-%m-%d%n)" -f markdown-smart --toc --toc-depth=2 -c "./style.css" --filter pandoc-include $ficheros -o ${PWD##*/}.html
           python3 -m weasyprint "${PWD##*/}.html" "${PWD##*/}.pdf"
 	;;
         epub) 
-          pandoc --template="../template.html" -f markdown-smart --toc --toc-depth=2 -c "./style.css" --filter pandoc-include $ficheros -o ${PWD##*/}.epub
+          pandoc --template="../template.html" -V current_date="$(date +%D)" -f markdown-smart --toc --toc-depth=2 -c "./style.css" --filter pandoc-include $ficheros -o ${PWD##*/}.epub
 	;;
     esac
 
@@ -79,12 +79,4 @@ done
 # Generamos README.md a partir de README.pandoc (para ver en Github)
 for file in $(find . -name 'README.pandoc'); do
   pandoc -f markdown-smart -t gfm --filter pandoc-include $file -o ${file%.*}.md
-done
-
-# Subimos los pdfs a la carpeta remota
-for d in $directorio ; do
-  if [[ " $ignoredirs " =~ .*\ $d\ .* ]]; then
-    continue;
-  fi
-  rclone copyto "./$d/$d.pdf" iesbenetusser:"/$d.pdf"
 done

@@ -1,4 +1,4 @@
-## UD 1: Hoja de cálculo
+## UD 1: Hojas de cálculo
 
 ### Objetivos
 
@@ -24,23 +24,3 @@
 * Sesión 3: Nota de la NAU. Parte obligatoria
 * Sesión 4: Nota de la NAU. Parte voluntaria
 * Sesión 5: Resumen y estilo de la hoja
-  
-#### Sesión 1: TÍTULO DE LA SITUACIÓN DE APRENDIZAJE
-
-#### Objetivo
-
-##### Descripción
-
-##### Características
-  
-* Tipo: adquisición + colaboración + discusión + investigación + práctica + producción 
-* Agrupación: individual | parejas | grupos | clase
-* Actividad: profesor | alumnos | todos
-* Rol del profesor: dirijida por el profesor | asistida por el profesor | aprendizaje independiente
-* Evaluación: diagnóstica | formativa | sumativa
-
-##### Recursos
-
-<REPETIR SESIONES>
-
-### Medidas para la inclusión

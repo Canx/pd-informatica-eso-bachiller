@@ -48,7 +48,7 @@
 * Acceder al correo corporativo de Microsoft.
 * Escribir correos electrónicos respetando la forma y el tono según el destinatario.
 
-## UD5: Ofimática básica: editores de textos (Writer y Microsoft Word Online)
+## UD5: Ofimática básica: editores de textos
 
 ### Objetivos
 
@@ -58,7 +58,7 @@
 * Estructurar los documentos en secciones y subsecciones.
 * Crear y formatear tablas. 
 
-## UD7: Ofimática básica: presentaciones(Libreoffice Impress y Microsoft Powerpoint Online)
+## UD7: Ofimática básica: presentaciones
 
 ### Objetivos
 
@@ -68,7 +68,7 @@
 * Crear presentaciones con estilo homogeneo.
 * Escribir el texto de una presentación y diferenciarlo de la presentación.
 
-## UD8: Ofimática basica: hojas de cálculo(Libreoffice Calc y Microsoft Excel Online)
+## UD8: Ofimática basica: hojas de cálculo
 
 ### Objetivos
 
