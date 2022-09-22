@@ -26,6 +26,8 @@
 
 # Tareas pendientes
 
+- [ ] Poner fecha de recuperación de pendientes en todas las
+  programaciones (5 de abril a las 12:05 en INF3)
 - [ ] Añadir descripciones de las competencias específicas
 - [x] Redactar los descriptores del perfil de salida de la ESO
 - [x] Las tablas deben generarse con los formatos de números correctos
