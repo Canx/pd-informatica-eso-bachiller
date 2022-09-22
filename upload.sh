@@ -1,4 +1,7 @@
 #!/bin/bash
+./make.sh -o pdf
+./make.sh -o epub
+
 directorio="*/"
 ignoredirs="fonts/ images/ comun/ plantillas/"
 
@@ -10,4 +13,5 @@ for d in $directorio ; do
   d=${d::-1}
   echo $d
   rclone copyto "./$d/$d.pdf" departamento:"/$d.pdf"
+  rclone copyto "./$d/$d.epub" departamento:"/$d.epub"
 done
