@@ -1,0 +1,1 @@
+../comun/instrumentos_LOMCE.md

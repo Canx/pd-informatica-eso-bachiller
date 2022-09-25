@@ -1,0 +1,1 @@
+../comun/objetivos_etapa_BACH_LOMCE.md

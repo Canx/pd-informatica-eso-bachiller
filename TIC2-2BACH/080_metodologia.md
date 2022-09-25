@@ -1,0 +1,1 @@
+../comun/metodologia_LOMCE.md
