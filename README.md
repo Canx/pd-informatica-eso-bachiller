@@ -26,4 +26,5 @@
 
 # Tareas pendientes
 
-\[ \] Revisar que no aparece programación semanal, solo trimestral.
+\[ \] Revisar que no aparece programación semanal, solo trimestral. \[
+\] Definir rúbrica para evaluación de actitud.

@@ -13,8 +13,6 @@
   * Fundamentos de la IA. Árboles de decisión, Big Data, redes neuronales.
   * Equidad y inclusión en sistemas IA. Sesgos en IA.
 
-### Situaciones de aprendizaje
-
 ### Criterios de evaluación
 
 * CE1.1: Investigar y identificar situaciones donde se apliquen técnicas básicas de IA.

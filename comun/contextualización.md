@@ -1,4 +1,5 @@
 ## Contextualización
+
 El centro está situado en la localidad de Benetúser que tiene aproximadamente 14.600 habitantes. El municipio está ubicado en una zona valenciano-hablante. La economía de Benetúser ha tenido un marcado carácter industrial, predominando la industria del mueble, aunque desde las últimas décadas del siglo pasado ha sufrido un cambio, pasando de ser un municipio fundamentalmente industrial a ser un municipio con predominio del sector servicios.
 
 Sin embargo, como consecuencia de las sucesivas crisis y de la gran inmigración que hay en la zona, numerosas familias se encuentran en una difícil situación económica por la falta de trabajo. Actualmente, la mayoría de nuestros alumnos se hallan en el seno de familias con nivel socioeconómico medio. Hay muchas familias en situación de desempleo con las dificultades que ello conlleva para los estudiantes que necesitan, más que nunca, apoyo educativo.

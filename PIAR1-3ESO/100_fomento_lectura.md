@@ -1,2 +1,0 @@
-# Fomento de la lectura
-

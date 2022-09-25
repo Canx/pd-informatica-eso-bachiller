@@ -26,7 +26,7 @@ La recuperación de la 3a evaluación se realizará durante la semana previa a l
 ## Calificación final
 La nota final del curso se calculará a partir de la media aritmética de las notas obtenidas en las tres evaluaciones con decimales, a la que se le aplicará un redondeo.
 
-Esta media solo se aplicará si todas y cada una de las evaluaciones haya sido superada. En caso de no superarse alguna evaluación la nota final será la nota mínima de las 3 evaluaciones, a la que se le truncarán los decimales. Ejemplo: Si se suspende una evaluación con un 4.6 y se aprueban las demás la calificación final será un 4.
+Esta media solo se aplicará si se supera todas y cada una de las evaluaciones. En caso de no superarse alguna evaluación la nota final será la nota mínima de las 3 evaluaciones, a la que se le truncarán los decimales. Ejemplo: Si se suspende una evaluación con un 4.6 y se aprueban las demás la calificación final será un 4.
 
 Solo se redondeará en caso de que la calificación final sea igual o superior a 5. En caso contrario se truncará la nota. Ejemplo: 4.9 es un 4 y  5.5 sería un 6.
 
