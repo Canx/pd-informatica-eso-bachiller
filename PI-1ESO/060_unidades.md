@@ -5,10 +5,10 @@
 ### Objetivos
 
 * Entrar con el usuario del aula en el ordenador.
-* Saber entrar en aules a través de la URL.
-* Acceder a aules mediante su usuario y contraseña.
-* Editar el perfil y cambiar el correo y el Avatar de un usuario.
+* Saber entrar en Aules.
+* Editar el perfil, cambiar el correo y el Avatar de un usuario.
 * Saber interactuar en foros para hacer o responder consultas.
+* Consultar documentos en Aules.
 * Consultar calificaciones de Aules.
 * Descargar y subir archivos en Aules.
 * Entender las fechas límite de entrega.
@@ -24,7 +24,7 @@
 
 ### Recursos
 
-* TypingClub
+* TypingClub, Tuxtype.
 
 ## UD3: Sistemas operativos y hardware
 
@@ -32,8 +32,10 @@
 
 * Conocer las funciones de los diferentes componentes de un ordenador.
 * Conocer los diferentes tipos de periféricos y su función.
-* Gestionar archivos y carpetas
-* Cononocer tipos de formatos de ficheros y conversión.
+* Gestionar y organizar eficientemente archivos y carpetas.
+* Nombrar adecuadamente los archivos y carpetas.
+* Cononocer tipos de formatos de ficheros
+* Ser capaz de convertir archivos a diferentes formatos.
 
 ### Adaptaciones
 

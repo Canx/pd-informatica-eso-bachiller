@@ -18,9 +18,7 @@ Tutoría entre iguales y aprendizaje cooperativo.
 Realizar adaptaciones no significativas. 
 Programas de mejora del aprendizaje y el rendimiento y otros programas de tratamiento personalizado para el alumnado con necesidad específica de apoyo educativo. 
 
-Por último recordar que el departamento no utiliza libros, lo que supone en sí una medida de atención a los alumnos con dificultades económicas.
-
-# Actividades y estrategias de enseñanza y aprendizaje
-
 La metodología utilizada en las clases de informática pretende ser motivadora, de forma que se fomente la creatividad y el autoaprendizaje entre el alumnado.
 Es especialmente importante la colaboración entre alumnos, de forma que los más avanzados ayuden al resto de compañeros. Todos pueden hacer de “profesores” en un momento dado, lo cual  pretende mejorar la autoestima y generar un ambiente de trabajo y colaboración en el aula.
+
+Por último recordar que el departamento no utiliza libros, lo que supone en sí una medida de atención a los alumnos con dificultades económicas.
