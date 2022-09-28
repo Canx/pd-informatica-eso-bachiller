@@ -1,4 +1,4 @@
-# Medidas de atención
+# Medidas de inclusión
 
 A continuación se describen las medidas de atención al alumnado con necesidad específica de apoyo educativo o con necesidad de compensación educativa.
 
