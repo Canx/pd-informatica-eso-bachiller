@@ -1,9 +1,17 @@
 #!/bin/bash
+
 ./make.sh -o pdf
 ./make.sh -o epub
 
 directorio="*/"
 ignoredirs="fonts/ images/ comun/ plantillas/"
+
+while getopts d: flag
+do
+    case "${flag}" in
+        d) directorio=${OPTARG};;
+    esac
+done
 
 # Subimos los pdfs a la carpeta remota
 for d in $directorio ; do

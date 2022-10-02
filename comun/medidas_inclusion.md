@@ -8,17 +8,39 @@ Se garantizará la accesibilidad, las adecuaciones y las personalizaciones de la
 
 Se utilizarán métodos que tengan en cuenta varias maneras de representación y expresión y los diferentes ritmos de aprendizaje del alumnado, que favorezcan la capacidad de aprender por sí mismos y que promuevan el trabajo en equipo utilizando los principios del diseño universal para el aprendizaje.
 
-Algunas de las medidas de inclusión inspiradas en los principios DUA serán:
+## Metodología DUA
 
-- Reducir la carga cognitiva y apoyarla mediante la introducción de vocabulario con soporte en imagen.
-- Enseñar competencias de forma rutinaria para que se conviertan en hábitos. Ejemplos: hacer login, guardar los trabajos en las carpetas correctas.
-- Introducir contenido en bloques más pequeños y practicar antes de avanzar contenido.
-- Usar contextos familiares para introducir nuevos conceptos, a ser posible de forma desconectada.
-- Crear material educativo accesible:
-  - En variedad de formatos: texto, imágenes, video y audio.
-  - Presentar contenido de forma verbal (hablando) y no verbal (imágenes).
-  - Usar fuentes de 12pt en texto y 24pt en presentaciones.
-  - No utilizar itálica y subrallado.
-  - Usar colores de fondo y primer plano con buen contraste.
-  - Incluir espacios en blanco y organizar el texto con títulos, párrafos y listas de ítems.
-  - Usar lenguaje simple, con frases cortas.
+Se aplicará la metodología DUA (Diseño Universal del Aprendizaje) que fomenta la inclusividad de forma eficiente. Se estructura en 3 principios que intentan activar diferentes tipos de redes neuronales que se relacionan simultaneamente durante el aprendizaje. A continuación se enumeran y se dan algunos ejemplos de acción: 
+
+* **Redes afectivas**\
+  Cada alumno puede tener diferentes caminos para activar su motivación. Ejemplos:
+  * Opciones para capturar los intereses
+    * Dar a los alumnos elección (de software, de proyecto, de tema,...)
+  * Opciones para mantener el esfuerzo y la persistencia
+    * Utilizar la programación en parejas o en grupos con roles claramente definidos.
+  * Opciones para la autoregulación
+    * Dividir las actividades con oportunidades para la reflexión, como turnos para hablar o preguntas escritas.
+    * Modelar diferentes estrategias para gestionar la fustración adecuadamente.
+
+* **Redes de reconocimiento**\
+  Cada alumno puede preferir el material en diferentes formatos.
+  * Opciones de percepción
+    * Utilizar pizarra interactiva, vídeos, representaciones físicas,...
+    * Seleccionar apps que puedan ajustar el tamaño de la fuente y el contraste.
+  * Opciones de lenguaje y símbolos
+    * Enseñar y revisar vocabulario (p.e.: código, animaciones, algoritmos,...)
+    * Proveer hojas de referencia de programación (cheatsheets).
+  * Opciones para comprensión
+    * Animar a los alumnos a preguntar
+    * Usar analogías relevantes y hacer conexiones entre asignaturas.
+
+* **Redes estrategicas**\
+  Cada alumno puede preferir aplicar lo aprendido de diferente forma.
+  * Opciones para la acción física
+    * Crear actividades "unplugged" donde el alumno pueda interactuar con representaciones físicas de conceptos abstractos.
+    * Utilizar tecnología asistiva, como diferentes tamaños de ratones o dispositivos táctiles.
+  * Opciones para la expresión y la comunicación
+    * Proveer listas de comprobación para comunicación y frases para colaborar, dar feedback y explicar el trabajo.
+    * Incluir código inicial
+
+

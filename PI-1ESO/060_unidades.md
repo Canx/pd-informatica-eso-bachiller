@@ -82,6 +82,6 @@
 
 ### Objetivos
 
-* Utilizar buenas prácticas en la creación de contraseñas.
+* Utilizar buenas prácticas en la creación y gestión de contraseñas.
 * Conocer los riesgos potenciales de la navegación en Internet y las redes sociales.
 * Aplicar técnicas de seguridad en la navegación en Internet.
