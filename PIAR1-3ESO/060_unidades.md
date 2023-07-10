@@ -49,5 +49,44 @@ Mediante el simulador de robots Gearsbot se resolverán diferentes tipos de prob
 
 ### Situaciones de aprendizaje sugeridas
 
-- **Gearsbot Challenges**: conjunto de 10 retos con palabras clave para introducir el simulador y su funcionamiento.
+- **Gearsbot: retos básicos**: conjunto de 10 retos con palabras clave para introducir el simulador y su funcionamiento.
 
+- **Gearsbot: retos siguelineas**: conjunto de retos para seguir pistas con lineas de creciente dificultad.
+
+- **Gearsbot: paintball**: programación de los actuadores y sensores para resolver retos de lanzamiento.
+
+- **Gearsbot: campeonato sumo**: diseño de robots y prueba de algoritmos de lucha, con campeonato final.
+
+## UD3: Inteligencia Artificial
+
+### Saberes básicos
+
+* 1.3. Fundamentos de la IA. Árboles de decisión. Big data, redes neuronales y aprendizaje automático.
+* 1.4. Procesamiento automático de la información.
+
+### Situaciones de aprendizaje sugeridas
+
+- **Mapa conceptual IA**: Diseño mediante markmap de un mapa conceptual de la IA.
+
+- **TeachableMachine. clasificación de residuos**: creación de un modelo clasificador de residuos mediante imagen.
+
+- **Scratch. clasificación de residuos**: integración del modelo clasificador en una aplicación de Scratch.
+
+### Saberes básicos con situaciones de aprendizaje por diseñar
+
+* 1.5. Igualdad y inclusion en sistemas IA. Sesgos.
+* 1.6. Implicaciones sociales y éticas de la inteligencia artificial.
+
+## UD4: Robótica real con Microbit
+
+### Saberes básicos
+
+* 3.3. Control de sistemas robotizados.
+* 3.4. Sensores, actuadores y controladores.
+* 3.5. Carga y ejecución de algoritmos en robots.
+
+### Situaciones de aprendizaje sugeridas
+
+- **Prácticas con Microbit**: corazón, mostrar temperatura, sensor de luz, piedra papel y tijera, brújula, cronómetro, música, música sincronizada, podómetro, reloj digital.
+
+- **Prácticas con Cutebot**:  Moverse adelante o atrás a toda velocidad, subir la velocidad gradualmente, "dibujar" un ocho, avanzar de forma "random", encender las luces de noche, intermitentes, evitar caídas, correr a lo largo de la linea negra.
