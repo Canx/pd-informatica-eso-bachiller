@@ -18,6 +18,7 @@ Se aplicará la metodología DUA (Diseño Universal del Aprendizaje) que fomenta
     * Dar a los alumnos elección (de software, de proyecto, de tema,...)
   * Opciones para mantener el esfuerzo y la persistencia
     * Utilizar la programación en parejas o en grupos con roles claramente definidos.
+    * Ofrecer tarjetas de recordatorio de usuarios y contraseñas.
   * Opciones para la autoregulación
     * Dividir las actividades con oportunidades para la reflexión, como turnos para hablar o preguntas escritas.
     * Modelar diferentes estrategias para gestionar la fustración adecuadamente.
