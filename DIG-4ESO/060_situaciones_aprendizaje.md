@@ -6,11 +6,15 @@ A continuación se enumeran potenciales situaciones de aprendizaje relacionadas 
 
 Los alumnos serán capaces de desarrollar aplicaciones móviles que ayuden a las personas a vivir de forma más sostenible.
 
-### Relación con el currículum
+### Criterios de evaluación
 
-* CE5. Afrontar los desafíos informáticos y digitales que la sociedad de la información plantea en los ámbitos personal, doméstico y educativo, y formular posibles soluciones.
+* CE2.4: Programar aplicaciones sencillas multiplataforma de manera creativa, de forma individual o colectiva, respetando los derechos de autoría y licencias de uso.
+* CE5.1: Gestionar situaciones de incertidumbre en entornos digitales con una actitud positiva, y afrontarlas utilizando el conocimiento adquirido y sintiéndose competente.
+* CE5.2: Desarrollar proyectos de digitalización en el entorno cotidiano con iniciativa, analizando las situaciones desde diferentes puntos de vista y proponiendo soluciones creativas.
+* CE5.3: Asumir proactivamente responsabilidades en el marco de un grupo de trabajo para abordar desafíos concretos propios de una sociedad digitalizada y conseguir metas conjuntas.
+* CE5.4: Resolver problemas técnicos sencillos analizando componentes y funciones de los dispositivos digitales, evaluando las soluciones de manera crítica y reformulando el procedimiento utilizado en caso necesario.
 
-### Procedimiento
+### Desarrollo
 
 #### Introducción a la sostenibilidad y a la tecnología móvil
 
