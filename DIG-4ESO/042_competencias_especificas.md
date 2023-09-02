@@ -3,7 +3,7 @@
 ### CE1. Diseñar equipos y redes de comunicación de uso personal y doméstico, y administrarlos y utilizarlos de manera segura y sostenible.
 
 * CE1.1: Diseñar ordenadores personales tomando decisiones razonadas, en base a sus requerimientos, así como la sostenibilidad y el consumo responsable.
-* CE1.2.: Diseñar redes domésticas aplicando los conocimientos y procesos asociados a sistemas de comunicaciones cableados e inalámbricos.
+* CE1.2: Diseñar redes domésticas aplicando los conocimientos y procesos asociados a sistemas de comunicaciones cableados e inalámbricos.
 * CE1.3: Conectar componentes de sistemas informáticos y redes domésticas, utilizando dispositivos físicos o simuladores.
 * CE1.4: Instalar, utilizar y mantener sistemas operativos y aplicaciones configurando sus características en función de sus necesidades personales.
 * CE1.5: Administrar dispositivos móviles y redes domésticas de manera segura y sostenible, según el uso para el que están destinados.
