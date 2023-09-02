@@ -2,32 +2,42 @@
 
 A continuación se enumeran descripciones de situaciones de aprendizaje relacionadas con el currículum que pueden ser desarrolladas en la programación de aula:
 
-## Ciberseguridad y Creatividad Digital
-Los estudiantes forman equipos para diseñar y presentar una campaña de concienciación sobre la importancia de la ciberseguridad. Deben crear contenido visual y multimedia (CE2.3) que explique los riesgos y medidas de seguridad en dispositivos digitales (CE3.1). Además, deben considerar la participación activa en la red y la ética digital al compartir su campaña en plataformas en línea (CE4.1).
+## Bloque 1: Dispositivos digitales, sistemas operativos y de comunicación
 
-## Exploración Digital del Medio Ambiente
-Los alumnos investigan cómo las tecnologías digitales pueden contribuir al desarrollo sostenible (CE4.5) y, luego, trabajan en equipos para diseñar soluciones digitales que promuevan la conciencia ambiental. Pueden desarrollar una aplicación móvil para rastrear hábitos sostenibles (CE2.4) y presentar su proyecto en línea a través de una plataforma colaborativa (CE2.5).
+1.1 **Monta Tu Propio Ordenador**: Los estudiantes trabajan en grupos para investigar, seleccionar componentes y simular el montaje de un ordenador con un presupuesto establecido.
 
-## Aprendizaje Colaborativo en la Nube
-Los estudiantes colaboran en la creación de un entorno personal de aprendizaje en línea (CE2.2) donde comparten recursos educativos y participan en foros de discusión sobre temas relevantes (CE2.5). Para ello, deben asegurar la privacidad y configurar adecuadamente las condiciones de seguridad en su plataforma (CE3.2).
+1.2. **Reto de Sostenibilidad**: Investigación y debate sobre el impacto ambiental de los dispositivos tecnológicos y cómo podemos contribuir a una tecnología más sostenible.
 
-## Resolución de Problemas Técnicos y Ciudadanía Digital
-Los alumnos resuelven problemas técnicos en dispositivos digitales (CE5.4) y crean tutoriales en video para compartir soluciones con la comunidad escolar en línea (CE2.5). A través de este proyecto, promueven el uso ético de herramientas digitales y la colaboración en línea (CE4.1).
+1.3. **Caza del Tesoro con Dispositivos Móviles**: Utilizando smartphones, los estudiantes participan en una actividad de geolocalización para resolver acertijos relacionados con la tecnología.
 
-## Emprendimiento Digital Ético
-Los estudiantes trabajan en equipos para diseñar una propuesta de negocio digital (CE4.2) que aborde una necesidad en la comunidad. Deben considerar la accesibilidad y la inclusión en su diseño (CE4.2), y crear un sitio web o una aplicación para presentar su idea de manera creativa (CE2.3).
+## Bloque 2: Digitalización del entorno personal de aprendizaje
 
-## Simulación de Activismo Ético en Línea
-Los alumnos investigan casos de activismo ético en línea y participan en una simulación de debate en línea (CE4.3), donde deben analizar la objetividad y los sesgos en los mensajes (CE4.4). A través de esta experiencia, fomentan el análisis crítico y la participación activa en la sociedad digital (CE4.1).
+2.1. **Buscadores y Veracidad de la Información**: Los estudiantes reciben una serie de afirmaciones y tienen que usar buscadores web para verificar su veracidad.
 
-## Gestión de Situaciones de Incertidumbre Tecnológica
-Los estudiantes se enfrentan a escenarios de incertidumbre en entornos digitales (CE5.1) donde deben tomar decisiones informadas para resolver problemas técnicos (CE5.4). Trabajando en equipos, deben investigar diferentes enfoques y presentar sus soluciones en un formato multimedia en línea (CE2.3).
+2.2. **Organización de Datos**: Los estudiantes simulan la gestión de un proyecto, organizando archivos, carpetas y tareas en un ambiente digital.
 
-## Proyecto de Red Doméstica Sostenible
-Los alumnos diseñan una red doméstica eficiente (CE1.2) con dispositivos conectados y optimizan su consumo energético (CE1.1). Luego, crean una presentación multimedia que explique su diseño y enfoque en la sostenibilidad, compartiéndolo en una plataforma colaborativa en línea (CE2.5).
+2.3. **Creación de un Portfolio Digital**: Utilizando herramientas de diseño web, cada estudiante crea un portfolio que refleje sus habilidades y logros digitales.
 
-## Desafíos Tecnológicos en el Entorno Escolar
-Los estudiantes trabajan en equipos para identificar desafíos digitales en su entorno escolar (CE5.2) y proponer soluciones digitales innovadoras (CE5.3). Deben investigar plataformas digitales que puedan mejorar la administración escolar y el acceso a la información (CE4.2).
+## Bloque 3: Seguridad y bienestar digital
 
-## Creación Responsable de Contenido Digital
-Los alumnos crean un proyecto multimedia sobre un tema relevante, como la ciberseguridad (CE3.1) y el impacto ambiental de la tecnología (CE4.5). Deben desarrollar contenidos originales (CE2.3) y presentarlos en una plataforma en línea, mientras aplican buenas prácticas de citación y derechos de autor (CE2.5).
+3.1. **Ciberseguridad y Juegos de Rol**: Simulación de ataques cibernéticos donde los estudiantes tienen que implementar medidas de seguridad para proteger su "red".
+
+3.2. **Reto de Privacidad Digital**: Actividad en la que los estudiantes deben encontrar y ajustar la configuración de privacidad en sus redes sociales.
+
+3.3. **Bienestar Digital y Balance de Vida**: Discusión y creación de un "Plan de Desconexión Digital" que los estudiantes deben seguir durante una semana.
+
+## Bloque 4: Ciudadanía digital crítica
+
+4.1. **Debate sobre Ética y Big Data**: Investigación y debate sobre casos recientes que involucren el uso ético de datos masivos.
+
+4.2. **Identificación y Desmentido de Fake News**: Los estudiantes investigan y presentan cómo identificar y desmentir noticias falsas.
+
+4.3. **Activismo Digital**: Creación de una campaña de sensibilización en línea sobre un tema social o ambiental elegido por los estudiantes.
+
+4.4. **Comercio Electrónico Seguro**: Simulación de compras en línea donde los estudiantes deben identificar sitios seguros y métodos de pago seguros.
+
+4.5. **Evaluación de Criptomonedas**: Debate y análisis crítico sobre el uso y la seguridad de las criptomonedas.
+
+4.6. **Firma y Certificados Digitales**: Taller práctico sobre cómo utilizar y entender la importancia de las firmas digitales y los certificados en la red.
+
+4.7. **Alfabetización Mediática**: Creación de un cortometraje o podcast que aborde la importancia de ser críticos con la información que consumimos en línea.
