@@ -1,6 +1,6 @@
 # Contenidos
 
-## Bloque 1. Dispositivos digitales, sistemas operativos y de comunicación.Bloque 1. Dispositivos digitales, sistemas operativos y de comunicación
+## Bloque 1. Dispositivos digitales, sistemas operativos y de comunicación
 
 ### Arquitectura de ordenadores
 

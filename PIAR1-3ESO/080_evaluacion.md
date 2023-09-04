@@ -1,13 +1,24 @@
 # Evaluación
 
-## Criterios de evaluación
+## Competencias y criterios de evaluación
 
-* CE1: Investigar, utilizar y desarrollar técnicas de inteligencia artificial y virtualización de la realidad en problemas básicos de la sociedad y seguir principio éticos y inclusivos.
-  * 1.1. Investigar y identificar situaciones donde se apliquen técnicas básicas de IA.
-  * 1.2. Comprender los fundamentos y el funcionamiento de las técnicas básicas de IA.
-  * 1.3. Comprender las implicaciones éticas y sociales de las técnicas básicas de IA.
-  * 1.4. Utilizar funciones de IA en aplicaciones sencillas de manera guiada.
-  * 1.5. Implementar técnicas de virtualización de la realidad sencillas.
+### CE1
+
+Identificar, investigar y emplear técnicas de inteligencia artificial y virtualización de la realidad en el abordaje y la búsqueda de soluciones a problemas básicos de la socidad valorando los principios éticos e inclusivos aplicados.
+
+#### Criterios de evaluación
+
+* 1.1. Identificar el funcionamiento de técnicas de IA.
+* 1.2. Investigar situaciones donde se aplican técnicas de IA.
+* 1.3. Valorar criterios éeticos aplicados a las funciones de IA.
+* 1.4. Emplear funciones de IA en aplicaciones sencillas siguiendo criterios éticos e inclusivos para buscar soluciones a problemas básicos.
+* 1.5. Emplear técnicas sencillas de virtualización de la realidad.
+
+### CE2
+
+Aplicar el pensamiento computacional en el análisis y resolución de problemas básicos significativos para el alumnado mediante el desarrollo de software.
+
+<CONTINUARÁ>
 
 * CE2: Aplicar el pensamiento computacional en el análisis y la resolución de problemas básicos mediante el desarrollo de programas.
   * 2.1. Comprender y aplicar el pensamiento computacional como herramienta para resolver problemas básicos.
