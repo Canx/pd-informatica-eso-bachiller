@@ -1,0 +1,16 @@
+# Introducción
+
+## Justificación de la programación
+
+La inteligencia artificial y la robótica se han incorporado a nuestras vidas en muchas de las tareas cotidianas y, junto con las posibilidades asociadas a la programación, conforman algunos de los elementos clave en la transformación de nuestra sociedad. La revolución digital de la segunda mitad del siglo XX posibilitó la aparición de la era de la información. Sin embargo, no fue hasta años más tarde, con el acceso mejorado a Internet, el procesamiento de grandes volúmenes de datos y su tratamiento automático a través de medios informáticos, cuando evolucionamos hacia la sociedad de la información, sucesora de la industrial. 
+
+Actualmente, desde principios del siglo XXI, la incorporación y desarrollo de la computación y su aplicación en sistemas de inteligencia no biológica y en robots suponen un efecto disruptor hacia una nueva revolución industrial y un punto de inflexión en el desarrollo de la sociedad. Este nuevo escenario proporciona suficientes motivos para que la codificación de algoritmos sea considerada una disciplina instrumental. 
+
+La materia Inteligencia Artificial, Programación y Robótica utiliza los fundamentos del pensamiento computacional para profundizar en el desarrollo del software, actuar sobre técnicas de inteligencia artificial, de la virtualización de la realidad y programar sistemas robóticos. Asimismo, las implicaciones de estas tecnologías para la sociedad son fruto de análisis y debate en esta materia, que contribuye al desarrollo científico, ético y social del alumnado.
+
+La aportación de esta materia al logro de los objetivos de etapa es muy relevante por las implicaciones de los aprendizajes que promueve. Su relación directa con las ciencias de la computación y la ingeniería le confiere las características necesarias para el desarrollo de las competencias tecnológicas y digitales básicas, así como de la reflexión ética sobre su funcionamiento y utilización. 
+
+Las metodologías activas que se proponen en las situaciones de aprendizaje favorecen el desarrollo del espíritu emprendedor y la confianza en sí mismo, la participación, el sentido crítico, la iniciativa personal y la capacidad para aprender a aprender, planificar, tomar decisiones y asumir responsabilidades. La transversalidad del conocimiento tecnológico y digital de esta materia es cada vez mayor en la sociedad, y la educación no es ajena a ello, siendo un magnífico soporte para otras materias de esta y sucesivas etapas educativas y laborales.
+
+Inteligencia Artificial, Programación y Robótica contribuye al perfil de salida del alumnado de la Educación Secundaria Obligatoria mediante aportaciones específicas valiosas para la formación integral del alumnado y que conectan con otras materias, principalmente del ámbito científico. El carácter práctico e inclusivo de esta materia también le confiere una importante relación con materias del ámbito lingüístico y ético debido al continuo diálogo que se debe mantener para poder abordar y resolver los desafíos del siglo XXI.
+
