@@ -18,7 +18,7 @@
 
 ## Prerequisitos
 
-- Libreoffice 7.4 o superior
+- Libreoffice 7.4
 - Pandoc 2.19 o superior
 - pandoc-include
 - csv2md

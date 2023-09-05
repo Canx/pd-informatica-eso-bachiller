@@ -1,4 +1,4 @@
 ---
-title: Programación, Redes y Sistemas Informáticos I
-subtitle: Programación didáctica (1º Bachiller) - BORRADOR
+title: Programación, Redes y Sistemas Informáticos II
+subtitle: Programación didáctica (2º Bachiller - LOMLOE)
 ---

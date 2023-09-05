@@ -28,24 +28,28 @@ $endfor$
 $for(include-before)$
 $include-before$
 $endfor$
-$if(title)$
-<header id="title-block-header">
-<h1 class="title">$title$</h1>
-$if(subtitle)$
-<p class="subtitle">$subtitle$</p>
-$endif$
-<div id="header_bottom_text">
-<p class="author">Departamento de informática</p>
-<p class="email">IES Maria Carbonell i Sánchez</p>
-$if(current_date)$
-<p class="date">Revisión: $current_date$</p>
-$endif$
-</div>
-</header>
-$endif$
+<section if="firstpage">
+  $if(title)$
+  <header id="title-block-header">
+    <h1 class="title">$title$</h1>
+    $endif$
+    $if(subtitle)$
+    <p class="subtitle">$subtitle$</p>
+    $endif$
+    <p class="author">$author$</p>
+    $if(current_date)$
+    <p class="date">Revisión: $current_date$</p>
+    $endif$
+  </header>
+</section>
+<section id="copyright">
+  <p>© Departamento de Informática IES María Carbonell i Sanchez, 2023</p>
+  <p>Todos los derechos reservados.</p>
+  <p>No está permitida la reproducción total o parcial de este documento, ni su tratamiento informático, ni la transmisión de ninguna forma o por cualquier medio, ya sea electrónico, mecánico, por fotocopia, por registro u otros medios, sin el permiso previo y por escrito de los titulares del Copyright.</p>
+</section>
 $if(toc)$
 <nav id="$idprefix$TOC">
- <div id="contentsbox"><p>Índice</p></div>
+<h1>Índice</h1>
 $table-of-contents$
 </nav>
 $endif$

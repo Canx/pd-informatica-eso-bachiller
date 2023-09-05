@@ -167,8 +167,6 @@ ol li:before {
 
 /* Códigos de bloques */
 
-header{margin-left:1cm; margin-top:15cm;border-left: 1px solid #aaa;min-height:6.5cm;}
-
 pre {
   font-size: 0.875em;
   padding: 1rem;

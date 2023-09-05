@@ -1,4 +1,4 @@
-## UD 1: TITULO DE LA UNIDAD
+## UD 1: TITULO DE LA UNIDAD / SITUACIÓN DE APRENDIZAJE
 
 ### Objetivos
 
@@ -12,7 +12,7 @@
 * Sesión 2: TITULO
 * ...
   
-#### Sesión 1: TÍTULO DE LA SITUACIÓN DE APRENDIZAJE
+#### Sesión 1
 
 #### Objetivo
 

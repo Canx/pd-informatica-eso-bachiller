@@ -10,13 +10,13 @@
 
 ### CE2. Diseñar, instalar, configurar y administrar sistemas informáticos en el entorno personal y de pequeños grupos de trabajo utilizándolos de manera segura y sostenible.
 
-2.1. Razonar el diseño de un sistema informático en el entorno personal y de pequeños grupos de trabajo y seleccionar los componentes, valorando su eficiencia, aplicando medidas de sostenibilidad.
+* 2.1. Razonar el diseño de un sistema informático en el entorno personal y de pequeños grupos de trabajo y seleccionar los componentes, valorando su eficiencia, aplicando medidas de sostenibilidad.
 
-2.2. Instalar, configurar y administrar sistemas operativos en pequeños grupos de trabajo.
+* 2.2. Instalar, configurar y administrar sistemas operativos en pequeños grupos de trabajo.
 
-2.3. Instalar, configurar y administrar aplicaciones en pequeños grupos de trabajo.
+* 2.3. Instalar, configurar y administrar aplicaciones en pequeños grupos de trabajo.
 
-2.4. Identificar incidencias en sistemas informáticos en el entorno personal y de pequeños grupos de trabajo y proponer soluciones razonadas de manera crítica.
+* 2.4. Identificar incidencias en sistemas informáticos en el entorno personal y de pequeños grupos de trabajo y proponer soluciones razonadas de manera crítica.
 
 ### CE3. Diseñar, configurar y administrar redes informáticas seguras para pequeños grupos de trabajo.
 * 3.1. Diseñar redes informáticas para pequeños grupos de trabajo evaluando las diferentes alternativas y seleccionando la más adecuada según su propósito.
