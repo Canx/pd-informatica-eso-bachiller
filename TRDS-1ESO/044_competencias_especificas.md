@@ -2,7 +2,7 @@
 
 ### CE1: Utilizar dispositivos digitales de uso personal en el entorno doméstico y educativo de forma saludable, segura y sostenible.
 
-- 1.1 Identificar características básicas de los dispositivos digitales de uso personal en el entorno doméstico y educativo.
+- 1.1. Identificar características básicas de los dispositivos digitales de uso personal en el entorno doméstico y educativo.
 - 1.2. Determinar qué dispositivo y modo de acceso a Internet es el más adecuado a las necesidades.
 - 1.3. Conectar dispositivos digitales a Internet de manera segura.
 - 1.4. Reconocer las implicaciones del uso y consumo de tecnología sobre la salud y el medio ambiente.
