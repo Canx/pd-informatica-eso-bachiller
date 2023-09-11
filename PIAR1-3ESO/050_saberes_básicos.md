@@ -28,4 +28,4 @@
 * 3.3. Control de sistemas robotizados.
 * 3.4. Sensores, actuadores y controladores.
 * 3.5. Carga y ejecución de algoritmos en robots.
-* 3.6. Sistemas robotizados en la expreimentación con prototipos diseñados.
+* 3.6. Sistemas robotizados en la experimentación con prototipos diseñados.
