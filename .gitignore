@@ -1,6 +1,7 @@
-*.html
 *.pdf
 *.epub
 *.csv
 *.swp
 *.docx
+**/*.html
+.last_hash

@@ -1,4 +1,4 @@
-## Competencias específicas
+## Competencias específicas y criterios de evaluación
 
 ### CE1: Utilizar dispositivos digitales de uso personal en el entorno doméstico y educativo de forma saludable, segura y sostenible.
 

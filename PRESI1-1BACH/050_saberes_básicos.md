@@ -48,4 +48,3 @@ operadores y conversiones, expresiones, estructuras de control, funciones y proc
 * 4.9. Gestión de identidad digital. La huella digital.
 * 4.10. Estrategias para una ciberconvivencia igualitaria, segura y saludable. Etiqueta digital.
 * 4.11. La privacidad en la red. La protección de los datos de carácter personal. Información y consentimiento.
-
