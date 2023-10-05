@@ -52,6 +52,11 @@ function convert_ods_to_md() {
 # Parámetros: Ninguno
 # Devuelve: Ninguno (genera archivos PDF/EPUB en el directorio actual)
 function generate_programming() {
+  local force=false
+  if [ "$1" == "--force" ]; then
+    force=true
+  fi
+
   for d in $directorio ; do
     if [[ " $ignoredirs " =~ .*\ $d\ .* ]]; then
       continue;
@@ -69,8 +74,8 @@ function generate_programming() {
       last_hash=""
     fi
 
-    # Compara los hashes
-    if [ "$current_hash" = "$last_hash" ]; then
+    # Compara los hashes o usa la opción de forzar
+    if [ "$current_hash" = "$last_hash" ] && [ "$force" = false ]; then
       echo "No hay cambios en '$d', omitiendo..."
       cd ..
       continue
@@ -120,9 +125,23 @@ function generate_readme() {
 }
 
 # Variables globales
+force=false
 directorio="*/"
 salida="pdf"
 ignoredirs="fonts/ images/ comun/ plantillas/ TIC-4ESO/ INF-2ESO/ TIC2-2BACH/ PI-1ESO/ Legislación/"
+
+# Manejo de opciones con getopts
+while getopts "f" opt; do
+  case $opt in
+    f)
+      force=true
+      ;;
+    \?)
+      echo "Opción inválida: -$OPTARG" >&2
+      exit 1
+      ;;
+  esac
+done
 
 # Invocar la función de verificación de dependencias al inicio del script
 check_dependencies
@@ -131,7 +150,11 @@ check_dependencies
 convert_ods_to_md
 
 # Generar programaciones
-generate_programming
+if [ "$force" = true ]; then
+  generate_programming --force
+else
+  generate_programming
+fi
 
 # Generar README.md
 generate_readme

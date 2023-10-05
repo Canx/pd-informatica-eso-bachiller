@@ -33,6 +33,6 @@ Solo se redondeará en caso de que la calificación final sea igual o superior a
 ## Recuperación de pendientes
 En caso de tener la asignatura pendiente y seguir cursandola durante el curso actual se podrá recuperar automáticamente si se superan las dos primeras evaluaciones.
 
-En caso de no aprobar la asignatura o no tenerla se podrá optar a la realización de un trabajo con plazo de entrega antes del 5 de abril a las 12:05h, o a la realización de un examen el mismo día y hora en el aula INF3. La recuperación de pendientes tendrá como nota máxima un 5, al considerarse una prueba de mínimos.
+En caso de no aprobar la asignatura o no tenerla se podrá optar a la realización de un trabajo con plazo de entrega antes del 18 de abril a las 11:55h, o a la realización de un examen el mismo día y hora en el aula INF3. La recuperación de pendientes tendrá como nota máxima un 5, al considerarse una prueba de mínimos.
 
 La coordinación y la ayuda a los alumnos se realizará a través de un curso específico en la plataforma Aules y mediante correo electrónico, y será coordinada por el jefe de departamento.
