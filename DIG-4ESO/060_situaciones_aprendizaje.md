@@ -4,7 +4,7 @@ A continuación se enumeran descripciones de situaciones de aprendizaje relacion
 
 ## Monta tu propio ordenador
 
-Saberes básicos: [B1.1](050_saberes_basicos.md#b11-arquitectura-de-ordenadores), [B1.4](DIG-4ESO/050_saberes_basicos.md#b14-resolución-de-problemas)
+Saberes básicos: [B1.1](050_saberes_basicos.md#b11-arquitectura-de-ordenadores), [B1.4](050_saberes_basicos.md#b14-resolución-de-problemas)
 
 Los estudiantes trabajan en grupos para investigar, seleccionar componentes y simular el montaje de un ordenador con un presupuesto establecido.
  
