@@ -4,9 +4,12 @@ A continuación se enumeran descripciones de situaciones de aprendizaje relacion
 
 ## Monta tu propio ordenador
 
-Saberes básicos: 
+### Saberes básicos: 
   - [B1.1. Arquitectura de ordenadores](050_saberes_basicos.md#b11-arquitectura-de-ordenadores)
   - [B1.4. Resolución de problemas](050_saberes_basicos.md#b14-resolución-de-problemas)
+
+### Competencias específicas
+  - [CE1. Diseñar equipos y redes de comunicación de uso personal y doméstico, y administrarlos y utilizarlos de manera segura y sostenible.](042_competencias_especificas.md#ce1-diseñar-equipos-y-redes-de-comunicación-de-uso-personal-y-doméstico-y-administrarlos-y-utilizarlos-de-manera-segura-y-sostenible)
 
 Los estudiantes trabajan en grupos para investigar, seleccionar componentes y simular el montaje de un ordenador con un presupuesto establecido.
  
