@@ -2,6 +2,12 @@
 
 A continuación se enumeran descripciones de situaciones de aprendizaje relacionadas con el currículum que pueden ser desarrolladas en la programación de aula:
 
+## Monta tu propio ordenador
+
+Saberes básicos: [B1.1](050_saberes_basicos.md#b11-arquitectura-de-ordenadores), B1.4
+Los estudiantes trabajan en grupos para investigar, seleccionar componentes y simular el montaje de un ordenador con un presupuesto establecido.
+ 
+
 ## Bloque 1: Dispositivos digitales, sistemas operativos y de comunicación
 
 1.1 **Monta Tu Propio Ordenador**: Los estudiantes trabajan en grupos para investigar, seleccionar componentes y simular el montaje de un ordenador con un presupuesto establecido.
