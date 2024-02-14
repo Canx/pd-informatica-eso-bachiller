@@ -8,8 +8,8 @@ A continuación se enumeran descripciones de situaciones de aprendizaje relacion
   - [B1.1. Arquitectura de ordenadores](050_saberes_basicos.md#b11-arquitectura-de-ordenadores)
   - [B1.4. Resolución de problemas](050_saberes_basicos.md#b14-resolución-de-problemas)
 
-### Competencias específicas
-  - [CE1. Diseñar equipos y redes de comunicación de uso personal y doméstico, y administrarlos y utilizarlos de manera segura y sostenible.](042_competencias_especificas.md#ce1-diseñar-equipos-y-redes-de-comunicación-de-uso-personal-y-doméstico-y-administrarlos-y-utilizarlos-de-manera-segura-y-sostenible)
+### Criterios de evaluación
+  - [CR1.1: Diseñar ordenadores personales tomando decisiones razonadas, en base a sus requerimientos, así como la sostenibilidad y el consumo responsable.](042_competencias_especificas.md#ce1-diseñar-equipos-y-redes-de-comunicación-de-uso-personal-y-doméstico-y-administrarlos-y-utilizarlos-de-manera-segura-y-sostenible)
 
 Los estudiantes trabajan en grupos para investigar, seleccionar componentes y simular el montaje de un ordenador con un presupuesto establecido.
  
