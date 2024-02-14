@@ -2,7 +2,7 @@
 
 ## Bloque 1. Dispositivos digitales, sistemas operativos y de comunicación
 
-### Arquitectura de ordenadores
+### B1.1. Arquitectura de ordenadores
 
 * La representación digital de la información. Unidades de medida.
 * Diseño de un ordenador personal. Elementos, componentes físicos y sus características.
@@ -11,18 +11,18 @@
 * Interacción de los componentes del equipo informático en su funcionamiento. Prestaciones y rendimiento.
 * Dispositivos móviles. Características básicas.
 
-### Sistemas operativos
+### B1.2. Sistemas operativos
 
 * Sistemas operativos comunes para ordenadores personales y dispositivos móviles.
 * Instalación, configuración, actualización y desinstalación de aplicaciones.
 
-### Sistemas de comunicación e Internet
+### B1.3. Sistemas de comunicación e Internet
 
 * Tipos de redes de ordenadores. Redes cableadas e inalámbricas.
 * Dispositivos de red. Internet de las cosas
 * Instalación, configuración y mantenimiento de redes personales y domésticas. Simulación de redes.
 
-### Resolución de problemas
+### B1.4. Resolución de problemas
 
 * Estrategias para la prevención de problemas técnicos.
 * Herramientas de monitorización.
@@ -30,7 +30,7 @@
 
 ## Bloque 2. Digitalización del entorno personal de aprendizaje
 
-### Búsqueda y selección de información
+### B2.1. Búsqueda y selección de información
 
 * Tipos de buscadores web y sus herramientas de filtrado.
 * Selección de información en medios digitales a través de buscadores web
@@ -39,13 +39,13 @@ contrastando su veracidad.
 autoría y licencias de distribución y explotación.
 
 
-### Organizacíón del entorno de trabajo digital
+### B2.2. Organizacíón del entorno de trabajo digital
 
 * Organización de la información en el almacenamiento secundario y en red.
 * Operaciones básicas con archivos y carpetas.
 * Personalización del entorno de trabajo.
 
-### Creación de contenidos digitales
+### B2.3. Creación de contenidos digitales
 
 * Estética y lenguaje audiovisual.
 * Creación de contenidos digitales con herramientas ofimáticas, multimedia y de
@@ -55,14 +55,14 @@ software propietario. Licencias de software.
 * Gestión y organización del trabajo en pequeños grupos. Roles en el diseño,
 producción y publicación.
 
-### Programación de aplicaciones
+### B2.4. Programación de aplicaciones
 
 * Algoritmos y entornos de desarrollo de software.
 * Desarrollo de aplicaciones sencillas para ordenadores personales, dispositivos
 móviles y web. Aplicaciones de realidad virtual, aumentada y mixta.
 * Inteligencia artificial en aplicaciones informáticas.
 
-### Comunicación y colaboración en red
+### B2.5. Comunicación y colaboración en red
 
 * Servicios de Internet: www, correo electrónico, videoconferencia, mensajería
 instantánea, etc.
@@ -74,7 +74,7 @@ electrónico y las redes sociales. Estrategias para una ciberconvivencia igualit
 segura y saludable.
 * Implicaciones que el uso de los dispositivos digitales tiene sobre la salud, la sostenibilidad y el medio ambiente.
 
-### Publicación y difusión responsable en redes
+### B2.6. Publicación y difusión responsable en redes
 
 * Publicación multimedia. Publicación web en servidores web y sistemas gestores de
 contenidos.
@@ -82,7 +82,7 @@ contenidos.
 
 ## Bloque 3. Seguridad y bienestar digital
 
-### Seguridad en el uso de dispositivos y datos
+### B3.1. Seguridad en el uso de dispositivos y datos
 
 * Uso seguro de dispositivos y datos. Herramientas de seguridad.
 * Medidas preventivas y correctivas para hacer frente a riesgos, amenazas y ataques
@@ -91,7 +91,7 @@ a dispositivos.
 * La privacidad en la red. Configuración en redes sociales La protección de los datos
 de carácter personal. Información y consentimiento.
 
-### Bienestar en entornos digitales
+### B3.2. Bienestar en entornos digitales
 
 * Medidas para proteger la salud física. Ergonomía. Medidas para salvaguardar el
 bienestar personal.
@@ -102,38 +102,38 @@ el medio ambiente.
 
 ## Bloque 4. Ciudadanía digital crítica.
 
-### Interactividad en la red
+### B4.1. Interactividad en la red
 
 * Estrategias para una ciberconvivencia igualitaria, segura y saludable. Etiqueta
 digital.
 * La privacidad en la red. La protección de los datos de carácter personal. Información y consentimiento.
 
-### Educación mediática
+### B4.2. Educación mediática
 
 * Alfabetización mediática y libertad de expresión.
 * Hábitos, conductas y estrategias comunicativas para el debate crítico a través de la red.
 * Herramientas para detectar noticias falsas y bulos.
 
-### Gestiones administrativas
+### B4.3. Gestiones administrativas
 
 * Ciudadanía digital. Servicios públicos en línea. Registros digitales.
 * Sistemas de identificación en la red. El certificado y la firma digital. Contraseñas
 seguras
 
-### Comercio electrónico
+### B4.4. Comercio electrónico
 
 * El comercio electrónico. Estándares de intercambio electrónico de datos.
 * Formas de pago. Monedas digitales. Criptomonedas.
 * Estrategias para detección de fraudes.
 
-### Ética en el uso de datos y herramientas digitales
+### B4.5. Ética en el uso de datos y herramientas digitales
 
 * Implicaciones éticas del big data y la inteligencia artificial.
 * Sesgos algorítmicos e ideológicos.
 * Obsolescencia programada.
 * Soberanía tecnológica y digitalización sostenible.
 
-### Activismo en línea
+### B4.6. Activismo en línea
 
 * Plataformas de iniciativa ciudadana.
 * Activismo digital. Cibervoluntariado.
