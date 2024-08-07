@@ -8,6 +8,10 @@
 
 - [Programación, Inteligencia artificial y robótica I](./PIAR1-3ESO)
 
+## 4ESO
+
+- [Digitalizacion](./DIG-4ESO)
+
 ## 1º BACHILLER
 
 - [Programación redes y sistemas informáticos I](./PRESI1-1BACH)
