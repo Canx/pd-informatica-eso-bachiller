@@ -1,6 +1,6 @@
 # Situaciones de aprendizaje
 
-El curso tendrá como tema transversal la creación de una empresa que se dedique a resolver un problema asociado a uno o varios ODS utilizando herramientas digitales.
+El curso tendrá como tema transversal la creación de una empresa que se dedique a resolver un problema asociado a un ODS utilizando herramientas digitales.
 
 1. **Primer Trimestre:** 30 horas dedicadas a la infraestructura tecnológica, organización digital y primeras fases de la empresa ODS.
 2. **Segundo Trimestre:** 30 horas centradas en el desarrollo de contenidos digitales, creación de aplicaciones y seguridad digital.
