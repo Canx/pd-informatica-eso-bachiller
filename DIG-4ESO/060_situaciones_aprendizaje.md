@@ -85,8 +85,6 @@ Esta estructura asegura que cada trimestre esté equilibrado en términos de con
 
 ## Ejemplos de empresas ODS
 
-Claro, aquí tienes ejemplos prácticos de startups para varios ODS, con un enfoque más accesible y fácil de entender para el alumnado:
-
 ### **1. Fin de la Pobreza (ODS 1)**
 
 **Startup:** **HelpBuddy**
