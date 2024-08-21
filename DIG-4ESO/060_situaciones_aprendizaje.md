@@ -1,56 +1,86 @@
 # Situaciones de aprendizaje
 
-A continuación se enumeran descripciones de situaciones de aprendizaje relacionadas con el currículum que pueden ser desarrolladas en la programación de aula:
+El curso tendrá como tema transversal la creación de una empresa que se dedique a resolver un problema asociado a uno o varios ODS utilizando herramientas digitales.
 
-## SA1. Monta tu propio ordenador
+1. **Primer Trimestre:** 30 horas dedicadas a la infraestructura tecnológica, organización digital y primeras fases de la empresa ODS.
+2. **Segundo Trimestre:** 30 horas centradas en el desarrollo de contenidos digitales, creación de aplicaciones y seguridad digital.
+3. **Tercer Trimestre:** 30 horas enfocadas en comercio electrónico, ética digital, y presentación final de proyectos.
 
-### Saberes básicos
-  - [B1.1. Arquitectura de ordenadores](050_saberes_basicos.md#b11-arquitectura-de-ordenadores)
-  - [B1.4. Resolución de problemas](050_saberes_basicos.md#b14-resolución-de-problemas)
+Esta estructura asegura que cada trimestre esté equilibrado en términos de contenido y progresión, permitiendo a los estudiantes avanzar de manera coherente hacia la creación y gestión de su empresa ODS, mientras adquieren habilidades clave en tecnología y programación.
+## **Primer Trimestre (30 horas)**
 
-### Criterios de evaluación
-  - [CR1.1: Diseñar ordenadores personales tomando decisiones razonadas, en base a sus requerimientos, así como la sostenibilidad y el consumo responsable.](042_competencias_especificas.md#ce1-diseñar-equipos-y-redes-de-comunicación-de-uso-personal-y-doméstico-y-administrarlos-y-utilizarlos-de-manera-segura-y-sostenible)
+**Objetivo:** Introducir a los estudiantes en la infraestructura tecnológica, la gestión básica de sistemas operativos y redes, y comenzar con la planificación y organización digital de la empresa ODS.
 
-### Descripción
-Los estudiantes trabajan en grupos para investigar, seleccionar componentes y simular el montaje de un ordenador con un presupuesto establecido.
- 
+**1. Introducción y Planificación del Curso (3 horas)**
+   - Formación de grupos y asignación de ODS.
+   - Introducción a los ODS y la relevancia de la tecnología en su cumplimiento.
 
-## Bloque 1: Dispositivos digitales, sistemas operativos y de comunicación
+**2. Proyecto 1: Diseño de la Infraestructura Tecnológica de la Empresa ODS (18 horas)**
+   - **B1.1. Arquitectura de ordenadores (6 horas)**
+     - Diseño y selección de hardware.
+     - Simulación y configuración de componentes.
+   - **B1.2. Sistemas operativos (4 horas)**
+     - Instalación y configuración del sistema operativo.
+     - Introducción al software libre.
+   - **B1.3. Sistemas de comunicación e Internet (4 horas)**
+     - Configuración de redes internas y acceso a Internet.
+   - **B1.4. Resolución de problemas (2 horas)**
+     - Detección y solución de problemas técnicos.
 
-1.1 **Monta Tu Propio Ordenador**: Los estudiantes trabajan en grupos para investigar, seleccionar componentes y simular el montaje de un ordenador con un presupuesto establecido.
+**3. Proyecto 2: Organización y Preparación del Entorno de Trabajo Digital (9 horas)**
+   - **B2.1. Búsqueda y selección de información (4 horas)**
+     - Investigación sobre los ODS.
+     - Verificación de información y propiedad intelectual.
+   - **B2.2. Organización del entorno de trabajo digital (5 horas)**
+     - Organización de archivos en la nube y personalización del entorno de trabajo.
 
-1.2. **Reto de Sostenibilidad**: Investigación y debate sobre el impacto ambiental de los dispositivos tecnológicos y cómo podemos contribuir a una tecnología más sostenible.
+**Evaluación del Primer Trimestre (3 horas)**
+   - Revisión de los avances en el Proyecto 1 y 2.
+   - Reflexión sobre los aprendizajes y ajuste de objetivos para el segundo trimestre.
 
-1.3. **Caza del Tesoro con Dispositivos Móviles**: Utilizando smartphones, los estudiantes participan en una actividad de geolocalización para resolver acertijos relacionados con la tecnología.
+## **Segundo Trimestre (30 horas)**
 
-## Bloque 2: Digitalización del entorno personal de aprendizaje
+**Objetivo:** Desarrollo de contenidos digitales, creación de aplicaciones y profundización en la seguridad digital y el bienestar en entornos digitales.
 
-2.1. **Buscadores y Veracidad de la Información**: Los estudiantes reciben una serie de afirmaciones y tienen que usar buscadores web para verificar su veracidad.
+**1. Continuación del Proyecto 2: Desarrollo y Gestión de la Presencia Digital de la Empresa ODS (15 horas)**
+   - **B2.3. Creación de contenidos digitales (6 horas)**
+     - Desarrollo de la página web de la empresa.
+     - Creación de contenidos multimedia.
+   - **B2.4. Programación de aplicaciones (9 horas)**
+     - Desarrollo de una aplicación relacionada con el ODS.
+     - Introducción a la inteligencia artificial y su uso en la aplicación.
 
-2.2. **Organización de Datos**: Los estudiantes simulan la gestión de un proyecto, organizando archivos, carpetas y tareas en un ambiente digital.
+**2. Proyecto 3: Protección de Datos y Bienestar Digital en la Empresa ODS (12 horas)**
+   - **B3.1. Seguridad en el uso de dispositivos y datos (6 horas)**
+     - Implementación de políticas de seguridad en la empresa.
+     - Simulación de ataques y defensa.
+   - **B3.2. Bienestar en entornos digitales (6 horas)**
+     - Evaluación y mejora de la ergonomía y bienestar digital.
 
-2.3. **Creación de un Portfolio Digital**: Utilizando herramientas de diseño web, cada estudiante crea un portfolio que refleje sus habilidades y logros digitales.
+**Evaluación del Segundo Trimestre (3 horas)**
+   - Presentación de los avances en el desarrollo web y aplicaciones.
+   - Evaluación del nivel de seguridad y bienestar implementado en la empresa.
 
-## Bloque 3: Seguridad y bienestar digital
+## **Tercer Trimestre (30 horas)**
 
-3.1. **Ciberseguridad y Juegos de Rol**: Simulación de ataques cibernéticos donde los estudiantes tienen que implementar medidas de seguridad para proteger su "red".
+**Objetivo:** Enfocar la empresa ODS hacia el comercio electrónico, la ética digital y la ciudadanía activa, culminando en la presentación final del proyecto.
 
-3.2. **Reto de Privacidad Digital**: Actividad en la que los estudiantes deben encontrar y ajustar la configuración de privacidad en sus redes sociales.
+**1. Proyecto 4: Ética, Activismo y Comercio Electrónico en la Empresa ODS (22 horas)**
+   - **B4.1. Interactividad en la red (4 horas)**
+     - Desarrollo de estrategias de ciberconvivencia saludable.
+   - **B4.2. Educación mediática (4 horas)**
+     - Capacitación en alfabetización mediática y detección de noticias falsas.
+   - **B4.4. Comercio electrónico (8 horas)**
+     - Creación y configuración de la tienda online.
+     - Introducción a criptomonedas y detección de fraudes.
+   - **B4.5. Ética en el uso de datos y herramientas digitales (6 horas)**
+     - Reflexión sobre ética en big data e inteligencia artificial.
+     - Sostenibilidad digital y obsolescencia programada.
 
-3.3. **Bienestar Digital y Balance de Vida**: Discusión y creación de un "Plan de Desconexión Digital" que los estudiantes deben seguir durante una semana.
+**2. Cierre y Evaluación del Curso (8 horas)**
+   - Presentación final de los proyectos (4 horas).
+   - Evaluación de los aprendizajes (3 horas).
+   - Autoevaluación y reflexión sobre el curso (1 hora).
 
-## Bloque 4: Ciudadanía digital crítica
+---
 
-4.1. **Debate sobre Ética y Big Data**: Investigación y debate sobre casos recientes que involucren el uso ético de datos masivos.
-
-4.2. **Identificación y Desmentido de Fake News**: Los estudiantes investigan y presentan cómo identificar y desmentir noticias falsas.
-
-4.3. **Activismo Digital**: Creación de una campaña de sensibilización en línea sobre un tema social o ambiental elegido por los estudiantes.
-
-4.4. **Comercio Electrónico Seguro**: Simulación de compras en línea donde los estudiantes deben identificar sitios seguros y métodos de pago seguros.
-
-4.5. **Evaluación de Criptomonedas**: Debate y análisis crítico sobre el uso y la seguridad de las criptomonedas.
-
-4.6. **Firma y Certificados Digitales**: Taller práctico sobre cómo utilizar y entender la importancia de las firmas digitales y los certificados en la red.
-
-4.7. **Alfabetización Mediática**: Creación de un cortometraje o podcast que aborde la importancia de ser críticos con la información que consumimos en línea.
