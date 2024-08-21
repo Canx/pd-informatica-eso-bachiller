@@ -83,7 +83,7 @@ Esta estructura asegura que cada trimestre esté equilibrado en términos de con
    - Evaluación de los aprendizajes (3 horas).
    - Autoevaluación y reflexión sobre el curso (1 hora).
 
-## Ejemplos de startups ODS
+## Ejemplos de empresas ODS
 
 Claro, aquí tienes ejemplos prácticos de startups para varios ODS, con un enfoque más accesible y fácil de entender para el alumnado:
 
