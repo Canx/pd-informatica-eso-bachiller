@@ -3,9 +3,8 @@
 ## Calificación de una evaluación
 El porcentaje de cada ítem concreto será variable dependiendo de los criterios concretos de cada profesor, que deberán estar en los siguientes márgenes:
 
-* 30% a 90%: prácticas y proyectos, en proporción relativa al tiempo dedicado en clase.
-* 0% a 60%: exámenes
-* 0% a 10%: actitud
+* 90%: prácticas y proyectos, en proporción relativa al tiempo dedicado en clase.
+* 0% a 10%: competencia social y cívica, que estará integrada dentro de las rúbricas de cada práctica o proyecto.
 
 La evaluación se considerará **superada** cuando la nota de la evaluación sin redondeo sea igual o superior a 5.
 

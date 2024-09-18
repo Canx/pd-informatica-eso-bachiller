@@ -7,7 +7,7 @@ La normativa específica de inclusión en la Comunidad Valenciana está regulada
 
 A continuación se describen las posibles medidas de atención al alumnado con necesidad específica de apoyo educativo o con necesidad de compensación educativa.
 
-## Medidas de accesibilidad en el aula de informática
+## Medidas de accesibilidad
 
 * Sentarse en la primera fila.
 * Utilización de Epoptes para mejorar la visualización.
@@ -16,17 +16,17 @@ A continuación se describen las posibles medidas de atención al alumnado con n
 * Grabación de las clases magistrarles con subtítulos automáticos.
 * Actividades de refuerzo para alumnado que tiene dificultades para el uso del teclado o ratón.
 
-## Medidas para el aprendizaje en el aula de informática
+## Medidas para el aprendizaje
 
 * Utilización de metodologías activas: cooperativo, ABP,...
 * Diferentes tipos de evaluación
-* Enseñanza multinivel y [DUA-A](https://portal.edu.gva.es/cefireinclusiva/es/dua-a-2/).
+* Diseño de actividades multinivel y [DUA-A](https://portal.edu.gva.es/cefireinclusiva/es/dua-a-2/).
 * Se realizarán adaptaciones metodológicas y apoyos especialmente para:
   * alumnado repetidor o que tenga pendiente la asignatura de otro año.
   * alumnado recién llegado que no entienda la lengua.
 * Enriquecimiento curricular para el alumnado con altas capacidades.
 
-## Medidas para la participación en el aula de informática
+## Medidas para la participación
 
 Estas medidas están dirigidas al alumnado que requiere una respuesta sistemática, personalizada y singular en el ámbito emocional, interpersonal, social, conductual y de salud.
 
