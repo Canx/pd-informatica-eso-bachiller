@@ -1,10 +1,28 @@
 # Criterios de calificación
 
-## Calificación de una evaluación
-El porcentaje de cada ítem concreto será variable dependiendo de los criterios concretos de cada profesor, que deberán estar en los siguientes márgenes:
+## Calificación de cada evaluación
 
-* 90%: prácticas y proyectos, en proporción relativa al tiempo dedicado en clase.
-* 0% a 10%: competencia social y cívica, que estará integrada dentro de las rúbricas de cada práctica o proyecto.
+Para aprobar cada evaluación se deberán superar las competencias específicas tratadas en dicha evaluación, que estarán vinculadas a la realización de situaciones de aprendizaje en proporción relativa al tiempo dedicado en clase.
+
+Por ejemplo, si en la primera evaluación de realizan las siguientes situaciones de aprendizaje junto con su tiempo dedicado en porcentaje:
+
+1. SA_A = 20%
+2. SA_B = 20%
+3. SA_C = 60%
+
+Y si para cada actividad observamos cuales son las competencias específicas tratadas:
+
+1. SA_A = 10% CE1 + 10% CE2
+2. SA_B = 20% CE3
+3. SA_C = 30% CE1 + 20% CE2 + 10% CE3
+
+Tendremos las siguientes calificaciones para cada competencia específica:
+
+1. Calificación CE1 (sobre 40%): SA_A * 10% + SA_C * 30%
+2. Calificación CE2 (sobre 30%): SA_A * 10% + SA_C * 20%
+3. Calificación CE3 (sobre 30%): SA_B * 20% + SA_C * 10%
+
+La calificación final de la evaluación será la suma de las calificaciones de cada competencia específica, que deberá coincidir con la suma de las calificaciones de las situaciones de aprendizaje realizadas.
 
 La evaluación se considerará **superada** cuando la nota de la evaluación sin redondeo sea igual o superior a 5.
 
@@ -19,6 +37,8 @@ Las faltas de ortografía restarán nota de los exámenes y en los trabajos con 
 ## Recuperación de una evaluación
 
 Será posible recuperar evaluaciones no superadas mediante la entrega de tareas no superadas y/o la realización de exámenes de recuperación en los períodos establecidos por el profesor, y que serán preferiblemente durante el mes siguiente a la evaluación. 
+
+Los trabajos estarán relacionados con aquellas competencias específicas no superadas durante la evaluación suspendida.
 
 La recuperación de la 3a evaluación se realizará durante la semana previa a la evaluación final.
 

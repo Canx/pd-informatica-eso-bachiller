@@ -1,15 +1,28 @@
 #!/bin/bash
 
-# Función para generar un hash SHA-256 de los archivos Markdown
-# Parámetros: Ninguno
-# Devuelve: Hash SHA-256 de todos los archivos Markdown en el directorio actual
-function generate_hash() {
-  find . -type f -name '*.md' -exec cat {} \; | sha256sum | awk '{print $1}'
+# Función para crear la carpeta build si no existe
+function create_build_dir() {
+  if [ ! -d "build" ]; then
+    mkdir build
+  fi
 }
 
+# Función para generar un hash SHA-256 de los archivos Markdown
+# Función para generar un hash SHA-256 de los archivos Markdown, incluyendo enlaces simbólicos
+function generate_hash() {
+  find . -type f -name '*.md' | while read -r file; do
+    if [ -L "$file" ]; then
+      # Si es un enlace simbólico, sigue el enlace y lee el archivo de destino
+      cat "$(readlink -f "$file")"
+    else
+      # Si no es un enlace simbólico, lee el archivo directamente
+      cat "$file"
+    fi
+  done | sha256sum | awk '{print $1}'
+}
+
+
 # Función para verificar la existencia de programas externos requeridos
-# Parámetros: Ninguno
-# Devuelve: Ninguno (finaliza el script si falta algún programa)
 function check_dependencies() {
   local required_commands=("pandoc" "libreoffice" "csv2md" "weasyprint")
   for cmd in "${required_commands[@]}"; do
@@ -20,19 +33,22 @@ function check_dependencies() {
   done
 }
 
-# Uso de case para opciones múltiples
+# Función para generar los formatos PDF y EPUB
 function generate_formats() {
-  # Generamos pdf
-  pandoc --template="../template.html" -V current_date="$(date +%Y-%m-%d%n)" -f markdown-smart --toc --toc-depth=2 -c "./style.css" --filter pandoc-include $ficheros -o ${PWD##*/}.html
-  python3 -m weasyprint "${PWD##*/}.html" "${PWD##*/}.pdf"
-    
-  # Generamos epub
-  pandoc --template="../template.html" -V current_date="$(date +%D)" -f markdown-smart --toc --toc-depth=2 -c "./style.css" --filter pandoc-include $ficheros -o ${PWD##*/}.epub  
+  # Creamos la carpeta build si no existe
+  create_build_dir
+  
+  # Generamos el archivo HTML en la carpeta build
+  pandoc --template="../template.html" -V current_date="$(date +%Y-%m-%d%n)" -f markdown-smart --toc --toc-depth=2 -c "../style.css" --filter pandoc-include $ficheros -o build/${PWD##*/}.html
+  
+  # Generamos PDF a partir del archivo HTML en build
+  python3 -m weasyprint "build/${PWD##*/}.html" "build/${PWD##*/}.pdf"
+  
+  # Generamos EPUB a partir del archivo HTML en build
+  pandoc --template="../template.html" -V current_date="$(date +%D)" -f markdown-smart --toc --toc-depth=2 -c "../style.css" --filter pandoc-include $ficheros -o build/${PWD##*/}.epub  
 }
 
 # Función para convertir archivos ODS a Markdown
-# Parámetros: Ninguno
-# Devuelve: Ninguno (convierte archivos ODS a Markdown en el directorio actual)
 function convert_ods_to_md() {
   current_dir=$(pwd)
   for file in $(find . -name '*.ods'); do
@@ -49,14 +65,7 @@ function convert_ods_to_md() {
 }
 
 # Función para generar la programación (PDF/EPUB)
-# Parámetros: Ninguno
-# Devuelve: Ninguno (genera archivos PDF/EPUB en el directorio actual)
 function generate_programming() {
-  local force=false
-  if [ "$1" == "--force" ]; then
-    force=true
-  fi
-
   for d in $directorio ; do
     if [[ " $ignoredirs " =~ .*\ $d\ .* ]]; then
       continue;
@@ -84,7 +93,7 @@ function generate_programming() {
     echo "Generando programación '$d'..."
     cp ../style.css .
     
-      # Iteramos dentro del directorio
+    # Iteramos dentro del directorio
     ficheros=""
     for file in *.md
     do 
@@ -108,16 +117,16 @@ function generate_programming() {
 
     rm style.css
 
-    # Actualiza el hash registrado
-    echo $current_hash > .last_hash
+    # Actualiza el hash registrado solo si no se está usando -f
+    if [ "$force" = false ]; then
+      echo $current_hash > .last_hash
+    fi
 
     cd ..
   done
 }
 
 # Función para generar README.md a partir de README.pandoc
-# Parámetros: Ninguno
-# Devuelve: Ninguno (genera archivos README.md en el directorio actual)
 function generate_readme() {
   for file in $(find . -name 'README.pandoc'); do
     pandoc -f markdown-smart -t gfm --filter pandoc-include $file -o ${file%.*}.md
@@ -127,21 +136,21 @@ function generate_readme() {
 # Variables globales
 force=false
 directorio="*/"
-salida="pdf"
-ignoredirs="fonts/ images/ comun/ plantillas/ TIC-4ESO/ INF-2ESO/ TIC2-2BACH/ PI-1ESO/ Legislación/"
+ignoredirs="old/ fonts/ images/ comun/ plantillas/ TIC-4ESO/ INF-2ESO/ TIC2-2BACH/ PI-1ESO/ Legislación/"
 
-# Manejo de opciones con getopts
-while getopts "f" opt; do
-  case $opt in
-    f)
+# Procesar opciones
+while getopts ":f" opt; do
+  case ${opt} in
+    f )
       force=true
       ;;
-    \?)
-      echo "Opción inválida: -$OPTARG" >&2
+    \? )
+      echo "Opción inválida: -$OPTARG" 1>&2
       exit 1
       ;;
   esac
 done
+shift $((OPTIND -1))
 
 # Invocar la función de verificación de dependencias al inicio del script
 check_dependencies
@@ -151,10 +160,11 @@ convert_ods_to_md
 
 # Generar programaciones
 if [ "$force" = true ]; then
-  generate_programming --force
+  generate_programming -f
 else
   generate_programming
 fi
 
 # Generar README.md
 generate_readme
+

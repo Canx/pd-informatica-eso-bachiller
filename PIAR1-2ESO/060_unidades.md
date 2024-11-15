@@ -1,8 +1,10 @@
 # Unidades didácticas
 
-## UD1: Introducción a la Programación
+
+## UD1: Introducción a la Programación (1ª evaluación)
 
 Se utilizarán actividades desconectadas y programación por bloques con Scratch para introducir los conceptos básicos de programación.
+
 
 ### Saberes básicos
 
@@ -35,7 +37,7 @@ Se utilizarán actividades desconectadas y programación por bloques con Scratch
 - **Semicírculos y espirales**: función semicírculo, función arcoiris, espiral hecha con semicírculos.
 - **Algoritmos de limpieza**. Mediante simulador en Scratch implementar los algoritmos de limpieza aleatorio y limpieza en espiral.
 
-## UD2: Robótica virtual
+## UD2: Robótica virtual (1ª evaluación)
 
 Mediante el simulador de robots Gearsbot se resolverán diferentes tipos de problemas con programación por bloques.
 
@@ -57,7 +59,7 @@ Mediante el simulador de robots Gearsbot se resolverán diferentes tipos de prob
 
 - **Gearsbot: campeonato sumo**: diseño de robots y prueba de algoritmos de lucha, con campeonato final.
 
-## UD3: Inteligencia Artificial
+## UD3: Inteligencia Artificial (2ª evaluación)
 
 ### Saberes básicos
 
@@ -77,7 +79,7 @@ Mediante el simulador de robots Gearsbot se resolverán diferentes tipos de prob
 * 1.5. Igualdad y inclusion en sistemas IA. Sesgos.
 * 1.6. Implicaciones sociales y éticas de la inteligencia artificial.
 
-## UD4: Robótica real con Microbit
+## UD4: Robótica real con Microbit (3ª evaluación)
 
 ### Saberes básicos
 

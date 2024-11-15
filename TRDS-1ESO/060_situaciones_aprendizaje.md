@@ -1,8 +1,8 @@
 # Situaciones de aprendizaje
 
-### **Trimestre 1: Dispositivos Digitales y Uso Seguro (20 horas)**
+## Trimestre 1: Dispositivos Digitales y Uso Seguro (20 horas)
 
-#### **Semana 1: Introducción a los Dispositivos Digitales (5 horas)**
+### Introducción a los Dispositivos Digitales (5 horas)
 - **Actividades Previas**:
   - **Taller Práctico: “Conociendo tu Dispositivo”** (2 horas): Los estudiantes aprenden a usar dispositivos básicos (ordenador, tablet, móvil). Actividad lúdica: **“Búsqueda del Tesoro Digital”** donde deben encontrar y usar funciones específicas en sus dispositivos.
   - **Actividad Relacionada con ODS**:
@@ -10,7 +10,7 @@
 - **Miniproyecto**:
   - **Guía Digital Interactiva** (3 horas): Crear una guía visual interactiva sobre el uso básico de dispositivos, que incluya videos o animaciones simples. Se puede hacer en equipos para fomentar la colaboración.
 
-#### **Semana 2: Seguridad y Sostenibilidad (5 horas)**
+### Seguridad y Sostenibilidad (5 horas)
 - **Actividades Previas**:
   - **Juego de Roles: “Guardianes de la Seguridad”** (2 horas): Los estudiantes simulan escenarios donde deben proteger sus dispositivos de amenazas virtuales (contraseñas, antivirus, phishing). 
   - **Debate sobre Sostenibilidad** (1 hora): Discusión sobre el impacto ambiental de los dispositivos y la importancia del reciclaje.
@@ -19,7 +19,7 @@
 - **Miniproyecto**:
   - **Campaña Digital de Concienciación** (2 horas): Crear una campaña digital sobre la sostenibilidad en el uso de dispositivos (posters digitales, infografías), que incluya consejos prácticos.
 
-#### **Semana 3: Brecha Digital y Acceso a Internet (5 horas)**
+### Brecha Digital y Acceso a Internet (5 horas)
 - **Actividades Previas**:
   - **Taller de Investigación: “Conectando el Mundo”** (2 horas): Los estudiantes investigan cómo diferentes países y comunidades acceden a Internet. 
   - **Actividad Lúdica**: **“Conexión Mundial”** (1 hora): Juego en el que los estudiantes simulan ser diferentes comunidades con diversos niveles de acceso a Internet y deben resolver problemas.
@@ -28,16 +28,16 @@
 - **Miniproyecto**:
   - **Infografía Comparativa** (2 horas): Crear una infografía que compare el acceso a Internet en diferentes partes del mundo y proponga soluciones para reducir la brecha digital.
 
-#### **Semana 4: Revisión y Evaluación (5 horas)**
+### Revisión y Evaluación (5 horas)
 - **Actividades Previas**:
   - **Repaso Gamificado** (2 horas): Juegos de repaso como “Kahoot” para revisar los contenidos vistos durante el trimestre.
 - **Evaluación**:
   - **Presentación Creativa de Proyectos** (2 horas): Los estudiantes presentan sus proyectos (guías, campañas, infografías) usando herramientas digitales.
   - **Prueba Final Lúdica** (1 hora): Una prueba en forma de concurso donde los equipos responden preguntas sobre lo aprendido.
 
-### **Trimestre 2: Creación y Gestión de Contenidos Digitales (20 horas)**
+## Trimestre 2: Creación y Gestión de Contenidos Digitales (20 horas)
 
-#### **Semana 1: Búsqueda y Evaluación de Información (5 horas)**
+### Semana 1: Búsqueda y Evaluación de Información (5 horas)
 - **Actividades Previas**:
   - **Taller: “Detectives Digitales”** (2 horas): Los estudiantes aprenden a buscar información de manera eficiente y evaluar la credibilidad de las fuentes. 
   - **Juego de Evaluación de Noticias** (1 hora): Un juego donde deben identificar noticias falsas o verdaderas.
@@ -46,7 +46,7 @@
 - **Miniproyecto**:
   - **Dossier de Investigación** (2 horas): Crear un pequeño dossier que recopile información veraz sobre un tema de interés, evaluando las fuentes y justificando su elección.
 
-#### **Semana 2: Creación de Contenidos y Derechos de Autor (5 horas)**
+### Creación de Contenidos y Derechos de Autor (5 horas)
 - **Actividades Previas**:
   - **Taller Creativo: “Creador de Contenidos”** (2 horas): Introducción a herramientas digitales para la creación de contenido (como presentaciones, imágenes, y videos). 
   - **Actividad sobre Derechos de Autor** (1 hora): Caso práctico donde los estudiantes deben decidir qué contenido pueden usar en un proyecto digital.
@@ -55,7 +55,7 @@
 - **Miniproyecto**:
   - **Proyecto Multimedia** (2 horas): Crear un video o presentación interactiva sobre un tema de su elección, respetando los derechos de autor y usando imágenes y música con licencia.
 
-#### **Semana 3: Organización y Personalización del Entorno (5 horas)**
+### Organización y Personalización del Entorno (5 horas)
 - **Actividades Previas**:
   - **Taller de Gestión Digital: “Mi Espacio Digital”** (2 horas): Enseñar a los estudiantes a organizar archivos y personalizar su entorno de trabajo digital. 
   - **Actividad Lúdica**: **“Ordena tu Caos”** (1 hora): Juego donde los estudiantes deben organizar un entorno digital desordenado en un tiempo limitado.
@@ -64,7 +64,7 @@
 - **Miniproyecto**:
   - **Organización y Personalización del Entorno** (2 horas): Crear un sistema organizado para gestionar archivos y carpetas, y personalizar su espacio de trabajo digital de manera eficiente.
 
-#### **Semana 4: Revisión y Evaluación (5 horas)**
+### Revisión y Evaluación (5 horas)
 - **Actividades Previas**:
   - **Repaso Lúdico** (2 horas): Repaso de los contenidos mediante juegos en línea (Kahoot, Quizlet).
 - **Evaluación**:
@@ -72,9 +72,9 @@
   - **Evaluación Final Lúdica** (1 hora): Prueba en formato de reto donde deben aplicar lo aprendido.
   - 
 
-### **Trimestre 3: Identidad Digital y Relaciones en el Entorno Digital (20 horas)**
+## Trimestre 3: Identidad Digital y Relaciones en el Entorno Digital (20 horas)
 
-#### **Semana 1: Identidad Digital (5 horas)**
+### Identidad Digital (5 horas)
 - **Actividades Previas**:
   - **Taller: “Tu Huella Digital”** (2 horas): Los estudiantes exploran cómo se forma su identidad digital y qué información queda registrada en línea. 
   - **Actividad de Reflexión Lúdica**: **“El Rastro del Avatar”** (1 hora): Los estudiantes crean avatares y exploran cómo las elecciones en línea afectan su huella digital.
@@ -83,7 +83,7 @@
 - **Miniproyecto**:
   - **Perfil Digital Responsable** (2 horas): Crear un perfil digital que refleje una identidad positiva y segura, usando avatares y configuraciones de privacidad adecuadas.
 
-#### **Semana 2: Relaciones Digitales y Etiqueta (5 horas)**
+### Relaciones Digitales y Etiqueta (5 horas)
 - **Actividades Previas**:
   - **Taller de Etiqueta Digital: “Convivencia en Línea”** (2 horas): Introducción a las normas de comportamiento en entornos digitales. 
   - **Role-Playing: “La Red es mi Amigo”** (1 hora): Simulación de situaciones comunes en línea para practicar la etiqueta digital.
@@ -92,7 +92,7 @@
 - **Miniproyecto**:
   - **Guía de Buenas Prácticas en Línea** (2 horas): Crear una guía visual sobre cómo mantener relaciones saludables y respetuosas en línea, incluyendo la etiqueta y las normas de convivencia.
 
-#### **Semana 3: Bienestar Digital y Adicciones (5 horas)**
+### Bienestar Digital y Adicciones (5 horas)
 - **Actividades Previas**:
   - **Taller sobre Tecnoadicciones: “Controla tu Pantalla”** (2 horas): Los estudiantes aprenden sobre los riesgos de las adicciones digitales y cómo prevenirlas. 
   - **Actividad Lúdica**: **“Reto de Desconexión”** (1 hora): Un reto donde los estudiantes intentan desconectarse de la tecnología por un tiempo limitado y reflexionan sobre la experiencia.
