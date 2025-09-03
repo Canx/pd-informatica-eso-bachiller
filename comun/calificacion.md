@@ -1,5 +1,12 @@
 # Criterios de calificación
 
+## Calificación de las actividades
+
+Cada actividad se evaluará mediante una rúbrica, que contendrá:
+
+* 90%: ítems relacionados con los criterios de evaluación de la actividad.
+* 10%: ítem relacionado con la Competencia personal, social y de aprender a aprender.
+
 ## Calificación de cada evaluación
 
 Para aprobar cada evaluación se deberán superar las competencias específicas tratadas en dicha evaluación, que estarán vinculadas a la realización de situaciones de aprendizaje en proporción relativa al tiempo dedicado en clase.
