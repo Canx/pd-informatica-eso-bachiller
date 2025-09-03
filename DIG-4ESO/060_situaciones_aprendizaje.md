@@ -407,7 +407,9 @@ Este apartado amplía la información de la sección 7, ofreciendo una guía por
 
 ## Tercera evaluación
 
-### **Soluciones Digitales con Impacto Social: De la Idea a la App**
+Tenemos dos opciones: programación con App Inventor y programación con python + streamlit, que deberán escojerse en base al análisis grupal.
+
+### Opción A: **Soluciones Digitales con Impacto Social: De la Idea a la App**
 
 #### **1. Contexto**
 Esta situación de aprendizaje se enmarca en un contexto **creativo, social y de emprendimiento**. El alumnado formará "estudios de desarrollo de software" para abordar un reto del mundo real. Este enfoque les permite experimentar un ciclo de desarrollo de producto simplificado, desde la concepción de una idea hasta la creación de un prototipo funcional, fomentando habilidades de innovación y trabajo en equipo muy relevantes en el ámbito profesional y social.
@@ -636,3 +638,73 @@ Este apartado amplía la sección 7, ofreciendo una guía pormenorizada para la 
     3.  La sesión finaliza con una **reflexión metacognitiva** individual y una breve puesta en común sobre los retos y logros del proyecto.
 * **Rol del Docente:** Moderador, gestor del tiempo y facilitador de la reflexión final.
 * **Evidencia Generada:** Exposición oral del proyecto. Respuestas al cuestionario de metacognición.
+
+### Opción B: Investigadores de Datos: Creando un Dashboard Interactivo con Python y Streamlit
+
+#### **1. Contexto**
+Esta situación de aprendizaje sumerge al alumnado en el rol de **analista de datos y desarrollador Python**, uno de los perfiles profesionales más demandados en la actualidad. El contexto es el de un **laboratorio de datos** donde, tras adquirir las habilidades fundamentales de programación, los equipos investigarán un tema de relevancia social o cultural para comunicarlo al mundo de una forma clara, visual e interactiva.
+
+#### **2. Descripción / Justificación**
+Este proyecto está diseñado para ser **altamente motivador** porque aborda la programación desde un enfoque práctico y con un resultado final tangible y compartible: una aplicación web real. En lugar de ejercicios abstractos, cada pieza de código que aprenden se aplica a micro-proyectos divertidos. Se justifica porque enseña al alumnado no solo a escribir código en un lenguaje profesional como Python, sino también a desarrollar la **alfabetización de datos (data literacy)**: la capacidad de leer, analizar, interpretar y comunicar información a través de los datos, una competencia esencial en el siglo XXI.
+
+#### **3. Producto final**
+El producto final constará de dos partes:
+1.  **Un "Cuaderno de Aprendizaje de Python":** Una colección de los pequeños programas y ejercicios resueltos durante la fase de fundamentos, que demuestra su progreso en el aprendizaje del lenguaje.
+2.  **Un Dashboard Interactivo:** Una aplicación web desarrollada con Python y Streamlit que explora un conjunto de datos. La aplicación será accesible a través de una URL y permitirá a los usuarios interactuar con los datos mediante filtros, botones o deslizadores para visualizar la información en gráficos.
+
+#### **4. Relación con los retos del s. XXI y los ODS**
+* **Retos del s. XXI:** Alfabetización de datos, pensamiento computacional, programación, análisis y visualización de información, comunicación de ideas complejas.
+* **ODS:** Se conectará con el ODS que elija cada grupo a través de su conjunto de datos, por ejemplo:
+    * **ODS 13 (Acción por el Clima):** Analizando datos sobre el cambio climático.
+    * **ODS 5 (Igualdad de Género):** Visualizando datos sobre la brecha de género en diferentes campos.
+    * **ODS 3 (Salud y Bienestar):** Explorando datos sobre hábitos saludables o la prevalencia de ciertas enfermedades.
+
+#### **5. Competencias específicas y criterios de evaluación vinculados**
+* **CE2:** Es la competencia central. Se cumple el criterio **2.4. Programar aplicacions senzilles multiplataforma [...] de manera creativa**, ya que una aplicación web con Streamlit es multiplataforma y se basa en la programación.
+* **CE4:** Fomenta la ciudadanía digital crítica al trabajar con datos reales, permitiendo **analizar críticamente la información** (Criterio 4.4), identificar sesgos y reflexionar sobre las implicaciones éticas de los datos masivos.
+* **CE5:** El proyecto es un desafío digital donde el alumnado debe **desarrollar un proyecto con iniciativa**, proponiendo una solución creativa (Criterio 5.2) para visualizar y hacer comprensible un conjunto de datos.
+
+#### **6. Saberes básicos**
+* **Bloque 2. Digitalización del entorno personal de aprendizaje:**
+    * **"Programació d'aplicacions"**: Es el núcleo del proyecto, cubriendo "Algoritmes i entorns de desenvolupament de programari" y "Desenvolupament d'aplicacions senzilles per a [...] web".
+    * **"Cerca i selecció d'informació"**: Aplicado a la búsqueda de datasets públicos y fiables.
+* **Bloque 4. Ciudadanía digital crítica:**
+    * **"Ètica en l'ús de dades i eines digitals"**: Conecta directamente con saberes como las "Implicacions ètiques de les dades massives" y los "Biaixos algorítmics i ideològics".
+
+#### **7. Organización y secuenciación de actividades**
+La secuencia está diseñada en dos grandes fases para asegurar un aprendizaje progresivo. Se necesitará un entorno de desarrollo de Python sencillo como **Thonny** (recomendado para principiantes).
+
+**FASE A: Fundamentos de Python - "Mi Primera Caja de Herramientas" (4 Sesiones)**
+* **Actividad 1: "Hola, Python" (1 Sesión):** Instalación de Thonny. Primeros pasos: `print()`, variables, tipos de datos. **Micro-proyecto:** Un "Generador de nombres absurdos" que combine palabras de varias listas.
+* **Actividad 2: "Tomando Decisiones" (1 Sesión):** Condicionales (`if/elif/else`). **Micro-proyecto:** Un mini-juego de "Elige tu propia aventura" basado en texto.
+* **Actividad 3: "El Poder de la Repetición" (1 Sesión):** Listas y bucles `for`. **Micro-proyecto:** Un programa que calcule la nota media de una lista de calificaciones.
+* **Actividad 4: "Empaquetando el Código" (1 Sesión):** Funciones (`def`). **Micro-proyecto:** Convertir los micro-proyectos anteriores en funciones reutilizables.
+
+**FASE B: Creación del Dashboard con Streamlit (8 Sesiones)**
+* **Actividad 5: "Introducción a Streamlit y Pandas" (2 Sesiones):** Se aprende a instalar librerías, a cargar un fichero CSV con **Pandas** y los comandos básicos de **Streamlit** (`st.title`, `st.write`, `st.dataframe`). Todos juntos crean un primer dashboard muy simple con un dataset proporcionado por el/la docente.
+* **Actividad 6: "La Misión: Encontrar los Datos" (1 Sesión):** Los grupos se forman, eligen un tema de su interés y buscan en repositorios de datos abiertos (como Kaggle) un dataset en formato CSV que sea adecuado y sencillo. Definen la pregunta que quieren responder con su dashboard.
+* **Actividad 7: "Dando Forma al Dashboard" (3 Sesiones):** Los grupos escriben el código en Python para cargar sus datos y empiezan a añadir elementos visuales a su app Streamlit: títulos, texto explicativo y gráficos estáticos (`st.bar_chart`, `st.line_chart`).
+* **Actividad 8: "Añadiendo la Magia Interactiva" (2 Sesiones):** Se aprende a usar los "widgets" de Streamlit (`st.selectbox`, `st.slider`) para permitir que el usuario filtre los datos. El reto es conectar estos widgets para que los gráficos se actualicen dinámicamente.
+* **Actividad 9: "Demo Day: Presentando los Hallazgos" (1 Sesión):** Cada grupo presenta su dashboard interactivo a la clase, explicando su tema, los datos y mostrando cómo la interactividad ayuda a descubrir "historias" ocultas en la información. Se cierra con una reflexión metacognitiva.
+
+#### **8. Organización de los espacios**
+* **Aula de informática:** Es el espacio imprescindible para todo el proyecto, ya que cada alumno/a necesita un ordenador para programar.
+
+#### **9. Distribución del tiempo**
+* **Número de sesiones:** 13 sesiones.
+* **Duración:** Sesiones de 50 minutos.
+* **Temporalización estimada:** 6-7 semanas.
+
+#### **10. Recursos y materiales**
+* **Software (todo gratuito y de código abierto):** Python, el editor **Thonny** (ideal para principiantes), y las librerías **Streamlit** y **Pandas**.
+* **Recursos digitales:** Ordenadores con conexión a internet, proyector, repositorios de datasets públicos (Kaggle, Google Dataset Search, datos.gob.es).
+
+#### **11. Medidas de respuesta educativa para la inclusión**
+* **Aprendizaje progresivo:** La Fase A con micro-proyectos asegura que nadie se quede atrás y que se construya la confianza antes de abordar el proyecto principal.
+* **Programación en parejas (*Pair Programming*):** Se puede fomentar que dentro de los grupos, dos personas programen juntas en un mismo ordenador, una escribiendo ("conductor") y la otra revisando ("navegante"), intercambiando roles.
+* **Flexibilidad en el tema:** La libre elección del dataset permite que cada grupo conecte el proyecto con sus pasiones e intereses.
+
+#### **12. Instrumentos de recogida de información para la evaluación**
+* **"Cuaderno de Aprendizaje de Python":** Se evaluará la correcta realización de los micro-proyectos de la Fase A.
+* **Dashboard Interactivo (Producto final):** Se evaluará mediante una **rúbrica** que valorará la corrección del código Python, la funcionalidad de la app Streamlit, la claridad de las visualizaciones y la complejidad de la interactividad implementada.
+* **Observación sistemática:** Se valorará la autonomía en la resolución de problemas (búsqueda de soluciones a errores de código) y el trabajo en equipo.
