@@ -112,11 +112,11 @@ La comunicación digital carece de lenguaje no verbal, lo que puede provocar mal
 #### Producto final
 En equipos, el alumnado creará una **biblioteca de cortos de animación sobre "netiqueta"** utilizando el software de programación por bloques **Scratch**. Cada equipo animará una situación que muestre un problema de convivencia digital y una forma positiva de resolverlo.
 
-4.  **Relación con los retos del s. [cite_start]XXI y los ODS**: Esta situación de aprendizaje aborda el reto de la **ciudadanía digital responsable** y el **aprovechamiento crítico y ético de la cultura digital**. [cite: 20] Se vincula con el **ODS 16 (Paz, Justicia e Instituciones Sólidas)**, al promover la resolución pacífica de conflictos, y con el **ODS 4 (Educación de Calidad)**, al fomentar competencias digitales y sociales.
+4.  **Relación con los retos del s.XXI y los ODS**: Esta situación de aprendizaje aborda el reto de la **ciudadanía digital responsable** y el **aprovechamiento crítico y ético de la cultura digital**. Se vincula con el **ODS 16 (Paz, Justicia e Instituciones Sólidas)**, al promover la resolución pacífica de conflictos, y con el **ODS 4 (Educación de Calidad)**, al fomentar competencias digitales y sociales.
 
 5.  **Competencias específicas y criterios de evaluación**:
     * **CE 4**: Mostrar hábitos básicos que fomenten el bienestar en las relaciones a través de entornos digitales. (Criterios: 4.1, 4.2, 4.4, 4.6)
-    * **CE 2**: (...) crear contenidos digitals. (Criterio: 2.6)
+    * **CE 2**: Crear contenidos digitales. (Criterio: 2.6)
     * **CE 3**: Construir una identitat digital adequada y aplicar estrategias básicas para cuidarla y protegerla. (Criterio: 3.4)
 
 6.  **Saberes básicos**:
