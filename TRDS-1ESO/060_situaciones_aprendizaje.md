@@ -120,11 +120,11 @@ En equipos, el alumnado creará una **biblioteca de cortos de animación sobre "
     * **CE 3**: Construir una identitat digital adequada y aplicar estrategias básicas para cuidarla y protegerla. (Criterio: 3.4)
 
 6.  **Saberes básicos**:
-    * **Bloque 4**: Amistad virtual y física; Entornos digitales de intercambio social y juegos en línea; Estrategias para una ciberconvivencia igualitaria, segura y saludable. Etiqueta digital; [cite_start]Riesgos y amenazas (...): ciberassetjament. [cite: 230, 232, 233, 235]
-    * **Bloque 3**: Autoconcepto y percepción externa de la identitat digital; [cite_start]Conductas y hábitos para cuidar la identitat digital. [cite: 221, 227]
-    * **Bloque 2**: Creación básica de contenidos con herramientas digitales; [cite_start]Estética y lenguaje audiovisual. [cite: 216, 217]
+    * **Bloque 4**: Amistad virtual y física; Entornos digitales de intercambio social y juegos en línea; Estrategias para una ciberconvivencia igualitaria, segura y saludable. Etiqueta digital; Riesgos y amenazas: ciberacoso.
+    * **Bloque 3**: Autoconcepto y percepción externa de la identidad digital; Conductas y hábitos para cuidar la identidad digital.
+    * **Bloque 2**: Creación básica de contenidos con herramientas digitales; Estética y lenguaje audiovisual.
 
-#### Organización y secuenciación de actividades (versión detallada)
+#### Organización y secuenciación de actividades 
 
 La situación de aprendizaje se desarrollará a lo largo de **6 sesiones**.
 
@@ -223,5 +223,5 @@ Todas las sesiones se llevarán a cabo en el **aula de informática**. Se recomi
 
 * **🧑‍🏫 Recursos Humanos**:
     * Alumnado organizado en equipos colaborativos.
-    * [cite_start]Docente con rol de guía, facilitador y observador del proceso de aprendizaje. [cite: 242]
+    * Docente con rol de guía, facilitador y observador del proceso de aprendizaje.
 
