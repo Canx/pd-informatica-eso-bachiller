@@ -98,3 +98,130 @@
   - **Actividad Lúdica**: **“Reto de Desconexión”** (1 hora): Un reto donde los estudiantes intentan desconectarse de la tecnología por un tiempo limitado y reflexionan sobre la experiencia.
   - **Actividad Relacionada con ODS**:
     - **ODS 3: Salud y Bienestar**: Relacionar el bienestar digital con la salud mental
+   
+## Situaciones de aprendizaje completas
+
+### Ciber-Convivencia: Creamos nuestras normas de juego
+
+#### Contexto
+El alumnado de 1º de ESO comienza a interactuar de forma cada vez más autónoma en entornos digitales, especialmente en juegos en línea y servicios de mensajería instantánea. Esta situación de aprendizaje se enmarca en el contexto personal y social del alumnado, abordando los espacios digitales que ya habitan para ayudarles a construir relaciones más seguras y respetuosas.
+
+#### Descripción / Justificación
+La comunicación digital carece de lenguaje no verbal, lo que puede provocar malentendidos o conflictos. Esta situación de aprendizaje nace de la necesidad de dotar al alumnado de herramientas para gestionar estas interacciones, promoviendo el respeto y la resolución pacífica de conflictos también en la red.Es relevante porque les afecta directamente en su día a día y les proporciona estrategias para manejar la incertidumbre y los riesgos de las relaciones sociales en red, como el ciberacoso.
+
+#### Producto final
+En equipos, el alumnado creará una **biblioteca de cortos de animación sobre "netiqueta"** utilizando el software de programación por bloques **Scratch**. Cada equipo animará una situación que muestre un problema de convivencia digital y una forma positiva de resolverlo.
+
+4.  **Relación con los retos del s. [cite_start]XXI y los ODS**: Esta situación de aprendizaje aborda el reto de la **ciudadanía digital responsable** y el **aprovechamiento crítico y ético de la cultura digital**. [cite: 20] Se vincula con el **ODS 16 (Paz, Justicia e Instituciones Sólidas)**, al promover la resolución pacífica de conflictos, y con el **ODS 4 (Educación de Calidad)**, al fomentar competencias digitales y sociales.
+
+5.  **Competencias específicas y criterios de evaluación**:
+    * **CE 4**: Mostrar hábitos básicos que fomenten el bienestar en las relaciones a través de entornos digitales. (Criterios: 4.1, 4.2, 4.4, 4.6)
+    * **CE 2**: (...) crear contenidos digitals. (Criterio: 2.6)
+    * **CE 3**: Construir una identitat digital adequada y aplicar estrategias básicas para cuidarla y protegerla. (Criterio: 3.4)
+
+6.  **Saberes básicos**:
+    * **Bloque 4**: Amistad virtual y física; Entornos digitales de intercambio social y juegos en línea; Estrategias para una ciberconvivencia igualitaria, segura y saludable. Etiqueta digital; [cite_start]Riesgos y amenazas (...): ciberassetjament. [cite: 230, 232, 233, 235]
+    * **Bloque 3**: Autoconcepto y percepción externa de la identitat digital; [cite_start]Conductas y hábitos para cuidar la identitat digital. [cite: 221, 227]
+    * **Bloque 2**: Creación básica de contenidos con herramientas digitales; [cite_start]Estética y lenguaje audiovisual. [cite: 216, 217]
+
+#### Organización y secuenciación de actividades (versión detallada)
+
+La situación de aprendizaje se desarrollará a lo largo de **6 sesiones**.
+
+##### Actividad 1: "Mapa de nuestros conflictos digitales" (1 sesión)
+
+* **Objetivo:** Sensibilizar al alumnado sobre las normas explícitas e implícitas de la comunicación en red y definir los escenarios para los proyectos.
+* **Desarrollo detallado:**
+    * **(10 min) Inicio y activación:**
+        * El/la docente proyecta en la pizarra 2-3 preguntas disparadoras, como: *1. ¿Alguna vez has interpretado mal un mensaje de texto? 2. ¿Qué es lo que más te molesta que haga la gente en un chat de grupo?*
+        * Se utiliza la técnica de reflexión **"1-2-4"**: los alumnos piensan la respuesta individualmente (1 min), la comentan en parejas (2 min) y luego en grupos de cuatro (4 min). Esto asegura que todos participen antes del debate general.
+    * **(30 min) Puesta en común y definición del reto:**
+        * Un portavoz de cada grupo comparte sus conclusiones. El/la docente las anota en la pizarra, agrupándolas por temas (malentendidos, respeto, privacidad, etc.), creando un "mapa de conflictos".
+        * Se presenta formalmente el producto final: "Vamos a convertirnos en creadores de contenido para proponer soluciones a estos problemas. En equipos, crearéis un corto de animación con Scratch".
+        * Se forman los equipos de trabajo (3-4 personas). Cada equipo elige uno de los problemas del "mapa" para trabajar. El/la docente ofrece la lista de escenarios de apoyo por si algún grupo tiene dificultades para decidirse.
+    * **(10 min) Cierre y próximos pasos:**
+        * Cada equipo anota en un papel el escenario elegido y los nombres de los integrantes.
+        * El/la docente anuncia que en la próxima sesión se convertirán en guionistas y diseñadores.
+
+##### Actividad 2: "Del guion a la escena" (1 sesión)
+
+* **Objetivo:** Planificar la narrativa de la animación y definir su estructura y diálogos.
+* **Desarrollo detallado:**
+    * **(5 min) Introducción:**
+        * El/la docente muestra un ejemplo sencillo de un *storyboard* o guion gráfico (puede ser dibujado a mano y proyectado) para que los alumnos entiendan el concepto visualmente.
+    * **(35 min) Trabajo en equipo - Creación del guion:**
+        * Se reparte papel y plantillas de *storyboard* (o simplemente folios en blanco).
+        * Los equipos trabajan en su guion gráfico, que debe tener una estructura clara:
+            1.  **Escena 1: El Problema.** Se presenta la situación de conflicto (p. ej., un personaje recibe un comentario ofensivo).
+            2.  **Escena 2: La Duda/Reacción.** El personaje piensa qué hacer.
+            3.  **Escena 3: La Solución.** El personaje aplica una estrategia positiva (p. ej., no responde al momento, habla con un adulto, usa el humor o responde asertivamente pero sin atacar).
+        * Paralelamente, escriben los diálogos o textos que aparecerán. [cite_start]El/la docente circula por el aula ofreciendo retroalimentación para que las soluciones propuestas sean realistas y constructivas[cite: 243].
+    * **(10 min) Puesta en común y cierre:**
+        * Voluntariamente, 1-2 equipos comparten su idea o su guion con la clase.
+        * Se recogen todos los guiones para revisarlos y asegurar que están listos para la fase de producción.
+
+##### Actividad 3: "Primeros pasos en Scratch" (1 sesión)
+
+* **Objetivo:** Familiarizarse con el entorno de Scratch y crear los elementos gráficos (personajes y fondos).
+* **Desarrollo detallado:**
+    * **(15 min) Tutorial guiado:**
+        * El/la docente proyecta la interfaz de Scratch y realiza un tutorial interactivo mostrando las partes clave: escenario, lista de objetos (*sprites*), paleta de bloques y área de programación.
+        * Se realiza una demostración práctica de las funciones esenciales: mover un objeto, cambiarle el disfraz, añadir un fondo y usar los bloques "decir" y "pensar".
+    * **(30 min) Creación de recursos gráficos:**
+        * Los equipos acceden a Scratch en sus ordenadores.
+        * Su tarea es crear el proyecto y preparar sus "actores" y "escenarios". Pueden usar el editor de Scratch para dibujar sus propios personajes, modificar los existentes o elegir de la biblioteca. Se les anima a ser creativos.
+    * **(5 min) Cierre:**
+        * El/la docente da instrucciones claras sobre cómo guardar el proyecto en la cuenta del colegio o en el ordenador. Se recuerda a los alumnos que la próxima semana empezarán a animar su historia.
+
+##### Actividades 4 y 5: "¡Acción! Programamos nuestra historia" (2 sesiones)
+
+* **Objetivo:** Programar en Scratch la animación planificada en el guion gráfico.
+* **Desarrollo detallado:**
+    * **(5 min) Inicio de la sesión:**
+        * Se devuelven los guiones gráficos a cada equipo. El/la docente recuerda el objetivo de la sesión: "Hoy sois programadores y directores. Vuestro reto es dar vida a vuestro guion".
+    * **(40 min) Trabajo autónomo por equipos:**
+        * Esta es la fase principal de producción. [cite_start]El alumnado trabaja de manera autónoma, siguiendo su guion[cite: 242].
+        * El/la docente adopta un rol de observador y consultor, acercándose a los grupos para resolver dudas técnicas puntuales ("¿cómo hago que dos personajes hablen por turnos?") o para mediar si surge algún desacuerdo en el equipo.
+        * [cite_start]Se promueve activamente la **tutoría entre iguales**: si un equipo descubre cómo hacer algo, se le anima a compartirlo con los demás[cite: 248].
+    * **(5 min) Cierre de la sesión:**
+        * Recordatorio de guardar el trabajo. Al final de la sesión 5, se anuncia que la siguiente clase será el "Festival de Cortos" y que todos los proyectos deben estar terminados.
+
+##### Actividad 6: "Festival de cortos y reflexión final" (1 sesión)
+
+* **Objetivo:** Exponer los trabajos, generar un diálogo sobre las soluciones propuestas y reflexionar sobre el propio aprendizaje.
+* **Desarrollo detallado:**
+    * **(5 min) Presentación de la sesión:**
+        * El/la docente explica la dinámica: cada equipo presentará su animación y, al terminar, compartirá con la clase por qué eligió esa solución. El resto de la clase actúa como un público respetuoso.
+    * **(30 min) Visionado y diálogo:**
+        * Por turnos, los equipos proyectan su animación.
+        * Tras cada visionado, el/la docente abre un micro-debate de 2-3 minutos con preguntas como: *¿Os habéis encontrado alguna vez en esta situación? ¿Creéis que la solución propuesta funcionaría? ¿Se os ocurre otra alternativa?*
+    * **(15 min) Metacognición y cierre:**
+        * [cite_start]Para finalizar, se facilita un proceso metacognitivo con preguntas para todo el grupo[cite: 244]: *¿Qué es lo más importante que habéis aprendido sobre cómo tratar a los demás en la red? ¿Qué parte del proyecto (guion, diseño, programación) os ha resultado más fácil o más difícil y por qué? ¿Cómo os habéis organizado para trabajar en equipo?*
+        * Se concluye reforzando la idea de que, al igual que en la vida real, en el mundo digital todos somos responsables de crear un ambiente seguro y agradable.
+
+#### Organización de los espacios
+
+Todas las sesiones se llevarán a cabo en el **aula de informática**. Se recomienda organizar las mesas en **grupos o "islas" de trabajo** para facilitar la colaboración y la comunicación dentro de los equipos, en lugar de la disposición tradicional en filas.
+
+#### Distribución del tiempo
+
+* **Número de sesiones**: 6 sesiones.
+* **Duración**: 50-55 minutos por sesión.
+* **Total estimado**: 6 horas de clase.
+
+#### Recursos y materiales
+
+* **💻 Recursos Digitales**:
+    * Ordenadores con conexión a Internet.
+    * Proyector o pizarra digital para las explicaciones del/de la docente.
+    * Navegador web para acceder a la plataforma online de **Scratch**.
+    * Auriculares (especialmente para las sesiones 4 y 5, si los alumnos añaden sonido).
+
+* **📝 Recursos Materiales**:
+    * Pizarra (física o digital) para la lluvia de ideas.
+    * Papel, lápices y bolígrafos para la elaboración de los guiones gráficos (*storyboards*).
+
+* **🧑‍🏫 Recursos Humanos**:
+    * Alumnado organizado en equipos colaborativos.
+    * [cite_start]Docente con rol de guía, facilitador y observador del proceso de aprendizaje. [cite: 242]
+
