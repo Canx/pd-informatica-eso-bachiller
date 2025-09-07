@@ -180,9 +180,9 @@ La situación de aprendizaje se desarrollará a lo largo de **6 sesiones**.
     * **(5 min) Inicio de la sesión:**
         * Se devuelven los guiones gráficos a cada equipo. El/la docente recuerda el objetivo de la sesión: "Hoy sois programadores y directores. Vuestro reto es dar vida a vuestro guion".
     * **(40 min) Trabajo autónomo por equipos:**
-        * Esta es la fase principal de producción. [cite_start]El alumnado trabaja de manera autónoma, siguiendo su guion[cite: 242].
+        * Esta es la fase principal de producción. El alumnado trabaja de manera autónoma, siguiendo su guion.
         * El/la docente adopta un rol de observador y consultor, acercándose a los grupos para resolver dudas técnicas puntuales ("¿cómo hago que dos personajes hablen por turnos?") o para mediar si surge algún desacuerdo en el equipo.
-        * [cite_start]Se promueve activamente la **tutoría entre iguales**: si un equipo descubre cómo hacer algo, se le anima a compartirlo con los demás[cite: 248].
+        * Se promueve activamente la **tutoría entre iguales**: si un equipo descubre cómo hacer algo, se le anima a compartirlo con los demás.
     * **(5 min) Cierre de la sesión:**
         * Recordatorio de guardar el trabajo. Al final de la sesión 5, se anuncia que la siguiente clase será el "Festival de Cortos" y que todos los proyectos deben estar terminados.
 
@@ -196,7 +196,7 @@ La situación de aprendizaje se desarrollará a lo largo de **6 sesiones**.
         * Por turnos, los equipos proyectan su animación.
         * Tras cada visionado, el/la docente abre un micro-debate de 2-3 minutos con preguntas como: *¿Os habéis encontrado alguna vez en esta situación? ¿Creéis que la solución propuesta funcionaría? ¿Se os ocurre otra alternativa?*
     * **(15 min) Metacognición y cierre:**
-        * [cite_start]Para finalizar, se facilita un proceso metacognitivo con preguntas para todo el grupo[cite: 244]: *¿Qué es lo más importante que habéis aprendido sobre cómo tratar a los demás en la red? ¿Qué parte del proyecto (guion, diseño, programación) os ha resultado más fácil o más difícil y por qué? ¿Cómo os habéis organizado para trabajar en equipo?*
+        * Para finalizar, se facilita un proceso metacognitivo con preguntas para todo el grupo: *¿Qué es lo más importante que habéis aprendido sobre cómo tratar a los demás en la red? ¿Qué parte del proyecto (guion, diseño, programación) os ha resultado más fácil o más difícil y por qué? ¿Cómo os habéis organizado para trabajar en equipo?*
         * Se concluye reforzando la idea de que, al igual que en la vida real, en el mundo digital todos somos responsables de crear un ambiente seguro y agradable.
 
 #### Organización de los espacios
