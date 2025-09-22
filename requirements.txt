@@ -1,0 +1,3 @@
+weasyprint
+csv2md
+pandoc-include

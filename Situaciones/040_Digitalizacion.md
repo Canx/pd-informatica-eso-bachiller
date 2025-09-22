@@ -112,7 +112,6 @@ Siguiendo los principios del Diseño Universal para el Aprendizaje (DUA), se imp
 
 Este apartado amplía la sección 7, ofreciendo una guía pormenorizada para la implementación de cada actividad, con ejemplos concretos y una selección de herramientas de software libre y de código abierto (FOSS).
 
----
 **Actividad 1: "Punto de partida: Mi universo digital"**
 
 * **Objetivo Principal:** Diagnosticar las ideas y hábitos previos del alumnado sobre su vida digital y presentar el proyecto para generar motivación e implicación.
@@ -128,7 +127,6 @@ Este apartado amplía la sección 7, ofreciendo una guía pormenorizada para la 
 * **Rol del Docente:** Facilitador del debate, presentador del reto.
 * **Evidencia Generada:** Documento colaborativo con las ideas previas. Listado de grupos y tema de investigación asignado.
 
----
 **Actividad 2: "Kit de detective digital"**
 
 * **Objetivo Principal:** Dotar al alumnado de una metodología y herramientas concretas para analizar la información de forma crítica.
@@ -140,7 +138,6 @@ Este apartado amplía la sección 7, ofreciendo una guía pormenorizada para la 
 * **Rol del Docente:** Instructor, supervisor y consultor.
 * **Evidencia Generada:** Documento de investigación de cada grupo con las plantillas de análisis de fuentes completadas.
 
----
 **Actividad 3: "Manos a la obra: creamos nuestro mensaje"**
 
 * **Objetivo Principal:** Desarrollar competencias en la creación de contenidos digitales, transformando la investigación en un producto comunicativo eficaz.
@@ -155,7 +152,6 @@ Este apartado amplía la sección 7, ofreciendo una guía pormenorizada para la 
 * **Rol del Docente:** Asesor técnico y de contenido.
 * **Evidencia Generada:** Guion/boceto. Producto digital final (“Radiografía Digital”).
 
----
 **Actividad 4: "Foro de Guardianes: compartimos para crecer"**
 
 * **Objetivo Principal:** Practicar la comunicación oral, compartir conocimiento y recopilar las ideas fundamentales para el manifiesto.
@@ -168,7 +164,6 @@ Este apartado amplía la sección 7, ofreciendo una guía pormenorizada para la 
 * **Rol del Docente:** Moderador y gestor del tiempo.
 * **Evidencia Generada:** Presentación oral. Documento colaborativo con las ideas clave de toda la clase.
 
----
 **Actividad 5: "Nuestro Manifiesto"**
 
 * **Objetivo Principal:** Desarrollar habilidades de síntesis, debate y consenso para crear un producto colectivo.
@@ -181,7 +176,6 @@ Este apartado amplía la sección 7, ofreciendo una guía pormenorizada para la 
 * **Rol del Docente:** Moderador del debate y editor.
 * **Evidencia Generada:** Documento final del "Manifiesto del Guardián/a Digital".
 
----
 **Actividad 6: "Mirando hacia atrás para seguir adelante"**
 
 * **Objetivo Principal:** Realizar un ejercicio de metacognición para que el alumnado sea consciente de lo aprendido y de cómo aplicarlo.
