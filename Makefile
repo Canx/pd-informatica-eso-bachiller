@@ -1,4 +1,4 @@
-# Makefile para generar las programaciones didácticas (v8 - Final).
+# Makefile para generar las programaciones didácticas (v9 - Solución Definitiva).
 
 # --- Configuración ---
 SHELL := /bin/bash
@@ -12,10 +12,8 @@ CSV2MD := csv2md
 
 # --- Detección automática de programaciones ---
 ALL_DIRS := $(wildcard */)
-
-# CORRECCIÓN 1: Añadimos venv/ a la lista de ignorados.
+# Se añade venv/ a la lista de ignorados.
 IGNORED_DIRS := old/ fonts/ images/ comun/ plantillas/ Legislación/ $(BUILD_DIR)/ venv/
-
 PROGRAM_DIRS := $(filter-out $(IGNORED_DIRS), $(ALL_DIRS))
 PROGRAM_NAMES := $(patsubst %/,%,$(PROGRAM_DIRS))
 PDFS := $(addprefix $(BUILD_DIR)/, $(addsuffix .pdf, $(PROGRAM_NAMES)))
@@ -35,19 +33,21 @@ clean:
 # --- Reglas de compilación ---
 .SECONDEXPANSION:
 
-# CORRECCIÓN 2: Usamos una URL 'file://' explícita y absoluta.
-# Esta es la forma más robusta de decirle a weasyprint dónde encontrar los ficheros locales.
+# Regla para PDF. Ahora es mucho más simple porque el HTML es autocontenido.
 $(BUILD_DIR)/%.pdf: $(BUILD_DIR)/%.html
 	@echo "📄 Creando PDF para $*..."
 	@mkdir -p $(BUILD_DIR)
-	$(WEASYPRINT) --base-url "file://$(CURDIR)/$*/" $< $@
+	$(WEASYPRINT) $< $@
 
 # Define un comando reutilizable para pandoc
+# SOLUCIÓN CLAVE: Se usa --embed-resources y --self-contained.
+# Esto incrusta el CSS, fuentes e imágenes en el HTML, eliminando todos los problemas de rutas.
 define PANDOC_CMD
 (cd $* && \
 	$(PANDOC) --template="../template.html" \
+	--embed-resources --self-contained \
 	-V current_date="$(shell date +'$(1)')" \
-	-f markdown-smart --toc --toc-depth=2 -c "../style.css" --filter pandoc-include \
+	-f markdown-smart --toc --toc-depth=2 -c "style.css" --filter pandoc-include \
 	$(patsubst $*/%,%,$(filter $*/%.md,$^)) \
 	-o ../$@ \
 )
@@ -59,11 +59,17 @@ $(BUILD_DIR)/%.html: convert template.html style.css $$(shell find $$* -name '*.
 	@mkdir -p $(BUILD_DIR)
 	$(call PANDOC_CMD,%Y-%m-%d)
 
-# Regla para generar el EPUB.
+# Regla para generar el EPUB (no necesita self-contained, usa el CSS normal).
 $(BUILD_DIR)/%.epub: convert template.html style.css $$(shell find $$* -name '*.md' -not -name 'README.md' | sort)
 	@echo "📖 Creando EPUB para $*..."
 	@mkdir -p $(BUILD_DIR)
-	$(call PANDOC_CMD,%D)
+	(cd $* && \
+		$(PANDOC) --template="../template.html" \
+		-V current_date="$(shell date +'%D')" \
+		-f markdown-smart --toc --toc-depth=2 -c "style.css" --filter pandoc-include \
+		$(patsubst $*/%,%,$(filter $*/%.md,$^)) \
+		-o ../$@ \
+	)
 
 # --- Reglas de conversión ---
 convert:
