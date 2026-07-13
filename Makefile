@@ -6,15 +6,16 @@ BUILD_DIR := build
 
 # --- Herramientas ---
 PANDOC := pandoc
-WEASYPRINT := python3 -m weasyprint
+WEASYPRINT := weasyprint
 LOFFICE := libreoffice
 CSV2MD := csv2md
 
 # --- Detección automática de programaciones ---
 ALL_DIRS := $(wildcard */)
 # Se añade venv/ a la lista de ignorados.
-IGNORED_DIRS := old/ fonts/ images/ comun/ plantillas/ Legislación/ $(BUILD_DIR)/ venv/
+IGNORED_DIRS := old/ fonts/ images/ comun/ plantillas/ Legislación/ Situaciones/ $(BUILD_DIR)/ venv/
 PROGRAM_DIRS := $(filter-out $(IGNORED_DIRS), $(ALL_DIRS))
+PROGRAM_DIRS := $(foreach dir,$(PROGRAM_DIRS),$(if $(filter-out README.md,$(patsubst $(dir)%,%,$(wildcard $(dir)*.md))),$(dir),))
 PROGRAM_NAMES := $(patsubst %/,%,$(PROGRAM_DIRS))
 PDFS := $(addprefix $(BUILD_DIR)/, $(addsuffix .pdf, $(PROGRAM_NAMES)))
 EPUBS := $(addprefix $(BUILD_DIR)/, $(addsuffix .epub, $(PROGRAM_NAMES)))

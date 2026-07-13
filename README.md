@@ -10,7 +10,7 @@
 
 ## 1º BACHILLER
 
-- [Programación redes y sistemas informáticos I](./PRESI1-1BACH)
+- [Informática I](./INF1-1BACH)
 
 # Generación de PDFs
 
