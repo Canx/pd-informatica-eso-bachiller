@@ -13,11 +13,13 @@
 ### Seguridad y Sostenibilidad (5 horas)
 - **Actividades Previas**:
   - **Juego de Roles: “Guardianes de la Seguridad”** (2 horas): Los estudiantes simulan escenarios donde deben proteger sus dispositivos de amenazas virtuales (contraseñas, antivirus, phishing). 
-  - **Debate sobre Sostenibilidad** (1 hora): Discusión sobre el impacto ambiental de los dispositivos y la importancia del reciclaje.
+  - **Debate sobre Sostenibilidad y Hábitos Saludables** (1 hora): Discusión sobre el impacto ambiental de los dispositivos, la obsolescencia programada y la necesidad de desconexión.
+  - **Actividad: Desconecta del susto digital — Cartel "Modo Avión"**: Diseño de un cartel visual (con LibreOffice Draw) promoviendo pausas activas y desconexión de pantallas.
   - **Actividad Relacionada con ODS**:
     - **ODS 12: Producción y Consumo Responsable**: Crear conciencia sobre la obsolescencia programada y cómo alargar la vida útil de los dispositivos.
+    - **ODS 3: Salud y Bienestar**: Prevención de la fatiga digital y hábitos de sueño saludables.
 - **Miniproyecto**:
-  - **Campaña Digital de Concienciación** (2 horas): Crear una campaña digital sobre la sostenibilidad en el uso de dispositivos (posters digitales, infografías), que incluya consejos prácticos.
+  - **Campaña Digital de Concienciación y Puesto de Trabajo Saludable** (2 horas): Crear una campaña digital sobre la sostenibilidad y ergonomía en el uso de dispositivos (posters digitales, infografías con LibreOffice Draw), que incluya consejos prácticos.
 
 ### Brecha Digital y Acceso a Internet (5 horas)
 - **Actividades Previas**:
@@ -46,18 +48,19 @@
 - **Miniproyecto**:
   - **Dossier de Investigación** (2 horas): Crear un pequeño dossier que recopile información veraz sobre un tema de interés, evaluando las fuentes y justificando su elección.
 
-### Creación de Contenidos y Derechos de Autor (5 horas)
+#### Creación de Contenidos, Ofimática y Respeto Digital (5 horas)
 - **Actividades Previas**:
-  - **Taller Creativo: “Creador de Contenidos”** (2 horas): Introducción a herramientas digitales para la creación de contenido (como presentaciones, imágenes, y videos). 
-  - **Actividad sobre Derechos de Autor** (1 hora): Caso práctico donde los estudiantes deben decidir qué contenido pueden usar en un proyecto digital.
+  - **Taller de Documentación Profesional (LibreOffice Writer)** (2 horas): Creación de un documento formal con estilos de párrafo jerárquicos, índice dinámico y numeración de páginas.
+  - **Taller Creativo: Campaña #StopCiberbullying (LibreOffice Draw)** (1 hora): Diseño de cartelería y trípticos de sensibilización contra el ciberacoso escolar.
+  - **Actividad Dramatizada: Teatro Interactivo sobre Ciberacoso** (1 hora): Representación en pequeños grupos de situaciones de acoso en grupos de mensajería y resolución asertiva en directo.
   - **Actividad Relacionada con ODS**:
-    - **ODS 8: Trabajo Decente y Crecimiento Económico**: Reflexión sobre la importancia de respetar los derechos de autor en el mundo digital.
+    - **ODS 16: Paz, Justicia e Instituciones Sólidas**: Prevención de la violencia y resolución pacífica de conflictos en entornos virtuales.
 - **Miniproyecto**:
-  - **Proyecto Multimedia** (2 horas): Crear un video o presentación interactiva sobre un tema de su elección, respetando los derechos de autor y usando imágenes y música con licencia.
+  - **Campaña Escudo Anti-Bullying**: Publicación y exposición de los materiales gráficos y normas consensuadas para los canales de comunicación de clase.
 
 ### Organización y Personalización del Entorno (5 horas)
 - **Actividades Previas**:
-  - **Taller de Gestión Digital: “Mi Espacio Digital”** (2 horas): Enseñar a los estudiantes a organizar archivos y personalizar su entorno de trabajo digital. 
+  - **Taller de Gestión Digital: “Mi Espacio Digital en LliureX”** (2 horas): Enseñar a los estudiantes a organizar árboles de carpetas por asignaturas, renombrado masivo estructurado y sincronización en la nube. 
   - **Actividad Lúdica**: **“Ordena tu Caos”** (1 hora): Juego donde los estudiantes deben organizar un entorno digital desordenado en un tiempo limitado.
   - **Actividad Relacionada con ODS**:
     - **ODS 11: Ciudades y Comunidades Sostenibles**: Relacionar la organización digital con la organización física y la sostenibilidad en la vida cotidiana.
@@ -70,34 +73,36 @@
 - **Evaluación**:
   - **Exposición Digital** (2 horas): Los estudiantes muestran su espacio digital organizado y el contenido multimedia creado durante el trimestre.
   - **Evaluación Final Lúdica** (1 hora): Prueba en formato de reto donde deben aplicar lo aprendido.
-  - 
 
-## Trimestre 3: Identidad Digital y Relaciones en el Entorno Digital (20 horas)
+## Trimestre 3: Identidad Digital, Privacidad y Consumo Crítico con IA (20 horas)
 
-### Identidad Digital (5 horas)
+### Identidad Digital y Privacidad Desconectada (5 horas)
 - **Actividades Previas**:
-  - **Taller: “Tu Huella Digital”** (2 horas): Los estudiantes exploran cómo se forma su identidad digital y qué información queda registrada en línea. 
-  - **Actividad de Reflexión Lúdica**: **“El Rastro del Avatar”** (1 hora): Los estudiantes crean avatares y exploran cómo las elecciones en línea afectan su huella digital.
+  - **Misión: Agente de Privacidad Digital (Unplugged)** (2 horas): Actividad desconectada en la que los estudiantes analizan perfiles anónimos impresos en papel, rastrean huellas digitales y detectan datos personales comprometidos.
+  - **Taller: “Tu Avatar Seguro”** (1 hora): Creación de un avatar digital no identificable para el perfil de Aules y configuración de privacidad.
   - **Actividad Relacionada con ODS**:
-    - **ODS 10: Reducción de las Desigualdades**: Reflexión sobre cómo la identidad digital puede influir en la inclusión y la desigualdad.
+    - **ODS 10: Reducción de las Desigualdades**: Reflexión sobre cómo la identidad digital y los estereotipos pueden influir en la inclusión.
 - **Miniproyecto**:
   - **Perfil Digital Responsable** (2 horas): Crear un perfil digital que refleje una identidad positiva y segura, usando avatares y configuraciones de privacidad adecuadas.
 
-### Relaciones Digitales y Etiqueta (5 horas)
+### Consumo Responsable, Alimentación e Inteligencia Artificial (5 horas)
 - **Actividades Previas**:
-  - **Taller de Etiqueta Digital: “Convivencia en Línea”** (2 horas): Introducción a las normas de comportamiento en entornos digitales. 
-  - **Role-Playing: “La Red es mi Amigo”** (1 hora): Simulación de situaciones comunes en línea para practicar la etiqueta digital.
+  - **Taller: "Hackeando el Supermercado con Hojas de Cálculo"** (2 horas): Comparativa de precios unitarios y lectura crítica de etiquetas de productos en LibreOffice Calc.
+  - **Taller: "Hackeando nuestra Dieta con IA"** (1 hora): Uso guiado de herramientas de IA generativa para contrastar información nutricional e identificar mitos alimentarios.
   - **Actividad Relacionada con ODS**:
-    - **ODS 5: Igualdad de Género**: Reflexión sobre cómo fomentar el respeto y la igualdad en las interacciones digitales.
+    - **ODS 3: Salud y Bienestar**: Fomento de una alimentación saludable y consumo crítico de publicidad alimentaria.
+    - **ODS 12: Producción y Consumo Responsable**: Compra eficiente y reducción de desperdicio.
 - **Miniproyecto**:
-  - **Guía de Buenas Prácticas en Línea** (2 horas): Crear una guía visual sobre cómo mantener relaciones saludables y respetuosas en línea, incluyendo la etiqueta y las normas de convivencia.
+  - **Misión: El Reto de los 50€ (Comer bien sin arruinarse)** (2 horas): Diseñar un menú semanal equilibrado para una familia con presupuesto limitado, verificando precios y contrastando recetas con IA.
 
-### Bienestar Digital y Adicciones (5 horas)
+### Bienestar Digital, Desconexión e Influencers (5 horas)
 - **Actividades Previas**:
-  - **Taller sobre Tecnoadicciones: “Controla tu Pantalla”** (2 horas): Los estudiantes aprenden sobre los riesgos de las adicciones digitales y cómo prevenirlas. 
-  - **Actividad Lúdica**: **“Reto de Desconexión”** (1 hora): Un reto donde los estudiantes intentan desconectarse de la tecnología por un tiempo limitado y reflexionan sobre la experiencia.
+  - **Estudio Crítico: Comparativa de Influencers** (2 horas): Análisis de los modelos de negocio de creadores de contenido, publicidad encubierta y sesgos en redes sociales.
+  - **Taller sobre Tecnoadicciones: “Controla tu Pantalla”** (1 hora): Los estudiantes aprenden sobre las estrategias de diseño persuasivo y cómo prevenirlas.
+  - **Actividad Lúdica**: **“Reto de Desconexión”** (1 hora): Registro de hábitos de uso y plan personal de desconexión.
   - **Actividad Relacionada con ODS**:
-    - **ODS 3: Salud y Bienestar**: Relacionar el bienestar digital con la salud mental
+    - **ODS 3: Salud y Bienestar**: Relacionar el bienestar digital con la salud mental y emocional.
+
    
 ## Situaciones de aprendizaje completas
 
