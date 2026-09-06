@@ -41,7 +41,21 @@ La calificación de la evaluación solo se redondeará en caso de que la calific
 
 Las faltas de ortografía restarán nota de los exámenes y en los trabajos con parte escrita hasta un máximo de 1 punto. Cada falta de ortografía restará 0,1 punto.
 
-## Calendario y fechas clave de evaluación (Curso 2026-2027)
+### 1º ESO (Taller de Relacions Digitals Responsables)
+
+* **Evaluación Inicial**:
+  * **Sesión de evaluación**: 22 de septiembre de 2026 (martes).
+  * **Cierre de recogida de información y diagnóstico**: Viernes 18 de septiembre de 2026.
+* **Primera evaluación**:
+  * **Sesión de evaluación**: 17 de diciembre de 2026 (jueves).
+  * **Cierre de notas y calificaciones**: Máximo viernes 11 de diciembre de 2026.
+* **Segunda evaluación**:
+  * **Sesión de evaluación**: 3 de marzo de 2027 (miércoles).
+  * **Cierre de notas y calificaciones**: Máximo viernes 26 de febrero de 2027.
+* **Tercera evaluación y Evaluación final ordinaria**:
+  * **Sesión de evaluación final**: 15 de junio de 2027 (martes).
+  * **Cierre de notas ordinarias**: Primera semana de junio (máximo viernes 4 de junio de 2027).
+  * **Semana de recuperaciones y refuerzo**: 7 al 11 de junio de 2027.
 
 ### 3º ESO (Programación, Inteligencia Artificial y Robótica I)
 
