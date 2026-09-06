@@ -43,20 +43,37 @@ Las faltas de ortografía restarán nota de los exámenes y en los trabajos con 
 
 ## Calendario y fechas clave de evaluación (Curso 2026-2027)
 
-Para garantizar un seguimiento continuo y disponer del margen adecuado para revisiones y recuperaciones, se establecen los siguientes plazos de cierre y sesiones de evaluación:
+### 3º ESO (Programación, Inteligencia Artificial y Robótica I)
+
+* **Evaluación Inicial**:
+  * **Sesión de evaluación**: 23 de septiembre de 2026 (miércoles).
+  * **Cierre de recogida de información y diagnóstico**: Viernes 18 de septiembre de 2026.
+* **Primera evaluación**:
+  * **Sesión de evaluación**: 15 de diciembre de 2026 (martes).
+  * **Cierre de notas y calificaciones**: Máximo viernes 11 de diciembre de 2026.
+* **Segunda evaluación**:
+  * **Sesión de evaluación**: 12 de marzo de 2027 (viernes).
+  * **Cierre de notas y calificaciones**: Máximo viernes 5 de marzo de 2027.
+* **Tercera evaluación y Evaluación final ordinaria**:
+  * **Sesión de evaluación final**: 8 de junio de 2027 (martes).
+  * **Cierre de notas ordinarias**: Última semana de mayo (máximo viernes 28 de mayo de 2027).
+  * **Semana de recuperaciones y refuerzo**: 31 de mayo al 4 de junio de 2027.
+
+### 4º ESO (Digitalización)
 
 * **Evaluación Inicial**:
   * **Sesión de evaluación**: 21 de septiembre de 2026 (lunes).
   * **Cierre de recogida de información y cuestionario diagnóstico**: Viernes 18 de septiembre de 2026.
 * **Primera evaluación**:
   * **Sesión de evaluación**: 9 de diciembre de 2026 (miércoles).
-  * **Cierre de notas y calificaciones**: Primera semana de diciembre (máximo viernes 4 de diciembre de 2026).
+  * **Cierre de notas y calificaciones**: Máximo viernes 4 de diciembre de 2026.
 * **Segunda evaluación**:
   * **Sesión de evaluación**: 10 de marzo de 2027 (miércoles).
-  * **Cierre de notas y calificaciones**: Primera semana de marzo (máximo viernes 5 de marzo de 2027).
+  * **Cierre de notas y calificaciones**: Máximo viernes 5 de marzo de 2027.
 * **Tercera evaluación y Evaluación final ordinaria**:
   * **Sesión de evaluación final**: 8 de junio de 2027 (martes).
-  * **Cierre de notas ordinarias**: Última semana de mayo (máximo viernes 28 de mayo de 2027), con el fin de disponer de margen temporal suficiente para las actividades de recuperación, refuerzo y pruebas extraordinarias previas a la junta de evaluación.
+  * **Cierre de notas ordinarias**: Última semana de mayo (máximo viernes 28 de mayo de 2027).
+  * **Semana de recuperaciones y refuerzo**: 31 de mayo al 4 de junio de 2027.
 
 ## Recuperación de una evaluación
 
