@@ -45,6 +45,9 @@ Las faltas de ortografía restarán nota de los exámenes y en los trabajos con 
 
 Para garantizar un seguimiento continuo y disponer del margen adecuado para revisiones y recuperaciones, se establecen los siguientes plazos de cierre y sesiones de evaluación:
 
+* **Evaluación Inicial**:
+  * **Sesión de evaluación**: 21 de septiembre de 2026 (lunes).
+  * **Cierre de recogida de información y cuestionario diagnóstico**: Viernes 18 de septiembre de 2026.
 * **Primera evaluación**:
   * **Sesión de evaluación**: 9 de diciembre de 2026 (miércoles).
   * **Cierre de notas y calificaciones**: Primera semana de diciembre (máximo viernes 4 de diciembre de 2026).
