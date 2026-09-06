@@ -1,8 +1,21 @@
-# Hoja de Ruta y Planificación Anual: PIAR 3º ESO (2026-2027)
+# 💻 Programación de Aula: PIAR 3º ESO (2026-2027)
 **Centro:** IES Maria Carbonell i Sánchez  
 **Profesor:** Rubén Cancho  
 **Asignatura:** Programación, Inteligencia Artificial y Robótica I (3º ESO) • ID Aules: `385143`  
 **Narrativa transversal:** *Software Studio & AI Builders*  
+
+---
+
+## 📚 Referencia Curricular y Programación Didáctica Departamental
+Esta programación de aula concreta y operacionaliza la **Programación Didáctica oficial de PIAR 3º ESO**:
+* 📕 **Documento Oficial Completo (PDF):** [Descargar / Ver PIAR1-3ESO.pdf](../build/PIAR1-3ESO.pdf)
+* 🎯 **Competencias Específicas y Criterios:** [040_competencias.md](040_competencias.md)
+* 🧠 **Saberes Básicos LOMLOE:** [050_saberes_básicos.md](050_saberes_básicos.md)
+* 🧩 **Unidades de Aprendizaje y SdAs:** [060_unidades.md](060_unidades.md)
+* 🛠️ **Metodología Didáctica:** [metodologia.md](../comun/metodologia.md)
+* ⚖️ **Criterios de Calificación e Instrumentos:** [calificacion.md](../comun/calificacion.md)
+* 🤝 **Medidas de Inclusión y DUA:** [medidas_inclusion.md](090_medidas_inclusion.md)
+* 📂 **Directorio de la Programación Didáctica:** [Ver archivos del repositorio](.)
 
 ---
 
@@ -11,11 +24,11 @@
 ### 1. Cabecera del Curso (Sección General)
 - **`⚡ Misión del Curso: Software Studio & AI Builders`** (*cmid: 5995775*): Filosofía de estudio de desarrollo, presentación de las 3 Temporadas y reglas de juego.
 - **`📽️ Presentación del Curso: Software Studio & AI Builders (Diapositivas)`** (*cmid: 5995776*): Visor nativo e interactivo con 8 diapositivas dinámicas.
-- **`🔒 [DOCENTE] Fechas Clave de Evaluación 2026-2027`** (*cmid: 5995774*, oculto):
-  - **Evaluación Inicial:** 23 de septiembre de 2026 (miércoles). Cierre diagnóstico: 18 de septiembre.
-  - **1ª Evaluación:** 15 de diciembre de 2026 (martes). Cierre notas ordinarias: máximo 11 de diciembre.
-  - **2ª Evaluación:** 12 de marzo de 2027 (viernes). Cierre notas ordinarias: máximo 5 de marzo.
-  - **3ª Evaluación y Final:** 8 de junio de 2027 (martes). Cierre notas ordinarias: 28 de mayo (*recuperaciones: 31 mayo - 4 junio*).
+- **`📖 Guía del Curso: Normas, Evaluación LOMLOE y Laboratorio`** (*cmid: 5995961*): Guía de convivencia, rúbricas de aula y normas del laboratorio.
+- **`🔒 [DOCENTE] Programación de Aula: Planificación Anual y Fechas Clave`** (*cmid: 5995780*, recurso exclusivo docente):
+  - Enlaces a la Programación Didáctica oficial y repositorio GitHub.
+  - Calendario oficial reservado de evaluaciones y fechas de corte de notas.
+  - Planificación y temporalización de Temporadas.
 
 ### 2. Semana 1 (7 sep - 13 sep)
 - **`Semana 1: Hoja de Ruta y Puesto de Desarrollo Digital`** (*cmid: 5995777*): Hoja de ruta semanal con objetivos de bienvenida y estructura recomendada de carpetas.

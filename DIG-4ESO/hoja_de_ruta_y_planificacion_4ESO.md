@@ -1,8 +1,20 @@
-# Hoja de Ruta y Planificación Anual: Digitalización 4º ESO (2026-2027)
+# 🛡️ Programación de Aula: Digitalización 4º ESO (2026-2027)
 **Centro:** IES Maria Carbonell i Sánchez  
 **Profesor:** Rubén Cancho (Jefe de Departamento)  
 **Asignatura:** Digitalización 4º ESO (ID Aules: `385144`)  
 **Narrativa transversal:** *Laboratorio de Hacking Cívico y Soberanía Tecnológica*  
+
+---
+
+## 📚 Referencia Curricular y Programación Didáctica Departamental
+Esta programación de aula concreta y operacionaliza la **Programación Didáctica oficial de Digitalización 4º ESO**:
+* 📕 **Documento Oficial Completo (PDF):** [Descargar / Ver DIG-4ESO.pdf](../build/DIG-4ESO.pdf)
+* 🎯 **Competencias Específicas y Criterios:** [042_competencias_especificas.md](042_competencias_especificas.md)
+* 🧠 **Saberes Básicos LOMLOE:** [050_saberes_basicos.md](050_saberes_basicos.md)
+* 🛠️ **Metodología Didáctica:** [metodologia.md](../comun/metodologia.md)
+* ⚖️ **Criterios de Calificación e Instrumentos:** [calificacion.md](../comun/calificacion.md)
+* 🤝 **Medidas de Inclusión y DUA:** [inclusion.md](090_inclusion.md)
+* 📂 **Directorio de la Programación Didáctica:** [Ver archivos del repositorio](.)
 
 ---
 
@@ -13,7 +25,8 @@
 - **Sección 0 (General)**:
   - **`⚡ Misión del Curso: Laboratorio de Hacking Cívico y Soberanía Digital`** (*cmid: 5995768*): Manifiesto del curso, estructura por temporadas y metodología de hitos.
   - **`📽️ Presentación del Curso: Laboratorio de Hacking Cívico (Diapositivas)`** (*cmid: 5995771*): Presentación interactiva con visor nativo y soporte pantalla completa.
-  - **`🔒 [DOCENTE] Fechas Clave de Evaluación 2026-2027`** (*cmid: 5995767*, oculto): Panel interno con el calendario oficial de sesiones y fechas límite de notas.
+  - **`📖 Guía del Curso: Normas, Evaluación LOMLOE y Laboratorio`** (*cmid: 5995960*): Guía de convivencia, rúbricas de aula y normas del laboratorio.
+  - **`🔒 [DOCENTE] Programación de Aula: Planificación Anual y Fechas Clave`** (*cmid: 5995773*, recurso exclusivo docente): Panel interno unificado con repositorio GitHub, PDF de la PD, calendario oficial de sesiones y fechas límite de notas.
 
 ### 2. Semana 1 (7 sep - 13 sep): Puesta a Punto y Diagnóstico
 - **`Semana 1: Hoja de Ruta y Puesto de Trabajo Digital`** (*cmid: 5995769*): Guía de aula para estructurar carpetas en LliureX y OneDrive institucional.

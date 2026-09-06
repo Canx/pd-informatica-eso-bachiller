@@ -1,8 +1,20 @@
-# Hoja de Ruta y Planificación Anual: TRDR 1º ESO (2026-2027)
+# 🧭 Programación de Aula: TRDR 1º ESO (2026-2027)
 **Centro:** IES Maria Carbonell i Sánchez  
 **Profesor:** Rubén Cancho  
 **Asignatura:** Taller de Relaciones Digitales Responsables (1º ESO) • ID Aules: `385141`  
 **Narrativa transversal:** *Academia de Navegantes Digitales: Misiones, Ciberconvivencia y Creatividad*  
+
+---
+
+## 📚 Referencia Curricular y Programación Didáctica Departamental
+Esta programación de aula concreta y operacionaliza la **Programación Didáctica oficial de TRDR 1º ESO**:
+* 📕 **Documento Oficial Completo (PDF):** [Descargar / Ver TRDR-1ESO.pdf](../build/TRDR-1ESO.pdf)
+* 🎯 **Competencias Específicas y Criterios:** [044_competencias_especificas.md](044_competencias_especificas.md)
+* 🧠 **Saberes Básicos LOMLOE:** [050_saberes_basicos.md](050_saberes_basicos.md)
+* 🛠️ **Metodología Didáctica:** [metodologia.md](../comun/metodologia.md)
+* ⚖️ **Criterios de Calificación e Instrumentos:** [calificacion.md](../comun/calificacion.md)
+* 🤝 **Medidas de Inclusión y DUA:** [medidas_inclusion.md](../comun/medidas_NESE_LOMCE.md)
+* 📂 **Directorio de la Programación Didáctica:** [Ver archivos del repositorio](.)
 
 ---
 
@@ -11,11 +23,11 @@
 ### 1. Cabecera del Curso (Sección General)
 - **`⚡ Misión del Curso: Academia de Navegantes Digitales`** (*cmid: 5995782*): Manifiesto del curso, mapa de las 3 Misiones anuales y dinámica de superación de retos.
 - **`📽️ Presentación del Curso: Academia de Navegantes Digitales (Diapositivas)`** (*cmid: 5995783*): Visor nativo con 8 diapositivas adaptadas al alumnado de 12 años recién llegado a la ESO.
-- **`🔒 [DOCENTE] Fechas Clave de Evaluación 2026-2027`** (*cmid: 5995781*, oculto):
-  - **Evaluación Inicial:** 22 de septiembre de 2026 (martes). Cierre diagnóstico: 18 de septiembre.
-  - **1ª Evaluación:** 17 de diciembre de 2026 (jueves). Cierre notas ordinarias: máximo 11 de diciembre.
-  - **2ª Evaluación:** 3 de marzo de 2027 (miércoles). Cierre notas ordinarias: máximo 26 de febrero.
-  - **3ª Evaluación y Final:** 15 de junio de 2027 (martes). Cierre notas ordinarias: primera semana de junio (máx. 4 de junio; *recuperaciones: 7 al 11 de junio*).
+- **`📖 Guía del Curso: Normas, Evaluación LOMLOE y Laboratorio`** (*cmid: 5995963*): Normas, compromisos y criterios de convivencia para el alumnado.
+- **`🔒 [DOCENTE] Programación de Aula: Planificación Anual y Fechas Clave`** (*cmid: 5995787*, recurso exclusivo docente):
+  - Enlaces a la Programación Didáctica oficial y repositorio GitHub.
+  - Calendario oficial reservado de evaluaciones y fechas de corte de notas.
+  - Planificación y temporalización de Misiones.
 
 ### 2. Semana 1 (7 sep - 13 sep)
 - **`Semana 1: Hoja de Ruta - Desembarco en el Aula de Informática`** (*cmid: 5995784*): Acogida, normas de convivencia del laboratorio y creación de carpetas en LliureX y OneDrive.

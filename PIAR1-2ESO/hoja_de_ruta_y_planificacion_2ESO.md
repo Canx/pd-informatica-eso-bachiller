@@ -1,4 +1,4 @@
-# 🤖 Hoja de Ruta y Planificación Anual: PIAR 2º ESO (2026-2027)
+# 🤖 Programación de Aula: PIAR 2º ESO (2026-2027)
 
 **Materia:** Programació, Intel·ligència Artificial i Robòtica I (2º ESO)  
 **Centro:** IES Maria Carbonell i Sánchez  
@@ -6,6 +6,19 @@
 **Curso Aules:** ID `385142`  
 **Narrativa del curso:** *«Robótica y Creadores de Videojuegos: De Scratch a Micro:bit»*  
 **Enfoque pedagógico:** 100% visual, manipulativo, lúdico y por bloques (sin programación textual en Python).
+
+---
+
+## 📚 Referencia Curricular y Programación Didáctica Departamental
+Esta programación de aula concreta y operacionaliza la **Programación Didáctica oficial de PIAR 2º ESO**:
+* 📕 **Documento Oficial Completo (PDF):** [Descargar / Ver PIAR1-2ESO.pdf](../build/PIAR1-2ESO.pdf)
+* 🎯 **Competencias Específicas y Criterios:** [040_competencias.md](040_competencias.md)
+* 🧠 **Saberes Básicos LOMLOE:** [050_saberes_básicos.md](050_saberes_básicos.md)
+* 🧩 **Unidades de Aprendizaje y SdAs:** [060_unidades.md](060_unidades.md)
+* 🛠️ **Metodología Didáctica:** [metodologia.md](../comun/metodologia.md)
+* ⚖️ **Criterios de Calificación e Instrumentos:** [calificacion.md](../comun/calificacion.md)
+* 🤝 **Medidas de Inclusión y DUA:** [medidas_inclusion.md](../comun/medidas_NESE_LOMCE.md)
+* 📂 **Directorio de la Programación Didáctica:** [Ver archivos del repositorio](.)
 
 ---
 
