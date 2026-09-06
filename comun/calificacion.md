@@ -57,6 +57,22 @@ Las faltas de ortografía restarán nota de los exámenes y en los trabajos con 
   * **Cierre de notas ordinarias**: Primera semana de junio (máximo viernes 4 de junio de 2027).
   * **Semana de recuperaciones y refuerzo**: 7 al 11 de junio de 2027.
 
+### 2º ESO (Programación, Inteligencia Artificial y Robótica I)
+
+* **Evaluación Inicial**:
+  * **Sesión de evaluación**: 24 de septiembre de 2026 (jueves).
+  * **Cierre de recogida de información y diagnóstico**: Viernes 18 de septiembre de 2026.
+* **Primera evaluación**:
+  * **Sesión de evaluación**: 16 de diciembre de 2026 (miércoles).
+  * **Cierre de notas y calificaciones**: Máximo viernes 11 de diciembre de 2026.
+* **Segunda evaluación**:
+  * **Sesión de evaluación**: 2 de marzo de 2027 (martes).
+  * **Cierre de notas y calificaciones**: Máximo viernes 26 de febrero de 2027.
+* **Tercera evaluación y Evaluación final ordinaria**:
+  * **Sesión de evaluación final**: 9 de junio de 2027 (miércoles).
+  * **Cierre de notas ordinarias**: Última semana de mayo (máximo viernes 28 de mayo de 2027).
+  * **Semana de recuperaciones y refuerzo**: 31 de mayo al 4 de junio de 2027.
+
 ### 3º ESO (Programación, Inteligencia Artificial y Robótica I)
 
 * **Evaluación Inicial**:
