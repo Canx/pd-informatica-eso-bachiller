@@ -41,13 +41,27 @@ La calificación de la evaluación solo se redondeará en caso de que la calific
 
 Las faltas de ortografía restarán nota de los exámenes y en los trabajos con parte escrita hasta un máximo de 1 punto. Cada falta de ortografía restará 0,1 punto.
 
+## Calendario y fechas clave de evaluación (Curso 2026-2027)
+
+Para garantizar un seguimiento continuo y disponer del margen adecuado para revisiones y recuperaciones, se establecen los siguientes plazos de cierre y sesiones de evaluación:
+
+* **Primera evaluación**:
+  * **Sesión de evaluación**: 9 de diciembre de 2026 (miércoles).
+  * **Cierre de notas y calificaciones**: Primera semana de diciembre (máximo viernes 4 de diciembre de 2026).
+* **Segunda evaluación**:
+  * **Sesión de evaluación**: 10 de marzo de 2027 (miércoles).
+  * **Cierre de notas y calificaciones**: Primera semana de marzo (máximo viernes 5 de marzo de 2027).
+* **Tercera evaluación y Evaluación final ordinaria**:
+  * **Sesión de evaluación final**: 8 de junio de 2027 (martes).
+  * **Cierre de notas ordinarias**: Última semana de mayo (máximo viernes 28 de mayo de 2027), con el fin de disponer de margen temporal suficiente para las actividades de recuperación, refuerzo y pruebas extraordinarias previas a la junta de evaluación.
+
 ## Recuperación de una evaluación
 
 Será posible recuperar evaluaciones no superadas mediante la entrega de tareas no superadas y/o la realización de exámenes de recuperación en los períodos establecidos por el profesor, y que serán preferiblemente durante el mes siguiente a la evaluación. 
 
 Los trabajos estarán relacionados con aquellas competencias específicas no superadas durante la evaluación suspendida.
 
-La recuperación de la 3a evaluación se realizará durante la semana previa a la evaluación final.
+La recuperación de la 3a evaluación se realizará durante la semana previa a la evaluación final (primeros días de junio).
 
 ## Calificación final
 La nota final del curso se calculará a partir de la media aritmética de las notas obtenidas en las tres evaluaciones con decimales, a la que se le aplicará un redondeo.
