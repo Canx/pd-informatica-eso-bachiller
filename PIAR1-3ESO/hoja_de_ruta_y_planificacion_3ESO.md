@@ -32,8 +32,11 @@ Esta programación de aula concreta y operacionaliza la **Programación Didácti
 
 ### 2. Semana 1 (7 sep - 13 sep)
 - **`Semana 1: Hoja de Ruta y Puesto de Desarrollo Digital`** (*cmid: 5995777*): Hoja de ruta semanal con objetivos de bienvenida y estructura recomendada de carpetas.
-- **`Actividad 1: Puesta a Punto del Espacio de Desarrollo`** (*cmid: 5995778*): Subida de captura de pantalla del árbol de directorios en LliureX y OneDrive (entrega: domingo 13 de septiembre a las 23:59).
+- **`Actividad 1: Puesta a Punto del Espacio de Desarrollo`** (*cmid: 5995778*): Subida de captura de pantalla del árbol de directorios en LliureX y OneDrive (entrega: domingo 20 de septiembre a las 23:59).
 - **`Evaluación Inicial: Diagnóstico de Programación, IA y Robótica`** (*cmid: 5995779*): Tarea diagnóstica con documento descargable `cuestionario_inicial_piar3.odt` para evaluar antecedentes en Scratch, Python, robótica e IA sin penalización (entrega: viernes 18 de septiembre a las 23:59).
+
+### 3. Setmana 2 (14 sep - 20 sep)
+- **`Setmana 2: Full de Ruta - Espai de Desenvolupament i Scratch Avançat`** (*cmid: 6102042*): Pla de treball presencial a l'aula per a explicar i realitzar en directe l'Activitat 1 i el Qüestionari Inicial, amb enllaços directes i repte d'ampliació d'algorísmia modular a Scratch.
 
 ---
 

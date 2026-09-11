@@ -40,7 +40,25 @@ Esta programación de aula concreta y operacionaliza la **Programación Didácti
 
 ---
 
-## 🗺️ Distribución Temporal y Unidades de Aprendizaje
+## 📌 PARTE 1: Estado Actual en Aules
+
+### 1. Cabecera del Curso (Sección General)
+- **`⚡ Misión del Curso: Robótica y Creadores de Videojuegos`** (*cmid: 5995919*): Filosofía de creadores de tecnología y superación de retos.
+- **`📽️ Presentación del Curso: Robótica y Creadores de Videojuegos (Diapositivas)`** (*cmid: 5995920*): Presentación interactiva en carrusel.
+- **`📖 Guía del Curso: Normas, Evaluación LOMLOE y Laboratorio`** (*cmid: 5995962*): Guía de convivencia y normas de laboratorio.
+- **`🔒 [DOCENTE] Programación de Aula: Planificación Anual y Fechas Clave`** (*cmid: 5995921*): Panel interno docente.
+
+### 2. Semana 1 (7 sep - 13 sep)
+- **`Semana 1: Hoja de Ruta - Desembarco en el Taller y Primeros Retos Lógicos`** (*cmid: 5995922*): Acogida y primeros retos de algoritmia.
+- **`Actividad 1: Puesto de Informática y Primer Reto Lógico`** (*cmid: 5995923*): Organización de carpetas y entrega del reto (límite: domingo 20 de septiembre a las 23:59).
+- **`Evaluación Inicial: Cuestionario Diagnóstico de Robótica y Algoritmos`** (*cmid: 5995924*): Cuestionario diagnóstico descargable (límite: viernes 18 de septiembre a las 23:59).
+
+### 3. Semana 2 (14 sep - 20 sep)
+- **`Semana 2: Hoja de Ruta - Puesta a Punto del Taller y Reto Lógico`** (*cmid: 6102041*): Plan de trabajo presencial en el aula para explicar y completar en directo la Actividad 1 y el Cuestionario Inicial, con enlaces directos y reto extra de Scratch.
+
+---
+
+## 🗺️ PARTE 2: Distribución Temporal y Unidades de Aprendizaje
 
 ### 1ª Evaluación (Septiembre - Diciembre): Pensamiento Computacional y Videojuegos con Scratch
 * **Semana 1 (7-13 sep):** Bienvenida, código de aula, estructura de carpetas en LliureX y primeros retos lógicos visuales (*Lightbot / Hour of Code*).

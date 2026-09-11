@@ -31,8 +31,11 @@ Esta programación de aula concreta y operacionaliza la **Programación Didácti
 
 ### 2. Semana 1 (7 sep - 13 sep)
 - **`Semana 1: Hoja de Ruta - Desembarco en el Aula de Informática`** (*cmid: 5995784*): Acogida, normas de convivencia del laboratorio y creación de carpetas en LliureX y OneDrive.
-- **`Actividad 1: Crea tu Avatar Digital y Prepara tu Puesto`** (*cmid: 5995785*): Diseño de avatar sin fotos personales para el perfil de Aules y árbol de carpetas de 1º ESO (límite: domingo 13 de septiembre a las 23:59).
+- **`Actividad 1: Crea tu Avatar Digital y Prepara tu Puesto`** (*cmid: 5995785*): Diseño de avatar sin fotos personales para el perfil de Aules y árbol de carpetas de 1º ESO (límite: domingo 20 de septiembre a las 23:59).
 - **`Evaluación Inicial: Cuestionario de Hábitos y Convivencia Digital`** (*cmid: 5995786*): Tarea diagnóstica con archivo adjunto `cuestionario_inicial_trdr1.odt` para conocer dispositivos, horas de uso, teclado y pautas de convivencia ante el ciberbullying (límite: viernes 18 de septiembre a las 23:59).
+
+### 3. Semana 2 (14 sep - 20 sep)
+- **`Semana 2: Hoja de Ruta - Desembarco Práctico y Organización del Puesto`** (*cmid: 6102039*): Plan de trabajo presencial en el aula para explicar y completar en directo la Actividad 1 y el Cuestionario Inicial, con enlaces directos y reto extra de mecanografía en TypingClub.
 
 ---
 

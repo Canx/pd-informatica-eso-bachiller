@@ -30,9 +30,12 @@ Esta programación de aula concreta y operacionaliza la **Programación Didácti
 
 ### 2. Semana 1 (7 sep - 13 sep): Puesta a Punto y Diagnóstico
 - **`Semana 1: Hoja de Ruta y Puesto de Trabajo Digital`** (*cmid: 5995769*): Guía de aula para estructurar carpetas en LliureX y OneDrive institucional.
-- **`Actividad 1: Organización del Puesto de Trabajo Digital`** (*cmid: 5995770*): Entrega de captura de pantalla del árbol de directorios (límite: 13 de septiembre).
+- **`Actividad 1: Organización del Puesto de Trabajo Digital`** (*cmid: 5995770*): Entrega de captura de pantalla del árbol de directorios (límite: domingo 20 de septiembre a las 23:59).
 - **`Evaluación Inicial: Cuestionario Diagnóstico Digital`** (*cmid: 5995772*): Tarea formal con archivo adjunto editable `cuestionario_inicial_digitalizacion_4ESO.odt` adaptado con los datos de **IES Maria Carbonell i Sánchez** y ampliaciones de IA y Linux.
   - **Fecha de entrega:** Viernes, **18 de septiembre a las 23:59** (recogida previa a la junta del 21 de septiembre).
+
+### 3. Setmana 2 (14 sep - 20 sep): Posada a Punt del Lloc i Diagnòstic
+- **`Setmana 2: Full de Ruta - Organització del Sistema i Diagnòstic Digital`** (*cmid: 6102043*): Pla de treball presencial a l'aula per a explicar i realitzar en viu l'Activitat 1 i el Qüestionari Inicial, amb enllaços directes i repte d'ampliació d'auditoria de maquinari en terminal Linux (`lscpu`, `free -h`).
 
 ### 3. Programación Didáctica (Git)
 - Sincronizado en `pd-informatica-eso-bachiller`:
