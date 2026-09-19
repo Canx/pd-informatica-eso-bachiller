@@ -33,15 +33,15 @@ Esta programación de aula concreta y operacionaliza la **Programación Didácti
 
 ### 2. Semana 1 (7 sep - 13 sep)
 - **`Semana 1: Hoja de Ruta y Puesto de Desarrollo Digital`** (*cmid: 5995777*): Hoja de ruta semanal con objetivos de bienvenida y estructura recomendada de carpetas.
-- **`Activitat 1: Posada a Punt de l'Espai de Desenvolupament (DUA Multinivell)`** (*cmid: 5995778*): Estructura de carpetas en LliureX y verificación de Scratch 3 (Nivel Base hasta 8p) con reto builder de algoritmia modular o terminal (hasta 10p). Plazo ampliado: domingo 27 de septiembre a las 23:59.
+- **`Activitat 1: Posada a Punt de l'Espai de Desenvolupament (DUA Multinivell)`** (*cmid: 5995778*): Estructura de carpetes en LliureX i verificació de Scratch 3 amb suport visual DUA (infografia del gestor de fitxers, bloc d'Scratch de benvinguda, bloc modular amb paràmetres i drecera de teclat `Impr Pant`). Nivel Base fins a 8p, Repte Builder fins a 10p. Plazo ampliado: domingo 27 de septiembre a las 23:59.
 - **`Evaluación Inicial: Diagnóstico de Programación, IA y Robótica`** (*cmid: 5995779*): Tarea diagnóstica con documento descargable `cuestionario_inicial_piar3.odt` para evaluar antecedentes en Scratch, Python, robótica e IA sin penalización (entrega: viernes 18 de septiembre a las 23:59).
 
 ### 3. Setmana 2 (14 sep - 20 sep)
 - **`Setmana 2: Full de Ruta - Espai de Desenvolupament i Scratch Avançat`** (*cmid: 6102042*): Pla de treball presencial a l'aula per a explicar i realitzar en directe l'Activitat 1 i el Qüestionari Inicial, amb enllaços directes i repte d'ampliació d'algorísmia modular a Scratch.
 
 ### 4. Setmana 3 (21 sep - 27 sep)
-- **`Setmana 3: Full de Ruta - Algorísmia Modular i Blocs Propis en Scratch`** (*cmid: 6254765*): Pla de treball setmanal (sessions de dilluns i dimecres a INF3-B2-1), introducció al principi DRY i procediments modulars.
-- **`Activitat 2: Algorísmia Modular i Blocs Propis a Scratch 3.0 (DUA)`** (*cmid: 6254762*): Tasca avaluable de lliurament a Aules (Nivell Base fins a 8p amb paràmetres i almenys 3 invocacions; Repte Builder/PRO fins a 10p amb doble procediment o interactivitat). Termini: diumenge 4 d'octubre a les 23:59.
+- **`Setmana 3: Full de Ruta - Algorísmia Modular i Blocs Propis en Scratch`** (*cmid: 6254765*): Pla de treball setmanal (sessions de dilluns i dimecres a INF3-B2-1), introducció al principi DRY i procediments modulars amb previsualització interactiva de blocs Scratch (procediment de geometria i mecànica de salt).
+- **`Activitat 2: Algorísmia Modular i Blocs Propis a Scratch 3.0 (DUA)`** (*cmid: 6254762*): Tasca avaluable de lliurament a Aules dotada de suport multimodal DUA (infografia pas a pas de creació de blocs propis, definició de procediment reutilitzable amb paràmetres, invocació múltiple amb diferents colors/mides i exemple de videojoc). Nivell Base fins a 8p, Repte Builder/PRO fins a 10p. Termini: diumenge 4 d'octubre a les 23:59.
 
 ---
 
