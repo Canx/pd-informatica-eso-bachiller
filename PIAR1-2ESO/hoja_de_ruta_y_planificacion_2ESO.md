@@ -47,14 +47,19 @@ Esta programación de aula concreta y operacionaliza la **Programación Didácti
 - **`📽️ Presentación del Curso: Robótica y Creadores de Videojuegos (Diapositivas)`** (*cmid: 5995920*): Presentación interactiva en carrusel.
 - **`📖 Guía del Curso: Normas, Evaluación LOMLOE y Laboratorio`** (*cmid: 5995962*): Guía de convivencia y normas de laboratorio.
 - **`🔒 [DOCENTE] Programación de Aula: Planificación Anual y Fechas Clave`** (*cmid: 5995921*): Panel interno docente.
+- **`🔒 [DOCENTE] Informe Pedagógico y Diagnóstico Inicial del Grupo (2º ESO PIAR)`** (*cmid: 6236546*, recurso exclusivo docente): Diagnóstico de partida, mapa DUA y validación del enfoque visual por bloques.
 
 ### 2. Semana 1 (7 sep - 13 sep)
 - **`Semana 1: Hoja de Ruta - Desembarco en el Taller y Primeros Retos Lógicos`** (*cmid: 5995922*): Acogida y primeros retos de algoritmia.
-- **`Actividad 1: Puesto de Informática y Primer Reto Lógico`** (*cmid: 5995923*): Organización de carpetas y entrega del reto (límite: domingo 20 de septiembre a las 23:59).
+- **`Actividad 1: Puesto de Informática y Primer Reto Lógico (DUA Multinivel)`** (*cmid: 5995923*): Organización de carpetas y entrega guiada de Lightbot/Scratch (plazo ampliado con enfoque DUA: domingo 27 de septiembre a las 23:59).
 - **`Evaluación Inicial: Cuestionario Diagnóstico de Robótica y Algoritmos`** (*cmid: 5995924*): Cuestionario diagnóstico descargable (límite: viernes 18 de septiembre a las 23:59).
 
 ### 3. Semana 2 (14 sep - 20 sep)
 - **`Semana 2: Hoja de Ruta - Puesta a Punto del Taller y Reto Lógico`** (*cmid: 6102041*): Plan de trabajo presencial en el aula para explicar y completar en directo la Actividad 1 y el Cuestionario Inicial, con enlaces directos y reto extra de Scratch.
+
+### 4. Semana 3 (21 sep - 27 sep)
+- **`Semana 3: Hoja de Ruta - Scratch 3.0: Coordenadas y Personajes Interactivos`** (*cmid: 6254754*): Desembarco en Scratch 3.0 (plano cartesiano, coordenadas X e Y, control por eventos de teclado y animación mediante bucles y disfraces sucesivos) y cierre guiado de la Actividad 1.
+- **`Actividad 2: Mi Primer Personaje en Scratch: Coordenadas y Animación (DUA)`** (*cmid: 6254758*): Tarea evaluable de entrega en Aules (Nivel Base hasta 8p con 4 flechas y coordenadas; Reto Creadores/PRO hasta 10p con animación de disfraces y sonido). Plazo: domingo 4 de octubre a las 23:59.
 
 ---
 

@@ -27,17 +27,23 @@ Esta programación de aula concreta y operacionaliza la **Programación Didácti
   - **`📽️ Presentación del Curso: Laboratorio de Hacking Cívico (Diapositivas)`** (*cmid: 5995771*): Presentación interactiva con visor nativo y soporte pantalla completa.
   - **`📖 Guía del Curso: Normas, Evaluación LOMLOE y Laboratorio`** (*cmid: 5995960*): Guía de convivencia, rúbricas de aula y normas del laboratorio.
   - **`🔒 [DOCENTE] Programación de Aula: Planificación Anual y Fechas Clave`** (*cmid: 5995773*, recurso exclusivo docente): Panel interno unificado con repositorio GitHub, PDF de la PD, calendario oficial de sesiones y fechas límite de notas.
+  - **`🔒 [DOCENT] Informe Pedagògic i Diagnòstic Inicial del Grup (4t ESO)`** (*cmid: 6234649*, recurs exclusiu docent): Diagnòstic complet de matrícula, mapa d'alumnat DUA i adaptació curricular de partida.
 
 ### 2. Semana 1 (7 sep - 13 sep): Puesta a Punto y Diagnóstico
 - **`Semana 1: Hoja de Ruta y Puesto de Trabajo Digital`** (*cmid: 5995769*): Guía de aula para estructurar carpetas en LliureX y OneDrive institucional.
-- **`Actividad 1: Organización del Puesto de Trabajo Digital`** (*cmid: 5995770*): Entrega de captura de pantalla del árbol de directorios (límite: domingo 20 de septiembre a las 23:59).
+- **`Actividad 1: Auditoria de Maquinari i Organització del Lloc de Treball (DUA Multinivell)`** (*cmid: 5995770*): Lliurament de captura/text en línia de l'auditoria i estructura (termini ampliat amb enfocament DUA: diumenge 27 de setembre a les 23:59).
 - **`Evaluación Inicial: Cuestionario Diagnóstico Digital`** (*cmid: 5995772*): Tarea formal con archivo adjunto editable `cuestionario_inicial_digitalizacion_4ESO.odt` adaptado con los datos de **IES Maria Carbonell i Sánchez** y ampliaciones de IA y Linux.
   - **Fecha de entrega:** Viernes, **18 de septiembre a las 23:59** (recogida previa a la junta del 21 de septiembre).
 
 ### 3. Setmana 2 (14 sep - 20 sep): Posada a Punt del Lloc i Diagnòstic
 - **`Setmana 2: Full de Ruta - Organització del Sistema i Diagnòstic Digital`** (*cmid: 6102043*): Pla de treball presencial a l'aula per a explicar i realitzar en viu l'Activitat 1 i el Qüestionari Inicial, amb enllaços directes i repte d'ampliació d'auditoria de maquinari en terminal Linux (`lscpu`, `free -h`).
+- **`📽️ Diapositives Tema 1: Anatomia de la Màquina & Soberania del Maquinari`** (*cmid: 6235717*): Presentació interactiva nativa (Bootstrap 5 Carousel) amb 8 diapositives per a les explicacions a l'aula (Von Neumann, CPU, Jerarquia de Memòria, Placa Base, GPU, Calor i Comandos de Terminal).
 
-### 3. Programación Didáctica (Git)
+### 4. Setmana 3 (21 sep - 27 sep): CPU i Jerarquia de Memòria
+- **`Setmana 3: Full de Ruta - Arquitectura de la CPU i Jerarquia de Memòria`** (*cmid: 6254767*): Pla de treball setmanal (sessions de dilluns, dimecres i dijous a INF3-B2-1), anàlisi d'arquitectura de la CPU, freqüències, memòria cau L1-L3 i unitats d'emmagatzematge.
+- **`Activitat 2: Auditoria de la CPU i Jerarquia de Memòria a Linux (DUA)`** (*cmid: 6254766*): Tasca avaluable de lliurament a Aules (Nivell Base fins a 8p amb extracció justificada de CPU i RAM amb `lscpu` i `free -h`; Repte Hacker/PRO fins a 10p amb auditoria de disc `lsblk` i anàlisi de latències). Termini: diumenge 4 d'octubre a les 23:59.
+
+### 5. Programación Didáctica (Git)
 - Sincronizado en `pd-informatica-eso-bachiller`:
   - Miembros del departamento: Rubén Cancho y Ángeles Uclés (`comun/departamento.md`).
   - Calendario de evaluación con fechas de corte y Evaluación Inicial (`comun/calificacion.md`).
