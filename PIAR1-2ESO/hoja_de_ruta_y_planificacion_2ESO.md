@@ -51,7 +51,7 @@ Esta programación de aula concreta y operacionaliza la **Programación Didácti
 
 ### 2. Semana 1 (7 sep - 13 sep)
 - **`Semana 1: Hoja de Ruta - Desembarco en el Taller y Primeros Retos Lógicos`** (*cmid: 5995922*): Acogida y primeros retos de algoritmia.
-- **`Actividad 1: Puesto de Informática y Primer Reto Lógico (DUA Multinivel)`** (*cmid: 5995923*): Organización de carpetas y entrega guiada de Lightbot/Scratch (plazo ampliado con enfoque DUA: domingo 27 de septiembre a las 23:59).
+- **`Actividad 1: Puesto de Informática y Primer Reto Lógico (DUA Multinivel)`** (*cmid: 5995923*): Organización de carpetas y entrega guiada con soporte visual multimodal DUA (capturas paso a paso del gestor de archivos de LliureX, simbología de comandos Lightbot, guía de teclado Impr Pant y bloques Scratch; plazo ampliado con enfoque DUA: domingo 27 de septiembre a las 23:59).
 - **`Evaluación Inicial: Cuestionario Rápido de Robótica y Algoritmos (Test Online)`** (*cmid: 6254990*): Cuestionario interactivo ágil de 10 preguntas en Moodle (sin necesidad de LibreOffice) para rescate exprés en 5 minutos.
 - **`Evaluación Inicial: Cuestionario Diagnóstico de Robótica y Algoritmos (DUA)`** (*cmid: 5995924*): Tarea diagnóstica con opción dual DUA: responder test online rápido o subir la plantilla `.odt` completada (plazo ampliado: domingo 27 de septiembre a las 23:59).
 
