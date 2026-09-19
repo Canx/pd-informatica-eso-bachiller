@@ -32,14 +32,14 @@ Esta programación de aula concreta y operacionaliza la **Programación Didácti
 
 ### 2. Semana 1 (7 sep - 13 sep)
 - **`Semana 1: Hoja de Ruta - Desembarco en el Aula de Informática`** (*cmid: 5995784*): Acogida, normas de convivencia del laboratorio y creación de carpetas en LliureX y OneDrive.
-- **`Actividad 1: Crea tu Avatar Digital y Prepara tu Puesto`** (*cmid: 5995785*): Diseño de avatar sin fotos personales para el perfil de Aules y árbol de carpetas de 1º ESO (límite ampliado: domingo 27 de septiembre a las 23:59 con enfoque DUA multinivel).
+- **`Actividad 1: Crea tu Avatar Digital y Prepara tu Puesto (DUA)`** (*cmid: 5995785*): Diseño de avatar sin fotos personales para el perfil de Aules y árbol de carpetas de 1º ESO con soporte visual DUA completo (infografía de privacidad y seguridad digital, ventana de LliureX con estructura `misiones/` y `recursos/`, guía paso a paso de subida del avatar en Aules y chuleta de teclado `Impr Pant`). Límite ampliado: domingo 27 de septiembre a las 23:59.
 - **`Evaluación Inicial: Cuestionario de Hábitos y Convivencia Digital`** (*cmid: 5995786*): Tarea diagnóstica con archivo adjunto `cuestionario_inicial_trdr1.odt` para conocer dispositivos, horas de uso, teclado y pautas de convivencia ante el ciberbullying (límite: viernes 18 de septiembre a las 23:59).
 
 ### 3. Semana 2 (14 sep - 20 sep)
 - **`Semana 2: Hoja de Ruta - Desembarco Práctico y Organización del Puesto`** (*cmid: 6102039*): Plan de trabajo presencial en el aula para explicar y completar en directo la Actividad 1 y el Cuestionario Inicial, con enlaces directos y reto extra de mecanografía en TypingClub.
 
 ### 4. Semana 3 (21 sep - 27 sep)
-- **`Semana 3: Hoja de Ruta - Mi Avatar Digital y el Teclado Guía`** (*cmid: 6254413*): Hoja de ruta semanal con plan de vuelo guiado: Cuestionario Inicial Rápido en Aules, taller presencial paso a paso para crear el Avatar Digital y las carpetas de curso en LliureX, e iniciación a la mecanografía con TypingClub.
+- **`Semana 3: Hoja de Ruta - Mi Avatar Digital y el Teclado Guía`** (*cmid: 6254413*): Hoja de ruta semanal con plan de vuelo guiado y andamiaje visual DUA (infografía de privacidad, esquema de carpetas en LliureX, acceso directo al Cuestionario Rápido de 9 preguntas y taller presencial paso a paso de mecanografía y avatar).
 - **`Evaluación Inicial: Cuestionario Rápido de Hábitos y Convivencia Digital`** (*cmid: 6254387*): Cuestionario tipo test nativo en Aules con 9 preguntas interactivas para responder directamente con clics en 5-10 minutos en la sesión del lunes 21/09 sin descargas ni LibreOffice.
 
 ---
