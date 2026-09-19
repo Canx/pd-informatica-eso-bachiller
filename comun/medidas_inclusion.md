@@ -72,4 +72,14 @@ Se aplicará la metodología [DUA-A](https://portal.edu.gva.es/cefireinclusiva/e
     * Proveer listas de comprobación para comunicación y frases para colaborar, dar feedback y explicar el trabajo.
     * Incluir código inicial
 
+---
 
+## Concreción y Registro de Medidas para Alumnado NEAE (2026/2027)
+
+### Adaptaciones Metodológicas DUA (DAMP y Dislexia Profunda)
+* **Apoyo visual cromático en lugar de texto denso:** Uso preferente del código de colores nativo de Scratch (azul = movimiento, amarillo = eventos, naranja = control) y modelado en vivo en el proyector. Enunciados breves con viñetas claras.
+* **Control motor y percepción (DAMP):** Facilitar aumento de zoom en el lienzo de Scratch (lupa `+`) para arrastrar bloques con menor fatiga motriz. Ajustes de sensibilidad de ratón en LliureX.
+* **Secuenciación algorítmica:** Desglose de retos en micro-pasos con listas de verificación visuales (*checklists*).
+* **Ubicación y clima de aula:** Puesto preferente en primera fila con visibilidad directa al proyector y cercanía al profesor para supervisión y andamiaje discreto. Posibilidad de trabajo colaborativo con perfiles tractores del aula.
+* **Flexibilidad temporal:** Eliminación de penalizaciones por ritmo de ejecución y concesión del tiempo necesario para afianzar cada concepto.
+* **Coordinación docente:** Seguimiento alineado con el tutor del grupo, el departamento de Orientación / PT y comunicación fluida con la familia.
