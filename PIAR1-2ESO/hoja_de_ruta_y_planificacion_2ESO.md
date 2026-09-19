@@ -59,8 +59,8 @@ Esta programación de aula concreta y operacionaliza la **Programación Didácti
 - **`Semana 2: Hoja de Ruta - Puesta a Punto del Taller y Reto Lógico`** (*cmid: 6102041*): Plan de trabajo presencial en el aula para explicar y completar en directo la Actividad 1 y el Cuestionario Inicial, con enlaces directos y reto extra de Scratch.
 
 ### 4. Semana 3 (21 sep - 27 sep)
-- **`Semana 3: Hoja de Ruta - Scratch 3.0: Coordenadas y Personajes Interactivos`** (*cmid: 6254754*): Desembarco en Scratch 3.0 (plano cartesiano, coordenadas X e Y, control por eventos de teclado y animación mediante bucles y disfraces sucesivos), plan de rescate de la Evaluación Inicial (enlace a test online) y cierre guiado de la Actividad 1.
-- **`Actividad 2: Mi Primer Personaje en Scratch: Coordenadas y Animación (DUA)`** (*cmid: 6254758*): Tarea evaluable de entrega en Aules (Nivel Base hasta 8p con 4 flechas y coordenadas; Reto Creadores/PRO hasta 10p con animación de disfraces y sonido). Plazo: domingo 4 de octubre a las 23:59.
+- **`Semana 3: Hoja de Ruta - Scratch 3.0: Coordenadas y Personajes Interactivos`** (*cmid: 6254754*): Desembarco en Scratch 3.0 (plano cartesiano, coordenadas X e Y, control por eventos de teclado y animación mediante bucles y disfraces sucesivos con soporte visual de bloques), plan de rescate de la Evaluación Inicial (enlace a test online) y cierre guiado de la Actividad 1.
+- **`Actividad 2: Mi Primer Personaje en Scratch: Coordenadas y Animación (DUA)`** (*cmid: 6254758*): Tarea evaluable de entrega en Aules con diseño multimodal DUA (capturas integradas paso a paso con los bloques oficiales de Scratch 3.0 para soporte de dislexia y DAMP; Nivel Base hasta 8p con 4 flechas y coordenadas; Reto Creadores/PRO hasta 10p con animación de disfraces y sonido). Plazo: domingo 4 de octubre a las 23:59.
 
 ---
 
